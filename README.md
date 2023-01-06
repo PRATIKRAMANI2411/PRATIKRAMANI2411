@@ -24,4 +24,10 @@ const verseOfTheDay = Verse(
   <img src="https://views.whatilearened.today/views/github/PRATIKRAMANI2411/views.svg" />
 </p>
 
+<p align="center">
+  <a href="https://stackoverflow.com/users/20943800" target="_blank">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=20943800&theme=dark" alt="Pratik Ramani StackOverflow" /> 
+  </a>
+</p>
+
 
