@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 16,
-    shloka: "अनेकबाहूदरवक्त्रनेत्रंपश्यामि त्वां सर्वतोऽनन्तरूपम् |नान्तं न मध्यं न पुनस्तवादिंपश्यामि विश्वेश्वर विश्वरूप || 16||",
-    translation: "11.16: I see your infinite form in every direction, with countless arms, stomachs, faces, and eyes. O Lord of the universe, whose form is the universe itself, I do not see in you any beginning, middle, or end.",
-    hindi_translation: "11.16: मैं सभी दिशाओं में अनगिनत भुजाएँ, उदर, मुँह और आँखों के साथ आपके सर्वत्र फैले हुए अनंतरूप को देखता हूँ। हे ब्रह्माण्ड के स्वामी! आपका रूप अपने आप में अनंत है, मुझे आप में कोई आरम्भ, मध्य और अंत नहीं दिखता।",
+    chapter: 2,
+    verse: 65,
+    shloka: "प्रसादे सर्वदु:खानां हानिरस्योपजायते |प्रसन्नचेतसो ह्याशु बुद्धि: पर्यवतिष्ठते || 65||",
+    translation: "2.65: By divine grace comes the peace in which all sorrows end, and the intellect of such a person of tranquil mind soon becomes firmly established in God.",
+    hindi_translation: "2.65: भगवान की दिव्य कृपा से शांति प्राप्त होती है जिससे सभी दुखों का अन्त हो जाता है और ऐसे शांत मन वाले मनुष्य की बुद्धि दृढ़ता से भगवान में स्थिर हो जाती है।",
 );
 ```
 <p align="center">
