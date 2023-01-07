@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 65,
-    shloka: "प्रसादे सर्वदु:खानां हानिरस्योपजायते |प्रसन्नचेतसो ह्याशु बुद्धि: पर्यवतिष्ठते || 65||",
-    translation: "2.65: By divine grace comes the peace in which all sorrows end, and the intellect of such a person of tranquil mind soon becomes firmly established in God.",
-    hindi_translation: "2.65: भगवान की दिव्य कृपा से शांति प्राप्त होती है जिससे सभी दुखों का अन्त हो जाता है और ऐसे शांत मन वाले मनुष्य की बुद्धि दृढ़ता से भगवान में स्थिर हो जाती है।",
+    chapter: 18,
+    verse: 1,
+    shloka: "अर्जुन उवाच |सन्न्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् |त्यागस्य च हृषीकेश पृथक्केशिनिषूदन || 1||",
+    translation: "18.1: Arjun said: O mighty-armed Krishna, I wish to understand the nature of sanyās (renunciation of actions) and tyāg (renunciation of the desire for the fruits of actions). O Hrishikesh, I also wish to know the distinction between the two, O Keshinisudan.",
+    hindi_translation: "18.1: अर्जुन ने कहा-हे महाबाहु। मैं संन्यास और त्याग की प्रकृति के संबंध में जानना चाहता हूँ। हे केशिनिषूदन, हे हृषिकेश! मैं दोनों के बीच का भेद जानने का भी इच्छुक हूँ।",
 );
 ```
 <p align="center">
