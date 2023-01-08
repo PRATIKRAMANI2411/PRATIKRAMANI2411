@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 1,
-    shloka: "अर्जुन उवाच |सन्न्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् |त्यागस्य च हृषीकेश पृथक्केशिनिषूदन || 1||",
-    translation: "18.1: Arjun said: O mighty-armed Krishna, I wish to understand the nature of sanyās (renunciation of actions) and tyāg (renunciation of the desire for the fruits of actions). O Hrishikesh, I also wish to know the distinction between the two, O Keshinisudan.",
-    hindi_translation: "18.1: अर्जुन ने कहा-हे महाबाहु। मैं संन्यास और त्याग की प्रकृति के संबंध में जानना चाहता हूँ। हे केशिनिषूदन, हे हृषिकेश! मैं दोनों के बीच का भेद जानने का भी इच्छुक हूँ।",
+    chapter: 3,
+    verse: 16,
+    shloka: "एवं प्रवर्तितं चक्रं नानुवर्तयतीह य: |अघायुरिन्द्रियारामो मोघं पार्थ स जीवति || 16||",
+    translation: "3.16: O Parth, those who do not accept their responsibility in the cycle of sacrifice established by the Vedas are sinful. They live only for the delight of their senses; indeed their lives are in vain.",
+    hindi_translation: "3.16: हे पार्थ! जो मनुष्य वेदों द्वारा स्थापित यज्ञ कर्म के चक्र का पालन करने के अपने दायित्व का निर्वाहन नहीं करते, वे पाप अर्जित करते हैं, वे केवल अपनी इन्द्रियों की तृप्ति के लिए जीवित रहते हैं, वास्तव में उनका जीवन व्यर्थ ही है।",
 );
 ```
 <p align="center">
