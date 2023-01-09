@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 16,
-    shloka: "एवं प्रवर्तितं चक्रं नानुवर्तयतीह य: |अघायुरिन्द्रियारामो मोघं पार्थ स जीवति || 16||",
-    translation: "3.16: O Parth, those who do not accept their responsibility in the cycle of sacrifice established by the Vedas are sinful. They live only for the delight of their senses; indeed their lives are in vain.",
-    hindi_translation: "3.16: हे पार्थ! जो मनुष्य वेदों द्वारा स्थापित यज्ञ कर्म के चक्र का पालन करने के अपने दायित्व का निर्वाहन नहीं करते, वे पाप अर्जित करते हैं, वे केवल अपनी इन्द्रियों की तृप्ति के लिए जीवित रहते हैं, वास्तव में उनका जीवन व्यर्थ ही है।",
+    chapter: 11,
+    verse: 47,
+    shloka: "श्रीभगवानुवाच |मया प्रसन्नेन तवार्जुनेदंरूपं परं दर्शितमात्मयोगात् |तेजोमयं विश्वमनन्तमाद्यंयन्मे त्वदन्येन न दृष्टपूर्वम् || 47||",
+    translation: "11.47: The Blessed Lord said: Arjun, being pleased with you, by my Yogmaya power, I gave you a vision of my resplendent, unlimited, and primeval cosmic form. No one before you has ever seen it.",
+    hindi_translation: "11.47: आनन्दमयी भगवान ने कहा-हे अर्जुन! तुम पर प्रसन्न होकर मैनें अपनी योगमाया शक्ति द्वारा तुम्हें अपना दीप्तिमान अनन्त और आदि विश्व रूप दिखाया। तुमसे पहले किसी ने मेरे इस विराट रूप को नहीं देखा।",
 );
 ```
 <p align="center">
