@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 11,
-    verse: 47,
-    shloka: "श्रीभगवानुवाच |मया प्रसन्नेन तवार्जुनेदंरूपं परं दर्शितमात्मयोगात् |तेजोमयं विश्वमनन्तमाद्यंयन्मे त्वदन्येन न दृष्टपूर्वम् || 47||",
-    translation: "11.47: The Blessed Lord said: Arjun, being pleased with you, by my Yogmaya power, I gave you a vision of my resplendent, unlimited, and primeval cosmic form. No one before you has ever seen it.",
-    hindi_translation: "11.47: आनन्दमयी भगवान ने कहा-हे अर्जुन! तुम पर प्रसन्न होकर मैनें अपनी योगमाया शक्ति द्वारा तुम्हें अपना दीप्तिमान अनन्त और आदि विश्व रूप दिखाया। तुमसे पहले किसी ने मेरे इस विराट रूप को नहीं देखा।",
+    verse: 18,
+    shloka: "त्वमक्षरं परमं वेदितव्यंत्वमस्य विश्वस्य परं निधानम् |त्वमव्यय: शाश्वतधर्मगोप्तासनातनस्त्वं पुरुषो मतो मे || 18||",
+    translation: "11.18: I recognize you as the supreme imperishable being, the ultimate truth to be known by the scriptures. You are the support of all creation; you are the eternal protector of sanātan dharma (the eternal religion); and you are the everlasting Supreme Divine Personality.",
+    hindi_translation: "11.18: मैं आपको परम अविनाशी मानता हूँ। आप ही धार्मिक ग्रंथों द्वारा ज्ञात होने वाले परम सत्य हो। आप समस्त सृष्टि के परम आधार हो और सनातन धर्म के नित्य पालक और रक्षक हो और अविनाशी परम प्रभु हो।",
 );
 ```
 <p align="center">
