@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 18,
-    shloka: "त्वमक्षरं परमं वेदितव्यंत्वमस्य विश्वस्य परं निधानम् |त्वमव्यय: शाश्वतधर्मगोप्तासनातनस्त्वं पुरुषो मतो मे || 18||",
-    translation: "11.18: I recognize you as the supreme imperishable being, the ultimate truth to be known by the scriptures. You are the support of all creation; you are the eternal protector of sanātan dharma (the eternal religion); and you are the everlasting Supreme Divine Personality.",
-    hindi_translation: "11.18: मैं आपको परम अविनाशी मानता हूँ। आप ही धार्मिक ग्रंथों द्वारा ज्ञात होने वाले परम सत्य हो। आप समस्त सृष्टि के परम आधार हो और सनातन धर्म के नित्य पालक और रक्षक हो और अविनाशी परम प्रभु हो।",
+    chapter: 4,
+    verse: 14,
+    shloka: "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा |इति मां योऽभिजानाति कर्मभिर्न स बध्यते || 14||",
+    translation: "4.14: Activities do not taint me, nor do I desire the fruits of action. One who knows me in this way is never bound by the karmic reactions of work.",
+    hindi_translation: "4.14: न तो कर्म मुझे दूषित करते हैं और न ही मैं कर्म के फल की कामना करता हूँ जो मेरे इस स्वरूप को जानता है वह कभी कर्मफलों के बंधन में नहीं पड़ता।",
 );
 ```
 <p align="center">
