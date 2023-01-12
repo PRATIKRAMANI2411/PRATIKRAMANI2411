@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 14,
-    shloka: "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा |इति मां योऽभिजानाति कर्मभिर्न स बध्यते || 14||",
-    translation: "4.14: Activities do not taint me, nor do I desire the fruits of action. One who knows me in this way is never bound by the karmic reactions of work.",
-    hindi_translation: "4.14: न तो कर्म मुझे दूषित करते हैं और न ही मैं कर्म के फल की कामना करता हूँ जो मेरे इस स्वरूप को जानता है वह कभी कर्मफलों के बंधन में नहीं पड़ता।",
+    chapter: 6,
+    verse: 39,
+    shloka: "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषत: |त्वदन्य: संशयस्यास्य छेत्ता न ह्युपपद्यते || 39||",
+    translation: "6.39: O Krishna, please dispel this doubt of mine completely, for who other than you can do so?",
+    hindi_translation: "6.39: हे कृष्ण! कृपया मेरे इस सन्देह का पूर्ण निवारण करें क्योंकि आपके अतिरिक्त कोई अन्य नहीं है जो ऐसा कर सके।",
 );
 ```
 <p align="center">
