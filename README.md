@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 39,
-    shloka: "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषत: |त्वदन्य: संशयस्यास्य छेत्ता न ह्युपपद्यते || 39||",
-    translation: "6.39: O Krishna, please dispel this doubt of mine completely, for who other than you can do so?",
-    hindi_translation: "6.39: हे कृष्ण! कृपया मेरे इस सन्देह का पूर्ण निवारण करें क्योंकि आपके अतिरिक्त कोई अन्य नहीं है जो ऐसा कर सके।",
+    chapter: 18,
+    verse: 35,
+    shloka: "यया स्वप्नं भयं शोकं विषादं मदमेव च |न विमुञ्चति दुर्मेधा धृति: सा पार्थ तामसी || 35||",
+    translation: "18.35: That unintelligent resolve is said to be determination in the mode of ignorance, in which one does not give up dreaming, fearing, grieving, despair, and conceit.",
+    hindi_translation: "18.35: दर्बद्धिपूर्ण संकल्प जिसमें कोई स्वप्न देखने, भय, दुख, मोह, निराशा और कपट का त्याग नहीं करता उसे तमोगुणी घृति कहा जाता है।",
 );
 ```
 <p align="center">
