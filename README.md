@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 35,
-    shloka: "यया स्वप्नं भयं शोकं विषादं मदमेव च |न विमुञ्चति दुर्मेधा धृति: सा पार्थ तामसी || 35||",
-    translation: "18.35: That unintelligent resolve is said to be determination in the mode of ignorance, in which one does not give up dreaming, fearing, grieving, despair, and conceit.",
-    hindi_translation: "18.35: दर्बद्धिपूर्ण संकल्प जिसमें कोई स्वप्न देखने, भय, दुख, मोह, निराशा और कपट का त्याग नहीं करता उसे तमोगुणी घृति कहा जाता है।",
+    chapter: 4,
+    verse: 27,
+    shloka: "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे |आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते || 27||",
+    translation: "4.27: Some, inspired by knowledge, offer the functions of all their senses and their life energy in the fire of the controlled mind.",
+    hindi_translation: "4.27: दिव्य ज्ञान से प्रेरित होकर कुछ योगी संयमित मन की अग्नि में अपनी समस्त इन्द्रियों की क्रियाओं और प्राण शक्ति को भस्म कर देते हैं।",
 );
 ```
 <p align="center">
