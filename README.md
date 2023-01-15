@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 27,
-    shloka: "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे |आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते || 27||",
-    translation: "4.27: Some, inspired by knowledge, offer the functions of all their senses and their life energy in the fire of the controlled mind.",
-    hindi_translation: "4.27: दिव्य ज्ञान से प्रेरित होकर कुछ योगी संयमित मन की अग्नि में अपनी समस्त इन्द्रियों की क्रियाओं और प्राण शक्ति को भस्म कर देते हैं।",
+    chapter: 18,
+    verse: 8,
+    shloka: "दु:खमित्येव यत्कर्म कायक्लेशभयात्यजेत् |स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् || 8||",
+    translation: "18.8: To give up prescribed duties because they are troublesome or cause bodily discomfort is renunciation in the mode of passion. Such renunciation is never beneficial or elevating.",
+    hindi_translation: "18.8: नियत कर्त्तव्यों को कष्टप्रद और शरीर को व्यथा देने का कारण समझकर किया गया त्याग रजोगुणी कहलाता है। ऐसा त्याग कभी लाभदायक और उन्नत करने वाला नहीं होता।",
 );
 ```
 <p align="center">
