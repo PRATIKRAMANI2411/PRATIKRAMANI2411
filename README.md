@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 8,
-    shloka: "दु:खमित्येव यत्कर्म कायक्लेशभयात्यजेत् |स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् || 8||",
-    translation: "18.8: To give up prescribed duties because they are troublesome or cause bodily discomfort is renunciation in the mode of passion. Such renunciation is never beneficial or elevating.",
-    hindi_translation: "18.8: नियत कर्त्तव्यों को कष्टप्रद और शरीर को व्यथा देने का कारण समझकर किया गया त्याग रजोगुणी कहलाता है। ऐसा त्याग कभी लाभदायक और उन्नत करने वाला नहीं होता।",
+    chapter: 10,
+    verse: 35,
+    shloka: "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् |मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकर: || 35||",
+    translation: "10.35: Amongst the hymns in the Sāma Veda know me to be the Brihatsama; amongst poetic meters I am the Gayatri. Of the twelve months of the Hindu calendar I am Margsheersh, and of seasons I am spring, which brings forth flowers.",
+    hindi_translation: "10.35: सामवेद के गीतों में मुझे बृहत्साम और छन्दों में मुझे गायत्री मन्त्र समझो। मैं बारह मासों में मार्ग शीर्ष और ऋतुओं में पुष्प खिलाने वाली वसन्त ऋतु हूँ।",
 );
 ```
 <p align="center">
