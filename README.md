@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 35,
-    shloka: "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् |मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकर: || 35||",
-    translation: "10.35: Amongst the hymns in the Sāma Veda know me to be the Brihatsama; amongst poetic meters I am the Gayatri. Of the twelve months of the Hindu calendar I am Margsheersh, and of seasons I am spring, which brings forth flowers.",
-    hindi_translation: "10.35: सामवेद के गीतों में मुझे बृहत्साम और छन्दों में मुझे गायत्री मन्त्र समझो। मैं बारह मासों में मार्ग शीर्ष और ऋतुओं में पुष्प खिलाने वाली वसन्त ऋतु हूँ।",
+    chapter: 2,
+    verse: 61,
+    shloka: "तानि सर्वाणि संयम्य युक्त आसीत मत्पर: |वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता || 61||",
+    translation: "2.61: They are established in perfect knowledge, who subdue their senses and keep their minds ever absorbed in me.",
+    hindi_translation: "2.61: वे जो अपनी इन्द्रियों को वश में कर लेते हैं और अपने मन को मुझमें स्थिर कर देते हैं, वे दिव्य ज्ञान में स्थित होते हैं।",
 );
 ```
 <p align="center">
