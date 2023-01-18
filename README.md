@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 61,
-    shloka: "तानि सर्वाणि संयम्य युक्त आसीत मत्पर: |वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता || 61||",
-    translation: "2.61: They are established in perfect knowledge, who subdue their senses and keep their minds ever absorbed in me.",
-    hindi_translation: "2.61: वे जो अपनी इन्द्रियों को वश में कर लेते हैं और अपने मन को मुझमें स्थिर कर देते हैं, वे दिव्य ज्ञान में स्थित होते हैं।",
+    chapter: 3,
+    verse: 17,
+    shloka: "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानव: |आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते || 17||",
+    translation: "3.17: But those who rejoice in the self, who are illumined and fully satisfied in the self, for them, there is no duty.",
+    hindi_translation: "3.17: लेकिन जो मनुष्य आत्मानंद में स्थित रहते हैं तथा जो प्रबुद्ध और पूर्णतया आत्म संतुष्ट होते हैं, उनके लिए कोई नियत कर्त्तव्य नहीं होता।",
 );
 ```
 <p align="center">
