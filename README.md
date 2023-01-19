@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 17,
-    shloka: "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानव: |आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते || 17||",
-    translation: "3.17: But those who rejoice in the self, who are illumined and fully satisfied in the self, for them, there is no duty.",
-    hindi_translation: "3.17: लेकिन जो मनुष्य आत्मानंद में स्थित रहते हैं तथा जो प्रबुद्ध और पूर्णतया आत्म संतुष्ट होते हैं, उनके लिए कोई नियत कर्त्तव्य नहीं होता।",
+    chapter: 2,
+    verse: 60,
+    shloka: "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चित: |इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मन: || 60||",
+    translation: "2.60: The senses are so strong and turbulent, O son of Kunti, that they can forcibly carry away the mind even of a person endowed with discrimination who practices self-control.",
+    hindi_translation: "2.60: हे कुन्ति पुत्र! इन्द्रियाँ इतनी प्रबल और अशान्त होती है कि वे विवेकशील और आत्म नियंत्रण का अभ्यास करने वाले मनुष्य के मन को भी अपने वश में कर लेती है।",
 );
 ```
 <p align="center">
