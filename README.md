@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 60,
-    shloka: "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चित: |इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मन: || 60||",
-    translation: "2.60: The senses are so strong and turbulent, O son of Kunti, that they can forcibly carry away the mind even of a person endowed with discrimination who practices self-control.",
-    hindi_translation: "2.60: हे कुन्ति पुत्र! इन्द्रियाँ इतनी प्रबल और अशान्त होती है कि वे विवेकशील और आत्म नियंत्रण का अभ्यास करने वाले मनुष्य के मन को भी अपने वश में कर लेती है।",
+    chapter: 9,
+    verse: 5,
+    shloka: "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् |भूतभृन्न च भूतस्थो ममात्मा भूतभावन: || 5||",
+    translation: "9.5: And yet, the living beings do not abide in Me. Behold the mystery of My divine energy! Although I am the Creator and Sustainer of all living beings, I am not influenced by them or by material nature.",
+    hindi_translation: "9.5: मेरी दिव्य शक्तियों के रहस्य को देखो। यद्यपि मैं सभी जीवित प्राणियों का रचयिता और पालक हूँ तथापि मेरे द्वारा उत्पन्न प्राणी मुझमें स्थित नहीं रहते और मैं उनसे या प्राकृतिक शक्ति से प्रभावित नहीं होता।",
 );
 ```
 <p align="center">
