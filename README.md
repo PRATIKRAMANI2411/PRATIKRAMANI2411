@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 5,
-    shloka: "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् |भूतभृन्न च भूतस्थो ममात्मा भूतभावन: || 5||",
-    translation: "9.5: And yet, the living beings do not abide in Me. Behold the mystery of My divine energy! Although I am the Creator and Sustainer of all living beings, I am not influenced by them or by material nature.",
-    hindi_translation: "9.5: मेरी दिव्य शक्तियों के रहस्य को देखो। यद्यपि मैं सभी जीवित प्राणियों का रचयिता और पालक हूँ तथापि मेरे द्वारा उत्पन्न प्राणी मुझमें स्थित नहीं रहते और मैं उनसे या प्राकृतिक शक्ति से प्रभावित नहीं होता।",
+    chapter: 4,
+    verse: 26,
+    shloka: "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति |शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति || 26||",
+    translation: "4.26: Others offer hearing and other senses in the sacrificial fire of restraint. Still others offer sound and other objects of the senses as sacrifice in the fire of the senses.",
+    hindi_translation: "4.26: कुछ योगीजन श्रवणादि क्रियाओं और अन्य इन्द्रियों को संयमरूपी यज्ञ की अग्नि में स्वाहा कर देते हैं और जबकि कुछ अन्य शब्दादि क्रियाओं और इन्द्रियों के अन्य विषयों को इन्द्रियों के अग्निरूपी यज्ञ में भेंट चढ़ा देते हैं।",
 );
 ```
 <p align="center">
