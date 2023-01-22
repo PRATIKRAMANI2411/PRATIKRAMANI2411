@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 26,
-    shloka: "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति |शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति || 26||",
-    translation: "4.26: Others offer hearing and other senses in the sacrificial fire of restraint. Still others offer sound and other objects of the senses as sacrifice in the fire of the senses.",
-    hindi_translation: "4.26: कुछ योगीजन श्रवणादि क्रियाओं और अन्य इन्द्रियों को संयमरूपी यज्ञ की अग्नि में स्वाहा कर देते हैं और जबकि कुछ अन्य शब्दादि क्रियाओं और इन्द्रियों के अन्य विषयों को इन्द्रियों के अग्निरूपी यज्ञ में भेंट चढ़ा देते हैं।",
+    chapter: 5,
+    verse: 13,
+    shloka: "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी |नवद्वारे पुरे देही नैव कुर्वन्न कारयन् || 13||",
+    translation: "5.13: The embodied beings who are self-controlled and detached reside happily in the city of nine gates free from thoughts that they are the doers or the cause of anything.",
+    hindi_translation: "5.13: जो देहधारी जीव आत्मनियंत्रित एवं निरासक्त होते हैं, नौ द्वार वाले भौतिक शरीर में भी वे सुखपूर्वक रहते हैं क्योंकि वे स्वयं को कर्त्ता या किसी कार्य का कारण मानने के विचार से मुक्त होते हैं।",
 );
 ```
 <p align="center">
