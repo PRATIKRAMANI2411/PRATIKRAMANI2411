@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 13,
-    shloka: "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी |नवद्वारे पुरे देही नैव कुर्वन्न कारयन् || 13||",
-    translation: "5.13: The embodied beings who are self-controlled and detached reside happily in the city of nine gates free from thoughts that they are the doers or the cause of anything.",
-    hindi_translation: "5.13: जो देहधारी जीव आत्मनियंत्रित एवं निरासक्त होते हैं, नौ द्वार वाले भौतिक शरीर में भी वे सुखपूर्वक रहते हैं क्योंकि वे स्वयं को कर्त्ता या किसी कार्य का कारण मानने के विचार से मुक्त होते हैं।",
+    chapter: 16,
+    verse: 4,
+    shloka: "दम्भो दर्पोऽभिमानश्च क्रोध: पारुष्यमेव च |अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् || 4||",
+    translation: "16.4: O Parth, the qualities of those who possess a demoniac nature are hypocrisy, arrogance, conceit, anger, harshness, and ignorance.",
+    hindi_translation: "16.4: हे पार्थ! पाखण्ड, दम्भ, अभिमान, क्रोध, निष्ठुरता और अज्ञानता आसुरी प्रकृति वाले लोगों के गुण हैं।",
 );
 ```
 <p align="center">
