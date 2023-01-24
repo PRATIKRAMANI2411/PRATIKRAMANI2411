@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 4,
-    shloka: "दम्भो दर्पोऽभिमानश्च क्रोध: पारुष्यमेव च |अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् || 4||",
-    translation: "16.4: O Parth, the qualities of those who possess a demoniac nature are hypocrisy, arrogance, conceit, anger, harshness, and ignorance.",
-    hindi_translation: "16.4: हे पार्थ! पाखण्ड, दम्भ, अभिमान, क्रोध, निष्ठुरता और अज्ञानता आसुरी प्रकृति वाले लोगों के गुण हैं।",
+    chapter: 13,
+    verse: 33,
+    shloka: "यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते |सर्वत्रावस्थितो देहे तथात्मा नोपलिप्यते || 33||",
+    translation: "13.33: Space holds everything within it, but being subtle, does not get contaminated by what it holds. Similarly, though its consciousness pervades the body, the soul is not affected by the attributes of the body.",
+    hindi_translation: "13.33: अंतरिक्ष सबको अपने में धारण कर लेता है लेकिन सूक्ष्म होने के कारण जिसे यह धारण किए रहता है उसमें लिप्त नहीं होता। इसी प्रकार से यद्यपि आत्मा चेतना के रूप में पूरे शरीर में व्याप्त रहती है फिर भी आत्मा शरीर के धर्म से प्रभावित नहीं होती।",
 );
 ```
 <p align="center">
