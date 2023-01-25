@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 33,
-    shloka: "यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते |सर्वत्रावस्थितो देहे तथात्मा नोपलिप्यते || 33||",
-    translation: "13.33: Space holds everything within it, but being subtle, does not get contaminated by what it holds. Similarly, though its consciousness pervades the body, the soul is not affected by the attributes of the body.",
-    hindi_translation: "13.33: अंतरिक्ष सबको अपने में धारण कर लेता है लेकिन सूक्ष्म होने के कारण जिसे यह धारण किए रहता है उसमें लिप्त नहीं होता। इसी प्रकार से यद्यपि आत्मा चेतना के रूप में पूरे शरीर में व्याप्त रहती है फिर भी आत्मा शरीर के धर्म से प्रभावित नहीं होती।",
+    chapter: 7,
+    verse: 25,
+    shloka: "नाहं प्रकाश: सर्वस्य योगमायासमावृत: |मूढोऽयं नाभिजानाति लोको मामजमव्ययम् || 25||",
+    translation: "7.25: I am not manifest to everyone, being veiled by My divine Yogmaya energy. Hence, those without knowledge do not know that I am without birth and changeless.",
+    hindi_translation: "7.25: मैं सभी के लिए प्रकट नहीं हूँ क्योंकि सब मेरी अंतरंग शक्ति 'योगमाया' द्वारा आच्छादित रहते हैं इसलिए मूर्ख और अज्ञानी लोग यह नहीं जानते कि मैं अजन्मा और अविनाशी हूँ।",
 );
 ```
 <p align="center">
