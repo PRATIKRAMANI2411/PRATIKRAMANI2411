@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 25,
-    shloka: "नाहं प्रकाश: सर्वस्य योगमायासमावृत: |मूढोऽयं नाभिजानाति लोको मामजमव्ययम् || 25||",
-    translation: "7.25: I am not manifest to everyone, being veiled by My divine Yogmaya energy. Hence, those without knowledge do not know that I am without birth and changeless.",
-    hindi_translation: "7.25: मैं सभी के लिए प्रकट नहीं हूँ क्योंकि सब मेरी अंतरंग शक्ति 'योगमाया' द्वारा आच्छादित रहते हैं इसलिए मूर्ख और अज्ञानी लोग यह नहीं जानते कि मैं अजन्मा और अविनाशी हूँ।",
+    chapter: 10,
+    verse: 15,
+    shloka: "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम |भूतभावन भूतेश देवदेव जगत्पते || 15||",
+    translation: "10.15: Indeed, you alone know yourself by your inconceivable energy, O Supreme Personality, the Creator and Lord of all beings, the God of gods, and the Lord of the universe!",
+    hindi_translation: "10.15: हे परम पुरुषोत्तम। आप सभी जीवों के उदगम् और स्वामी हैं, देवों के देव और ब्रह्माण्ड नायक हैं। वास्तव में केवल आप अकेले ही अपनी अचिंतनीय शक्ति से स्वयं को जानने वाले हो।",
 );
 ```
 <p align="center">
