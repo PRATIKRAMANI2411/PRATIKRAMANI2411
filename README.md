@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 29,
-    shloka: "प्रकृतेर्गुणसम्मूढा: सज्जन्ते गुणकर्मसु |तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् || 29||",
-    translation: "3.29: Those who are deluded by the operation of the guṇas become attached to the results of their actions. But the wise who understand these truths should not unsettle such ignorant people who know very little.",
-    hindi_translation: "3.29: वे मनुष्य जो प्रकृति के गुणों के प्रभाव से मोहित होकर फल प्राप्ति की कामना के साथ अपने कर्म करते हैं लेकिन बुद्धिमान पुरुष जो इस परम सत्य को जानते हैं, उन्हें ऐसे अज्ञानी लोगों को विचलित नहीं करना चाहिए जिनका ज्ञान अल्प होता है।",
+    chapter: 10,
+    verse: 23,
+    shloka: "रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् |वसूनां पावकश्चास्मि मेरु: शिखरिणामहम् || 23||",
+    translation: "10.23: Amongst the rudras know me to be Shankar; amongst the demons I am Kuber. I am Agni amongst the vasus and Meru amongst the mountains.",
+    hindi_translation: "10.23: रुद्रों में मुझे शंकर जानो, यक्षों में मैं कुबेर हूँ, वसुओं में मैं अग्नि हूँ और पर्वतों में मेरु हूँ।",
 );
 ```
 <p align="center">
