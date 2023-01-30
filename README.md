@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 3,
-    verse: 29,
-    shloka: "प्रकृतेर्गुणसम्मूढा: सज्जन्ते गुणकर्मसु |तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् || 29||",
-    translation: "3.29: Those who are deluded by the operation of the guṇas become attached to the results of their actions. But the wise who understand these truths should not unsettle such ignorant people who know very little.",
-    hindi_translation: "3.29: वे मनुष्य जो प्रकृति के गुणों के प्रभाव से मोहित होकर फल प्राप्ति की कामना के साथ अपने कर्म करते हैं लेकिन बुद्धिमान पुरुष जो इस परम सत्य को जानते हैं, उन्हें ऐसे अज्ञानी लोगों को विचलित नहीं करना चाहिए जिनका ज्ञान अल्प होता है।",
+    verse: 9,
+    shloka: "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धन: |तदर्थं कर्म कौन्तेय मुक्तसङ्ग: समाचर || 9||",
+    translation: "3.9: Work must be done as a yajña (sacrifice) to the Supreme Lord; otherwise, work causes bondage in this material world. Therefore, O son of Kunti, for the satisfaction of God, perform your prescribed duties, without being attached to the results.",
+    hindi_translation: "3.9: परमात्मा के लिए यज्ञ के रूप में कर्मों का निष्पादन करना चाहिए अन्यथा कर्म इस भौतिक संसार में बंधन का कारण बनेंगे। इसलिए हे कुन्ति पुत्र! भगवान के सुख के लिए और फल की आसक्ति के बिना अपने नियत कर्म करो।",
 );
 ```
 <p align="center">
