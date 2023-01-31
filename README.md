@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 9,
-    shloka: "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धन: |तदर्थं कर्म कौन्तेय मुक्तसङ्ग: समाचर || 9||",
-    translation: "3.9: Work must be done as a yajña (sacrifice) to the Supreme Lord; otherwise, work causes bondage in this material world. Therefore, O son of Kunti, for the satisfaction of God, perform your prescribed duties, without being attached to the results.",
-    hindi_translation: "3.9: परमात्मा के लिए यज्ञ के रूप में कर्मों का निष्पादन करना चाहिए अन्यथा कर्म इस भौतिक संसार में बंधन का कारण बनेंगे। इसलिए हे कुन्ति पुत्र! भगवान के सुख के लिए और फल की आसक्ति के बिना अपने नियत कर्म करो।",
+    chapter: 18,
+    verse: 23,
+    shloka: "नियतं सङ्गरहितमरागद्वेषत: कृतम् |अफलप्रेप्सुना कर्म यतत्सात्त्विकमुच्यते || 23||",
+    translation: "18.23: Action that is in accordance with the scriptures, which is free from attachment and aversion, and which is done without desire for rewards, is in the mode of goodness.",
+    hindi_translation: "18.23: जो कर्म शास्त्रों के अनुमोदन के अनुसार है, राग और द्वेष की भावना से रहित और फल की कामना के बिना संपन्न किया जाता है, वह सत्वगुण प्रकृति का होता है।",
 );
 ```
 <p align="center">
