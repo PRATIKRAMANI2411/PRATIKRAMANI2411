@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 23,
-    shloka: "नियतं सङ्गरहितमरागद्वेषत: कृतम् |अफलप्रेप्सुना कर्म यतत्सात्त्विकमुच्यते || 23||",
-    translation: "18.23: Action that is in accordance with the scriptures, which is free from attachment and aversion, and which is done without desire for rewards, is in the mode of goodness.",
-    hindi_translation: "18.23: जो कर्म शास्त्रों के अनुमोदन के अनुसार है, राग और द्वेष की भावना से रहित और फल की कामना के बिना संपन्न किया जाता है, वह सत्वगुण प्रकृति का होता है।",
+    chapter: 1,
+    verse: 28,
+    shloka: "अर्जुन उवाच |दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् || 28||सीदन्ति मम गात्राणि मुखं च परिशुष्यति |",
+    translation: "1.28: Arjun said: O Krishna, seeing my own kinsmen arrayed for battle here and intent on killing each other, my limbs are giving way and my mouth is drying up.",
+    hindi_translation: "1.28: अर्जुन ने कहा! हे कृष्ण! युद्ध करने की इच्छा से एक दूसरे का वध करने के लिए यहाँ अपने वंशजों को देखकर मेरे शरीर के अंग कांप रहे हैं और मेरा मुंह सूख रहा है।",
 );
 ```
 <p align="center">
