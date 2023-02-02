@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 28,
-    shloka: "अर्जुन उवाच |दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् || 28||सीदन्ति मम गात्राणि मुखं च परिशुष्यति |",
-    translation: "1.28: Arjun said: O Krishna, seeing my own kinsmen arrayed for battle here and intent on killing each other, my limbs are giving way and my mouth is drying up.",
-    hindi_translation: "1.28: अर्जुन ने कहा! हे कृष्ण! युद्ध करने की इच्छा से एक दूसरे का वध करने के लिए यहाँ अपने वंशजों को देखकर मेरे शरीर के अंग कांप रहे हैं और मेरा मुंह सूख रहा है।",
+    chapter: 9,
+    verse: 15,
+    shloka: "ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते |एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् || 15||",
+    translation: "9.15: Others, engaging in the yajña of cultivating knowledge, worship Me by many methods. Some see Me as undifferentiated oneness that is non-different from them, while others see Me as separate from them. Still others worship Me in the infinite manifestations of My cosmic form.",
+    hindi_translation: "9.15: अन्य लोग जो ज्ञान के संवर्धन हेतु यज्ञ करने में लगे रहते हैं, वे विविध प्रकार से मेरी आराधना में लीन रहते हैं। कुछ लोग मुझे अभिन्न रूप में देखते हैं जोकि उनसे भिन्न नहीं हैं जबकि अन्य मुझे अपने से भिन्न रूप में देखते हैं। कुछ लोग मेरे ब्रह्माण्डीय रूप की अनन्त अभिव्यक्तियों में मेरी पूजा करते हैं।",
 );
 ```
 <p align="center">
