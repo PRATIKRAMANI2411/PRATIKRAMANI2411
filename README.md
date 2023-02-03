@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 15,
-    shloka: "ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते |एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् || 15||",
-    translation: "9.15: Others, engaging in the yajña of cultivating knowledge, worship Me by many methods. Some see Me as undifferentiated oneness that is non-different from them, while others see Me as separate from them. Still others worship Me in the infinite manifestations of My cosmic form.",
-    hindi_translation: "9.15: अन्य लोग जो ज्ञान के संवर्धन हेतु यज्ञ करने में लगे रहते हैं, वे विविध प्रकार से मेरी आराधना में लीन रहते हैं। कुछ लोग मुझे अभिन्न रूप में देखते हैं जोकि उनसे भिन्न नहीं हैं जबकि अन्य मुझे अपने से भिन्न रूप में देखते हैं। कुछ लोग मेरे ब्रह्माण्डीय रूप की अनन्त अभिव्यक्तियों में मेरी पूजा करते हैं।",
+    chapter: 11,
+    verse: 41-42,
+    shloka: "सखेति मत्वा प्रसभं यदुक्तं हे कृष्ण हे यादव हे सखेति |अजानता महिमानं तवेदंमया प्रमादात्प्रणयेन वापि || 41||यच्चावहासार्थमसत्कृतोऽसिविहारशय्यासनभोजनेषु |एकोऽथवाप्यच्युत तत्समक्षंतत्क्षामये त्वामहमप्रमेयम् || 42||",
+    translation: "11.41-42: Thinking of you as my friend, I presumptuously addressed you as, “O Krishna,” “O Yadav,” “O my dear mate.” I was ignorant of your majesty, showing negligence and undue affection. And if, jestfully, I treated you with disrespect, while playing, resting, sitting, eating, when alone, or before others—for all that I crave forgiveness.",
+    hindi_translation: "11.41-42: आपको अपना मित्र मानते हुए मैंने धृष्टतापूर्वक आपको हे कृष्ण, हे यादव, हे प्रिय मित्र कहकर संबोधित किया क्योंकि मुझे आपकी महिमा का ज्ञान नहीं था। उपेक्षित भाव से और प्रेमवश होकर यदि उपहास करते हुए मैंने कई बार खेलते हुए, विश्राम करते हुए, बैठते हुए, खाते हुए, अकेले में या अन्य लोगों के समक्ष आपका कभी अनादर किया हो तो उन सब अपराधों के लिए हे अचिन्त्य! मैं आपसे क्षमा याचना करता हूँ।",
 );
 ```
 <p align="center">
