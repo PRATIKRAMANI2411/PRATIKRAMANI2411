@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 41-42,
-    shloka: "सखेति मत्वा प्रसभं यदुक्तं हे कृष्ण हे यादव हे सखेति |अजानता महिमानं तवेदंमया प्रमादात्प्रणयेन वापि || 41||यच्चावहासार्थमसत्कृतोऽसिविहारशय्यासनभोजनेषु |एकोऽथवाप्यच्युत तत्समक्षंतत्क्षामये त्वामहमप्रमेयम् || 42||",
-    translation: "11.41-42: Thinking of you as my friend, I presumptuously addressed you as, “O Krishna,” “O Yadav,” “O my dear mate.” I was ignorant of your majesty, showing negligence and undue affection. And if, jestfully, I treated you with disrespect, while playing, resting, sitting, eating, when alone, or before others—for all that I crave forgiveness.",
-    hindi_translation: "11.41-42: आपको अपना मित्र मानते हुए मैंने धृष्टतापूर्वक आपको हे कृष्ण, हे यादव, हे प्रिय मित्र कहकर संबोधित किया क्योंकि मुझे आपकी महिमा का ज्ञान नहीं था। उपेक्षित भाव से और प्रेमवश होकर यदि उपहास करते हुए मैंने कई बार खेलते हुए, विश्राम करते हुए, बैठते हुए, खाते हुए, अकेले में या अन्य लोगों के समक्ष आपका कभी अनादर किया हो तो उन सब अपराधों के लिए हे अचिन्त्य! मैं आपसे क्षमा याचना करता हूँ।",
+    chapter: 8,
+    verse: 12,
+    shloka: "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च |मूर्ध्न्याधायात्मन: प्राणमास्थितो योगधारणाम् || 12||",
+    translation: "8.12: Restraining all the gates of the body and fixing the mind in the heart region, and then drawing the life-breath to the head, one should get established in steadfast yogic concentration.",
+    hindi_translation: "8.12: शरीर के समस्त द्वारों को बंद कर मन को हृदय स्थल पर स्थिर करते हुए और प्राण वायु को सिर पर केन्द्रित करते हुए मनुष्य को दृढ़ यौगिक चिन्तन में स्थित हो जाना चाहिए।",
 );
 ```
 <p align="center">
