@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 8,
-    shloka: "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् |अपरस्परसम्भूतं किमन्यत्कामहैतुकम् || 8||",
-    translation: "16.8: They say, “The world is without absolute truth, without any basis (for moral order), and without a God (who has created or is controlling it). It is created from the combination of the two sexes, and has no purpose other than sexual gratification.”",
-    hindi_translation: "16.8: वे कहते हैं, संसार परम सत्य से रहित और आधारहीन है तथा यह भगवान रहित है जो इसका सृष्टा और नियामक है। यह दो विपरीत लिंगों से उत्पन्न होता है और कामेच्छा के अतिरिक्त इसका कोई अन्य कारण नहीं है।",
+    chapter: 18,
+    verse: 67,
+    shloka: "इदं ते नातपस्काय नाभक्ताय कदाचन |न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति || 67||",
+    translation: "18.67: This instruction should never be explained to those who are not austere or to those who are not devoted. It should also not be spoken to those who are averse to listening (to spiritual topics), and especially not to those who are envious of me.",
+    hindi_translation: "18.67: यह उपदेश उन्हें कभी नहीं सुनाना चाहिए जो न तो संयमी है और न ही उन्हें जो भक्त नहीं हैं। इसे उन्हें भी नहीं सुनाना चाहिए जो आध्यात्मिक विषयों को सुनने के इच्छुक नहीं हैं और विशेष रूप से उन्हें भी नहीं सुनाना चाहिए जो मेरे प्रति द्वेष रखते हैं।",
 );
 ```
 <p align="center">
