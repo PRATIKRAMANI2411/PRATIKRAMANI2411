@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 67,
-    shloka: "इदं ते नातपस्काय नाभक्ताय कदाचन |न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति || 67||",
-    translation: "18.67: This instruction should never be explained to those who are not austere or to those who are not devoted. It should also not be spoken to those who are averse to listening (to spiritual topics), and especially not to those who are envious of me.",
-    hindi_translation: "18.67: यह उपदेश उन्हें कभी नहीं सुनाना चाहिए जो न तो संयमी है और न ही उन्हें जो भक्त नहीं हैं। इसे उन्हें भी नहीं सुनाना चाहिए जो आध्यात्मिक विषयों को सुनने के इच्छुक नहीं हैं और विशेष रूप से उन्हें भी नहीं सुनाना चाहिए जो मेरे प्रति द्वेष रखते हैं।",
+    chapter: 6,
+    verse: 38,
+    shloka: "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति |अप्रतिष्ठो महाबाहो विमूढो ब्रह्मण: पथि || 38||",
+    translation: "6.38: Does not such a person who deviates from Yog get deprived of both material and spiritual success, O mighty-armed Krishna, and perish like a broken cloud with no position in either sphere?",
+    hindi_translation: "6.38: हे महाबाहु कृष्ण! क्या योग से पथ भ्रष्ट ऐसा व्यक्ति भौतिक एवं आध्यात्मिक सफलताओं से वंचित नहीं होता और छिन्न-भिन्न बादलों की भाँति नष्ट नहीं हो जाता जिसके परिणामस्वरूप वह किसी भी लोक में स्थान नहीं पाता?",
 );
 ```
 <p align="center">
