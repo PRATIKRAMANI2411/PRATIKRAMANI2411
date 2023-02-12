@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 76,
-    shloka: "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् |केशवार्जुनयो: पुण्यं हृष्यामि च मुहुर्मुहु: || 76||",
-    translation: "18.76: As I repeatedly recall this astonishing and wonderful dialogue between the Supreme Lord Shree Krishna and Arjun, O King, I rejoice again and again.",
-    hindi_translation: "18.76: हे राजन! जब-जब मैं परमेश्वर श्रीकृष्ण और अर्जुन के बीच हुए इस चकित कर देने वाले अद्भुत संवाद का स्मरण करता हूँ तब-तब मैं पुनः पुनः हर्षित होता हूँ।",
+    chapter: 2,
+    verse: 14,
+    shloka: "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदु: खदा: |आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत || 14||",
+    translation: "2.14: O son of Kunti, the contact between the senses and the sense objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent, and come and go like the winter and summer seasons. O descendent of Bharat, one must learn to tolerate them without being disturbed.",
+    hindi_translation: "2.14: हे कुन्तीपुत्र! इन्द्रिय और उसके विषयों के संपर्क से उत्पन्न सुख तथा दुख का अनुभव क्षण भंगुर है। ये स्थायी न होकर सर्दी तथा गर्मी की ऋतुओं के आने-जाने के समान हैं। हे भरतवंशी! मनुष्य को चाहिए कि वह विचलित हुए बिना उनको सहन करना सीखे।",
 );
 ```
 <p align="center">
