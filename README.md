@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 14,
-    shloka: "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदु: खदा: |आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत || 14||",
-    translation: "2.14: O son of Kunti, the contact between the senses and the sense objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent, and come and go like the winter and summer seasons. O descendent of Bharat, one must learn to tolerate them without being disturbed.",
-    hindi_translation: "2.14: हे कुन्तीपुत्र! इन्द्रिय और उसके विषयों के संपर्क से उत्पन्न सुख तथा दुख का अनुभव क्षण भंगुर है। ये स्थायी न होकर सर्दी तथा गर्मी की ऋतुओं के आने-जाने के समान हैं। हे भरतवंशी! मनुष्य को चाहिए कि वह विचलित हुए बिना उनको सहन करना सीखे।",
+    chapter: 18,
+    verse: 5,
+    shloka: "यज्ञदानतप:कर्म न त्याज्यं कार्यमेव तत् |यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् || 5||",
+    translation: "18.5: Actions based upon sacrifice, charity, and penance should never be abandoned; they must certainly be performed. Indeed, acts of sacrifice, charity, and penance are purifying even for those who are wise.",
+    hindi_translation: "18.5: यज्ञ, दान, तथा तपस्या पर आधारित कर्मों का कभी परित्याग नहीं करना चाहिए। इन्हें निश्चित रूप से सम्पन्न करना चाहिए। यज्ञ, दान तथा तपस्या वास्तव में महात्माओं को भी शुद्ध करते हैं।",
 );
 ```
 <p align="center">
