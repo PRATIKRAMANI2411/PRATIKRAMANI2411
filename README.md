@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 5,
-    shloka: "यज्ञदानतप:कर्म न त्याज्यं कार्यमेव तत् |यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् || 5||",
-    translation: "18.5: Actions based upon sacrifice, charity, and penance should never be abandoned; they must certainly be performed. Indeed, acts of sacrifice, charity, and penance are purifying even for those who are wise.",
-    hindi_translation: "18.5: यज्ञ, दान, तथा तपस्या पर आधारित कर्मों का कभी परित्याग नहीं करना चाहिए। इन्हें निश्चित रूप से सम्पन्न करना चाहिए। यज्ञ, दान तथा तपस्या वास्तव में महात्माओं को भी शुद्ध करते हैं।",
+    chapter: 11,
+    verse: 46,
+    shloka: "किरीटिनं गदिनं चक्रहस्त-मिच्छामि त्वां द्रष्टुमहं तथैव |तेनैव रूपेण चतुर्भुजेनसहस्रबाहो भव विश्वमूर्ते || 46||",
+    translation: "11.46: O thousand-armed one, though you are the embodiment of all creation, I wish to see you in your four-armed form, carrying the mace and disc, and wearing the crown.",
+    hindi_translation: "11.46: हे सहस्र बाहु! यद्यपि आप समस्त सृष्टि में अभिव्यक्त हैं किन्तु मैं तुम्हारे मुकुटधारी चक्र और गदा उठाए हुए चतुर्भुज नारायण रूप के दर्शन करना चाहता हूँ।",
 );
 ```
 <p align="center">
