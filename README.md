@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 76,
-    shloka: "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् |केशवार्जुनयो: पुण्यं हृष्यामि च मुहुर्मुहु: || 76||",
-    translation: "18.76: As I repeatedly recall this astonishing and wonderful dialogue between the Supreme Lord Shree Krishna and Arjun, O King, I rejoice again and again.",
-    hindi_translation: "18.76: हे राजन! जब-जब मैं परमेश्वर श्रीकृष्ण और अर्जुन के बीच हुए इस चकित कर देने वाले अद्भुत संवाद का स्मरण करता हूँ तब-तब मैं पुनः पुनः हर्षित होता हूँ।",
+    chapter: 1,
+    verse: 14,
+    shloka: "तत: श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ |माधव: पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतु: || 14||",
+    translation: "1.14: Then, from amidst the Pandava army, seated in a glorious chariot drawn by white horses, Madhav and Arjun blew their Divine conch shells.",
+    hindi_translation: "1.14: तत्पश्चात पाण्डवों की सेना के बीच श्वेत अश्वों द्वारा खींचे जाने वाले भव्य रथ पर आसीन माधव और अर्जुन ने अपने-अपने दिव्य शंख बजाये।",
 );
 ```
 <p align="center">
