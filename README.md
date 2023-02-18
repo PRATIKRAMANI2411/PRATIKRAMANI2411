@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 1,
-    verse: 45-46,
-    shloka: "अहो बत महत्पापं कर्तुं व्यवसिता वयम् |यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यता: || 45||यदि मामप्रतीकारमशस्त्रं शस्त्रपाणय: |धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् || 46||",
-    translation: "1.45-46: Alas! How strange it is that we have set our mind to perform this great sin with horrifying consequences. Driven by the desire for kingly pleasures, we are intent on killing our own kinsmen. It would be better if, with weapons in hand, the sons of Dhritarashtra kill me unarmed and unresisting on the battlefield.",
-    hindi_translation: "1.45-46: ओह! कितने आश्चर्य की बात है कि हम मानसिक रूप से इस महा पापजन्य कर्म करने के लिए उद्यत हैं। राजसुख भोगने की इच्छा के प्रयोजन से हम अपने वंशजों का वध करना चाहते हैं। यदि धृतराष्ट्र के शस्त्र युक्त पुत्र मुझ निहत्थे को रणभूमि में प्रतिरोध किए बिना भी मार देते हैं तब यह मेरे लिए श्रेयस्कर होगा।",
+    verse: 28,
+    shloka: "अर्जुन उवाच |दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् || 28||सीदन्ति मम गात्राणि मुखं च परिशुष्यति |",
+    translation: "1.28: Arjun said: O Krishna, seeing my own kinsmen arrayed for battle here and intent on killing each other, my limbs are giving way and my mouth is drying up.",
+    hindi_translation: "1.28: अर्जुन ने कहा! हे कृष्ण! युद्ध करने की इच्छा से एक दूसरे का वध करने के लिए यहाँ अपने वंशजों को देखकर मेरे शरीर के अंग कांप रहे हैं और मेरा मुंह सूख रहा है।",
 );
 ```
 <p align="center">
