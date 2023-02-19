@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 28,
-    shloka: "अर्जुन उवाच |दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् || 28||सीदन्ति मम गात्राणि मुखं च परिशुष्यति |",
-    translation: "1.28: Arjun said: O Krishna, seeing my own kinsmen arrayed for battle here and intent on killing each other, my limbs are giving way and my mouth is drying up.",
-    hindi_translation: "1.28: अर्जुन ने कहा! हे कृष्ण! युद्ध करने की इच्छा से एक दूसरे का वध करने के लिए यहाँ अपने वंशजों को देखकर मेरे शरीर के अंग कांप रहे हैं और मेरा मुंह सूख रहा है।",
+    chapter: 13,
+    verse: 26,
+    shloka: "अन्ये त्वेवमजानन्त: श्रुत्वान्येभ्य उपासते |तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणा: || 26||",
+    translation: "13.26: There are still others who are unaware of these spiritual paths, but they hear from others and begin worshipping the Supreme Lord. By such devotion to hearing from saints, they too can gradually cross over the ocean of birth and death.",
+    hindi_translation: "13.26: कुछ अन्य लोग ऐसे भी होते हैं जो आध्यात्मिक मार्ग से अनभिज्ञ होते हैं लेकिन वे अन्य संत पुरुषों से श्रवण कर भगवान की आराधना करने लगते हैं। वे भी धीरे-धीरे जन्म और मृत्यु के सागर को पार कर लेते हैं।",
 );
 ```
 <p align="center">
