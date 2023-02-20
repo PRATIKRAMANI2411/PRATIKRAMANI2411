@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 26,
-    shloka: "अन्ये त्वेवमजानन्त: श्रुत्वान्येभ्य उपासते |तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणा: || 26||",
-    translation: "13.26: There are still others who are unaware of these spiritual paths, but they hear from others and begin worshipping the Supreme Lord. By such devotion to hearing from saints, they too can gradually cross over the ocean of birth and death.",
-    hindi_translation: "13.26: कुछ अन्य लोग ऐसे भी होते हैं जो आध्यात्मिक मार्ग से अनभिज्ञ होते हैं लेकिन वे अन्य संत पुरुषों से श्रवण कर भगवान की आराधना करने लगते हैं। वे भी धीरे-धीरे जन्म और मृत्यु के सागर को पार कर लेते हैं।",
+    chapter: 15,
+    verse: 12,
+    shloka: "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् |यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् || 12||",
+    translation: "15.12: Know that I am like the brilliance of the sun that illuminates the entire solar system. The radiance of the moon and the brightness of the fire also come from Me.",
+    hindi_translation: "15.12: यह जान लो कि मैं सूर्य के तेज के समान हूँ जो पूरे ब्रह्माण्ड को प्रकाशित करता है। सूर्य का तेज और अग्नि की दीप्ति मुझसे ही उत्पन्न होती है।",
 );
 ```
 <p align="center">
