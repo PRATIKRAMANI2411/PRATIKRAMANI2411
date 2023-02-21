@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 12,
-    shloka: "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् |यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् || 12||",
-    translation: "15.12: Know that I am like the brilliance of the sun that illuminates the entire solar system. The radiance of the moon and the brightness of the fire also come from Me.",
-    hindi_translation: "15.12: यह जान लो कि मैं सूर्य के तेज के समान हूँ जो पूरे ब्रह्माण्ड को प्रकाशित करता है। सूर्य का तेज और अग्नि की दीप्ति मुझसे ही उत्पन्न होती है।",
+    chapter: 7,
+    verse: 11,
+    shloka: "बलं बलवतां चाहं कामरागविवर्जितम् |धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ || 11||",
+    translation: "7.11: O best of the Bharatas, in strong persons, I am their strength devoid of desire and passion. I am sexual activity not conflicting with virtue or scriptural injunctions.",
+    hindi_translation: "7.11: हे भरत श्रेष्ठ! मैं बलवान पुरुषों का काम और आसक्ति रहित बल हूँ। मैं वो काम हूँ जो धर्म या धर्म ग्रंथों की आज्ञाओं के विरुद्ध नहीं है।",
 );
 ```
 <p align="center">
