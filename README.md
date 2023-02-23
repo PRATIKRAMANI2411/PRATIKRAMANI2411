@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 3,
-    shloka: "यो मामजमनादिं च वेत्ति लोकमहेश्वरम् |असम्मूढ: स मर्त्येषु सर्वपापै: प्रमुच्यते || 3||",
-    translation: "10.3: Those who know me as unborn and beginningless, and as the Supreme Lord of the universe, they among mortals are free from illusion and released from all evils.",
-    hindi_translation: "10.3: वे जो मुझे अजन्मा, अनादि और समस्त ब्रह्माण्डों के स्वामी के रूप में जानते हैं, मनुष्यों में केवल वही मोह रहित और समस्त बुराइयों से मुक्त हो जाते हैं।",
+    chapter: 1,
+    verse: 24,
+    shloka: "सञ्जय उवाच |एवमुक्तो हृषीकेशो गुडाकेशेन भारत |सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् || 24||",
+    translation: "1.24: Sanjay said: O Dhritarasthra, having thus been addressed by Arjun, the conqueror of sleep, Shree Krishna then drew the magnificent chariot between the two armies.",
+    hindi_translation: "1.24: संजय ने कहा-हे भरतवंशी धृतराष्ट्र! निद्रा पर विजय पाने वाले अर्जुन द्वारा इस प्रकार के वचन बोले जाने पर तब भगवान श्रीकृष्ण ने उस भव्य रथ को दोनों सेनाओं के बीच में ले जाकर खड़ा कर दिया।",
 );
 ```
 <p align="center">
