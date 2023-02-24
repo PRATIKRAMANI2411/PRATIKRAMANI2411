@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 24,
-    shloka: "सञ्जय उवाच |एवमुक्तो हृषीकेशो गुडाकेशेन भारत |सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् || 24||",
-    translation: "1.24: Sanjay said: O Dhritarasthra, having thus been addressed by Arjun, the conqueror of sleep, Shree Krishna then drew the magnificent chariot between the two armies.",
-    hindi_translation: "1.24: संजय ने कहा-हे भरतवंशी धृतराष्ट्र! निद्रा पर विजय पाने वाले अर्जुन द्वारा इस प्रकार के वचन बोले जाने पर तब भगवान श्रीकृष्ण ने उस भव्य रथ को दोनों सेनाओं के बीच में ले जाकर खड़ा कर दिया।",
+    chapter: 16,
+    verse: 16,
+    shloka: "अनेकचित्तविभ्रान्ता मोहजालसमावृता: |प्रसक्ता: कामभोगेषु पतन्ति नरकेऽशुचौ || 16||",
+    translation: "16.16: Possessed and led astray by such imaginings, enveloped in a mesh of delusion, and addicted to the gratification of sensuous pleasures, they descend to the murkiest hell.",
+    hindi_translation: "16.16: ऐसी कल्पनाओं द्वारा पथभ्रष्ट होकर और मोह के जाल से आच्छादित तथा इन्द्रिय भोग की तृप्ति के आदी होकर वे अंधे नरक में गिरते हैं।",
 );
 ```
 <p align="center">
