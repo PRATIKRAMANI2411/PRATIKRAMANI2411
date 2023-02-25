@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 16,
-    shloka: "अनेकचित्तविभ्रान्ता मोहजालसमावृता: |प्रसक्ता: कामभोगेषु पतन्ति नरकेऽशुचौ || 16||",
-    translation: "16.16: Possessed and led astray by such imaginings, enveloped in a mesh of delusion, and addicted to the gratification of sensuous pleasures, they descend to the murkiest hell.",
-    hindi_translation: "16.16: ऐसी कल्पनाओं द्वारा पथभ्रष्ट होकर और मोह के जाल से आच्छादित तथा इन्द्रिय भोग की तृप्ति के आदी होकर वे अंधे नरक में गिरते हैं।",
+    chapter: 18,
+    verse: 48,
+    shloka: "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् |सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृता: || 48||",
+    translation: "18.48: One should not abandon duties born of one’s nature, even if one sees defects in them, O son of Kunti. Indeed, all endeavors are veiled by some evil, as fire is by smoke.",
+    hindi_translation: "18.48: किसी को भी अपनी प्रकृति से उत्पन्न कर्त्तव्यों का परित्याग नहीं करना चाहिए चाहे कोई उनमें दोष भी क्यों न देखता हो। हे कुन्ती पुत्र! वास्तव में सभी प्रकार के उद्योग कुछ न कुछ बुराई से आवृत रहते हैं जैसे आग धुंए से ढकी रहती है।",
 );
 ```
 <p align="center">
