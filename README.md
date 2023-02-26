@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 48,
-    shloka: "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् |सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृता: || 48||",
-    translation: "18.48: One should not abandon duties born of one’s nature, even if one sees defects in them, O son of Kunti. Indeed, all endeavors are veiled by some evil, as fire is by smoke.",
-    hindi_translation: "18.48: किसी को भी अपनी प्रकृति से उत्पन्न कर्त्तव्यों का परित्याग नहीं करना चाहिए चाहे कोई उनमें दोष भी क्यों न देखता हो। हे कुन्ती पुत्र! वास्तव में सभी प्रकार के उद्योग कुछ न कुछ बुराई से आवृत रहते हैं जैसे आग धुंए से ढकी रहती है।",
+    chapter: 17,
+    verse: 12,
+    shloka: "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् || 12||",
+    translation: "17.12: O best of the Bharatas, know that sacrifice, which is performed for material benefit, or with hypocritical aim, to be in the mode of passion.",
+    hindi_translation: "17.12: हे श्रेष्ठ भरतवंशी! जो यज्ञ भौतिक लाभ अथवा आडम्बरपूर्ण उद्देश्य के साथ किया जाता है उसे रजोगुणी श्रेणी का यज्ञ समझो।",
 );
 ```
 <p align="center">
