@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 12,
-    shloka: "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् || 12||",
-    translation: "17.12: O best of the Bharatas, know that sacrifice, which is performed for material benefit, or with hypocritical aim, to be in the mode of passion.",
-    hindi_translation: "17.12: हे श्रेष्ठ भरतवंशी! जो यज्ञ भौतिक लाभ अथवा आडम्बरपूर्ण उद्देश्य के साथ किया जाता है उसे रजोगुणी श्रेणी का यज्ञ समझो।",
+    chapter: 6,
+    verse: 43,
+    shloka: "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् |यतते च ततो भूय: संसिद्धौ कुरुनन्दन || 43||",
+    translation: "6.43: On taking such a birth, O descendant of Kurus, they reawaken the wisdom of their previous lives, and strive even harder toward perfection in Yog.",
+    hindi_translation: "6.43: हे कुरुवंशी! ऐसा जन्म लेकर वे पिछले जन्म के ज्ञान को पुनः जागृत करते हैं और योग में पूर्णता के लिए और अधिक कड़ा परिश्रम करते हैं।",
 );
 ```
 <p align="center">
