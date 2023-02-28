@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 43,
-    shloka: "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् |यतते च ततो भूय: संसिद्धौ कुरुनन्दन || 43||",
-    translation: "6.43: On taking such a birth, O descendant of Kurus, they reawaken the wisdom of their previous lives, and strive even harder toward perfection in Yog.",
-    hindi_translation: "6.43: हे कुरुवंशी! ऐसा जन्म लेकर वे पिछले जन्म के ज्ञान को पुनः जागृत करते हैं और योग में पूर्णता के लिए और अधिक कड़ा परिश्रम करते हैं।",
+    chapter: 4,
+    verse: 25,
+    shloka: "दैवमेवापरे यज्ञं योगिन: पर्युपासते |ब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति || 25||",
+    translation: "4.25: Some yogis worship the celestial gods with material offerings unto them. Others worship perfectly who offer the self as sacrifice in the fire of the Supreme Truth.",
+    hindi_translation: "4.25: कुछ योगी सांसारिक पदार्थों की आहुति देते हुए यज्ञ द्वारा देवताओं की पूजा करते हैं। अन्य लोग जो वास्तव में अराधना करते हैं वे परम सत्य ब्रह्मरूपी अग्नि में आत्माहुति देते हैं।",
 );
 ```
 <p align="center">
