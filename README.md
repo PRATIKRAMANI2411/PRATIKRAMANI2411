@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 25,
-    shloka: "दैवमेवापरे यज्ञं योगिन: पर्युपासते |ब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति || 25||",
-    translation: "4.25: Some yogis worship the celestial gods with material offerings unto them. Others worship perfectly who offer the self as sacrifice in the fire of the Supreme Truth.",
-    hindi_translation: "4.25: कुछ योगी सांसारिक पदार्थों की आहुति देते हुए यज्ञ द्वारा देवताओं की पूजा करते हैं। अन्य लोग जो वास्तव में अराधना करते हैं वे परम सत्य ब्रह्मरूपी अग्नि में आत्माहुति देते हैं।",
+    chapter: 9,
+    verse: 29,
+    shloka: "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रिय: |ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् || 29||",
+    translation: "9.29: I am equally disposed to all living beings; I am neither inimical nor partial to anyone. But the devotees who worship Me with love reside in Me and I reside in them.",
+    hindi_translation: "9.29: मैं समभाव से सभी जीवों के साथ व्यवहार करता हूँ न तो मैं किसी के साथ द्वेष करता हूँ और न ही पक्षपात करता हूँ लेकिन जो भक्त मेरी प्रेममयी भक्ति करते हैं, मैं उनके हृदय में और वे मेरे हृदय में निवास करते हैं।",
 );
 ```
 <p align="center">
