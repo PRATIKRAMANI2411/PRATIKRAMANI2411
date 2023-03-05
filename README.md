@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 19-20,
-    shloka: "तानहं द्विषत: क्रूरान्संसारेषु नराधमान् |क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु || 19||आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि |मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् || 20||",
-    translation: "16.19-20: These cruel and hateful persons, the vile and vicious of humankind, I constantly hurl into the wombs of those with similar demoniac natures in the cycle of rebirth in the material world. These ignorant souls take birth again and again in demoniac wombs. Failing to reach me, O Arjun, they gradually sink to the most abominable type of existence.",
-    hindi_translation: "16.19-20: मानव जाति के नीच, दुष्ट और इन निर्दयी और घृणित व्यक्तियों को मैं निरन्तर भौतिक संसार के जीवन-मृत्यु के चक्र में समान आसुरी प्रकृति के गर्मों में डालता हूँ। ये अज्ञानी आत्माएँ बार-बार आसुरी प्रकृति के गर्थों में जन्म लेती हैं। मुझ तक पहुँचने में असफल होने के कारण हे अर्जुन! वे शनैः-शनैः अति अधम जीवन प्राप्त करते हैं।",
+    chapter: 4,
+    verse: 36,
+    shloka: "अपि चेदसि पापेभ्य: सर्वेभ्य: पापकृत्तम: |सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि || 36||",
+    translation: "4.36: Even those who are considered the most immoral of all sinners can cross over this ocean of material existence by seating themselves in the boat of divine knowledge.",
+    hindi_translation: "4.36: जिन्हें समस्त पापों का महापापी समझा जाता है, वे भी दिव्यज्ञान की नौका में बैठकर संसार रूपी सागर को पार करने में समर्थ हो सकते हैं।",
 );
 ```
 <p align="center">
