@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 36,
-    shloka: "अपि चेदसि पापेभ्य: सर्वेभ्य: पापकृत्तम: |सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि || 36||",
-    translation: "4.36: Even those who are considered the most immoral of all sinners can cross over this ocean of material existence by seating themselves in the boat of divine knowledge.",
-    hindi_translation: "4.36: जिन्हें समस्त पापों का महापापी समझा जाता है, वे भी दिव्यज्ञान की नौका में बैठकर संसार रूपी सागर को पार करने में समर्थ हो सकते हैं।",
+    chapter: 7,
+    verse: 21,
+    shloka: "यो यो यां यां तनुं भक्त: श्रद्धयार्चितुमिच्छति |तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् || 21||",
+    translation: "7.21: Whatever celestial form a devotee seeks to worship with faith, I steady the faith of such a devotee in that form.",
+    hindi_translation: "7.21: भक्त श्रद्धा के साथ स्वर्ग के देवता के जिस रूप की पूजा करना चाहता है, मैं ऐसे भक्त की श्रद्धा को उसी रूप में स्थिर करता हूँ।",
 );
 ```
 <p align="center">
