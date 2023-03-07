@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 21,
-    shloka: "यो यो यां यां तनुं भक्त: श्रद्धयार्चितुमिच्छति |तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् || 21||",
-    translation: "7.21: Whatever celestial form a devotee seeks to worship with faith, I steady the faith of such a devotee in that form.",
-    hindi_translation: "7.21: भक्त श्रद्धा के साथ स्वर्ग के देवता के जिस रूप की पूजा करना चाहता है, मैं ऐसे भक्त की श्रद्धा को उसी रूप में स्थिर करता हूँ।",
+    chapter: 16,
+    verse: 22,
+    shloka: "एतैर्विमुक्त: कौन्तेय तमोद्वारैस्त्रिभिर्नर: |आचरत्यात्मन: श्रेयस्ततो याति परां गतिम् || 22||",
+    translation: "16.22: Those who are freed from the three gates to darkness endeavor for the welfare of their soul, and thereby attain the supreme goal.",
+    hindi_translation: "16.22: जो अंधकार रूपी तीन द्वारों से मुक्त होते हैं वे अपनी आत्मा के कल्याण के लिए चेष्टा करते हैं और इस प्रकार से परम लक्ष्य को प्राप्त करते हैं।",
 );
 ```
 <p align="center">
