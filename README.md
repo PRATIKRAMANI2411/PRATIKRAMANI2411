@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 22,
-    shloka: "एतैर्विमुक्त: कौन्तेय तमोद्वारैस्त्रिभिर्नर: |आचरत्यात्मन: श्रेयस्ततो याति परां गतिम् || 22||",
-    translation: "16.22: Those who are freed from the three gates to darkness endeavor for the welfare of their soul, and thereby attain the supreme goal.",
-    hindi_translation: "16.22: जो अंधकार रूपी तीन द्वारों से मुक्त होते हैं वे अपनी आत्मा के कल्याण के लिए चेष्टा करते हैं और इस प्रकार से परम लक्ष्य को प्राप्त करते हैं।",
+    chapter: 15,
+    verse: 20,
+    shloka: "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत || 20||",
+    translation: "15.20: I have shared this most secret principle of the Vedic scriptures with you, O sinless Arjun. By understanding this, a person becomes enlightened, and fulfills all that is to be accomplished.",
+    hindi_translation: "15.20: हे निष्पाप अर्जुन! मैंने तुम्हें वैदिक ग्रंथों का अति गुह्य सिद्धान्त समझाया है। इसे समझकर मनुष्य प्रबुद्ध हो जाता है और अपने प्रयासो में परिपूर्ण हो जाता है।",
 );
 ```
 <p align="center">
