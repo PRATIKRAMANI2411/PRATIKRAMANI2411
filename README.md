@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 43,
-    shloka: "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् |यतते च ततो भूय: संसिद्धौ कुरुनन्दन || 43||",
-    translation: "6.43: On taking such a birth, O descendant of Kurus, they reawaken the wisdom of their previous lives, and strive even harder toward perfection in Yog.",
-    hindi_translation: "6.43: हे कुरुवंशी! ऐसा जन्म लेकर वे पिछले जन्म के ज्ञान को पुनः जागृत करते हैं और योग में पूर्णता के लिए और अधिक कड़ा परिश्रम करते हैं।",
+    chapter: 10,
+    verse: 9,
+    shloka: "मच्चित्ता मद्गतप्राणा बोधयन्त: परस्परम् |कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च || 9||",
+    translation: "10.9: With their minds fixed on me and their lives surrendered to me, my devotees remain ever content in me. They derive great satisfaction and bliss in enlightening one another about me and in conversing about my glories.",
+    hindi_translation: "10.9: मेरे भक्त अपने मन को मुझमें स्थिर कर अपना जीवन मुझे समर्पित करते हुए सदैव संतुष्ट रहते हैं। वे एक दूसरे को ज्ञान प्रदान करते हुए मेरे विषय में वार्तालाप करते हुए और मेरी महिमा का गान करते हुए अत्यंत आनन्द और संतोष की अनुभूति करते हैं।",
 );
 ```
 <p align="center">
