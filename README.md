@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 9,
-    shloka: "मच्चित्ता मद्गतप्राणा बोधयन्त: परस्परम् |कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च || 9||",
-    translation: "10.9: With their minds fixed on me and their lives surrendered to me, my devotees remain ever content in me. They derive great satisfaction and bliss in enlightening one another about me and in conversing about my glories.",
-    hindi_translation: "10.9: मेरे भक्त अपने मन को मुझमें स्थिर कर अपना जीवन मुझे समर्पित करते हुए सदैव संतुष्ट रहते हैं। वे एक दूसरे को ज्ञान प्रदान करते हुए मेरे विषय में वार्तालाप करते हुए और मेरी महिमा का गान करते हुए अत्यंत आनन्द और संतोष की अनुभूति करते हैं।",
+    chapter: 5,
+    verse: 21,
+    shloka: "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् |स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते || 21||",
+    translation: "5.21: Those who are not attached to external sense pleasures realize divine bliss in the self. Being united with God through Yog, they experience unending happiness.",
+    hindi_translation: "5.21: जो बाह्य इन्द्रिय सुखों में आसक्त नहीं होते वे आत्मिक परम आनन्द की अनुभूति करते हैं। भगवान के साथ एकनिष्ठ होने के कारण वे असीम सुख भोगते हैं।",
 );
 ```
 <p align="center">
