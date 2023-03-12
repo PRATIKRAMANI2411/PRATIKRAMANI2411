@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 21,
-    shloka: "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् |स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते || 21||",
-    translation: "5.21: Those who are not attached to external sense pleasures realize divine bliss in the self. Being united with God through Yog, they experience unending happiness.",
-    hindi_translation: "5.21: जो बाह्य इन्द्रिय सुखों में आसक्त नहीं होते वे आत्मिक परम आनन्द की अनुभूति करते हैं। भगवान के साथ एकनिष्ठ होने के कारण वे असीम सुख भोगते हैं।",
+    chapter: 16,
+    verse: 19-20,
+    shloka: "तानहं द्विषत: क्रूरान्संसारेषु नराधमान् |क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु || 19||आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि |मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् || 20||",
+    translation: "16.19-20: These cruel and hateful persons, the vile and vicious of humankind, I constantly hurl into the wombs of those with similar demoniac natures in the cycle of rebirth in the material world. These ignorant souls take birth again and again in demoniac wombs. Failing to reach me, O Arjun, they gradually sink to the most abominable type of existence.",
+    hindi_translation: "16.19-20: मानव जाति के नीच, दुष्ट और इन निर्दयी और घृणित व्यक्तियों को मैं निरन्तर भौतिक संसार के जीवन-मृत्यु के चक्र में समान आसुरी प्रकृति के गर्मों में डालता हूँ। ये अज्ञानी आत्माएँ बार-बार आसुरी प्रकृति के गर्थों में जन्म लेती हैं। मुझ तक पहुँचने में असफल होने के कारण हे अर्जुन! वे शनैः-शनैः अति अधम जीवन प्राप्त करते हैं।",
 );
 ```
 <p align="center">
