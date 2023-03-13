@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 19-20,
-    shloka: "तानहं द्विषत: क्रूरान्संसारेषु नराधमान् |क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु || 19||आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि |मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् || 20||",
-    translation: "16.19-20: These cruel and hateful persons, the vile and vicious of humankind, I constantly hurl into the wombs of those with similar demoniac natures in the cycle of rebirth in the material world. These ignorant souls take birth again and again in demoniac wombs. Failing to reach me, O Arjun, they gradually sink to the most abominable type of existence.",
-    hindi_translation: "16.19-20: मानव जाति के नीच, दुष्ट और इन निर्दयी और घृणित व्यक्तियों को मैं निरन्तर भौतिक संसार के जीवन-मृत्यु के चक्र में समान आसुरी प्रकृति के गर्मों में डालता हूँ। ये अज्ञानी आत्माएँ बार-बार आसुरी प्रकृति के गर्थों में जन्म लेती हैं। मुझ तक पहुँचने में असफल होने के कारण हे अर्जुन! वे शनैः-शनैः अति अधम जीवन प्राप्त करते हैं।",
+    chapter: 1,
+    verse: 34-35,
+    shloka: "आचार्या: पितर: पुत्रास्तथैव च पितामहा: |मातुला: श्वशुरा: पौत्रा: श्याला: सम्बन्धिनस्तथा || 34|| एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन |अपि त्रैलोक्यराज्यस्य हेतो: किं नु महीकृते || 35||",
+    translation: "1.34-35: Teachers, fathers, sons, grandfathers, maternal uncles, grandsons, fathers-in-law, grand-nephews, brothers-in-law, and other kinsmen are present here, staking their lives and riches. O Madhusudan, I do not wish to slay them, even if they attack me. If we kill the sons of Dhritarashtra, what satisfaction will we derive from the dominion over the three worlds, what to speak of this Earth?",
+    hindi_translation: "1.34-35: हे मधुसूदन! जब आचार्यगण, पितृगण, पुत्र, पितामह, मामा, पौत्र, ससुर, भांजे, साले और अन्य संबंधी अपने प्राण और धन का दाव लगाकर यहाँ उपस्थित हुए हैं। यद्यपि वे मुझपर आक्रमण भी करते हैं तथापि मैं इनका वध क्यों करूं? यदि फिर भी हम धृतराष्ट्र के पुत्रों का वध करते हैं तब भले ही इससे हमें पृथ्वी के अलावा तीनों लोक भी प्राप्त क्यों न होते हों तब भी उन्हें मारने से हमें सुख कैसे प्राप्त होगा?",
 );
 ```
 <p align="center">
