@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 17,
-    verse: 24,
-    shloka: "तस्माद् ॐ इत्युदाहृत्य यज्ञदानतप:क्रिया: |प्रवर्तन्ते विधानोक्ता: सततं ब्रह्मवादिनाम् || 24||",
-    translation: "17.24: Therefore, when performing acts of sacrifice, offering charity, or undertaking penance, expounders of the Vedas always begin by uttering “Om” according to the prescriptions of Vedic injunctions.",
-    hindi_translation: "17.24: इसलिए यज्ञ कर्म करना, दान देना और तपस्या जैसे कार्यों का शुभारम्भ वेदों के व्याख्याता वैदिक विधानों के निर्देशानुसार 'ओम' का उच्चारण करते हुए हैं।",
+    verse: 12,
+    shloka: "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् || 12||",
+    translation: "17.12: O best of the Bharatas, know that sacrifice, which is performed for material benefit, or with hypocritical aim, to be in the mode of passion.",
+    hindi_translation: "17.12: हे श्रेष्ठ भरतवंशी! जो यज्ञ भौतिक लाभ अथवा आडम्बरपूर्ण उद्देश्य के साथ किया जाता है उसे रजोगुणी श्रेणी का यज्ञ समझो।",
 );
 ```
 <p align="center">
