@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 12,
-    shloka: "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् || 12||",
-    translation: "17.12: O best of the Bharatas, know that sacrifice, which is performed for material benefit, or with hypocritical aim, to be in the mode of passion.",
-    hindi_translation: "17.12: हे श्रेष्ठ भरतवंशी! जो यज्ञ भौतिक लाभ अथवा आडम्बरपूर्ण उद्देश्य के साथ किया जाता है उसे रजोगुणी श्रेणी का यज्ञ समझो।",
+    chapter: 14,
+    verse: 14-15,
+    shloka: "यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् |तदोत्तमविदां लोकानमलान्प्रतिपद्यते || 14||रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते |तथा प्रलीनस्तमसि मूढयोनिषु जायते || 15||",
+    translation: "14.14-15: Those who die with predominance of sattva reach the pure abodes (which are free from rajas and tamas) of the learned. Those who die with prevalence of the mode of passion are born among people driven by work, while those dying in the mode of ignorance take birth in the animal kingdom.",
+    hindi_translation: "14.14-15: जिनमें सत्वगुण की प्रधानता होती है वे मृत्यु पश्चात ऋषियों के ऐसे उच्च लोक में जाते हैं जो रजो और तमोगुण से मुक्त होता है। रजोगुण की प्रबलता वाले सकाम कर्म करने वाले लोगों के बीच जन्म लेते हैं और तमोगुण में मरने वाले पशुओं की प्रजातियों में जन्म लेते है।",
 );
 ```
 <p align="center">
