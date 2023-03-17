@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 14,
-    verse: 14-15,
-    shloka: "यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् |तदोत्तमविदां लोकानमलान्प्रतिपद्यते || 14||रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते |तथा प्रलीनस्तमसि मूढयोनिषु जायते || 15||",
-    translation: "14.14-15: Those who die with predominance of sattva reach the pure abodes (which are free from rajas and tamas) of the learned. Those who die with prevalence of the mode of passion are born among people driven by work, while those dying in the mode of ignorance take birth in the animal kingdom.",
-    hindi_translation: "14.14-15: जिनमें सत्वगुण की प्रधानता होती है वे मृत्यु पश्चात ऋषियों के ऐसे उच्च लोक में जाते हैं जो रजो और तमोगुण से मुक्त होता है। रजोगुण की प्रबलता वाले सकाम कर्म करने वाले लोगों के बीच जन्म लेते हैं और तमोगुण में मरने वाले पशुओं की प्रजातियों में जन्म लेते है।",
+    chapter: 6,
+    verse: 6,
+    shloka: "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जित: |अनात्मनस्तु शत्रुत्वे वर्ते तात्मैव शत्रुवत् || 6||",
+    translation: "6.6: For those who have conquered the mind, it is their friend. For those who have failed to do so, the mind works like an enemy.",
+    hindi_translation: "6.6: जिन्होंने मन पर विजय पा ली है, मन उनका मित्र है किन्तु जो ऐसा करने में असफल होते हैं मन उनके शत्रु के समान कार्य करता है।",
 );
 ```
 <p align="center">
