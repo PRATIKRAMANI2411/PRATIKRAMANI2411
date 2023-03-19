@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 34,
-    shloka: "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन |प्रसङ्गेन फलाकाङ् क्षी धृति: सा पार्थ राजसी || 34||",
-    translation: "18.34: The steadfast will by which one holds to duty, pleasures, and wealth, out of attachment and desire for rewards, is determination in the mode of passion.",
-    hindi_translation: "18.34: वह द्यति जिसके द्वारा कोई मनुष्य आसक्ति और कर्म फल की इच्छा से कर्तव्य पालन करता है, सुख और धन प्राप्ति में लिप्त रहता है, वह राजसी धृति कहलाती है।",
+    chapter: 15,
+    verse: 18,
+    shloka: "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तम: |अतोऽस्मि लोके वेदे च प्रथित: पुरुषोत्तम: || 18||",
+    translation: "15.18: I am transcendental to the perishable world of matter, and even to the imperishable soul; hence I am celebrated, both in the Vedas and the Smṛitis, as the Supreme Divine Personality.",
+    hindi_translation: "15.18: मैं नश्वर सांसारिक पदार्थों और यहाँ तक कि अविनाशी आत्मा से भी परे हूँ इसलिए मैं वेदों और स्मृतियों दोनों में ही दिव्य परम पुरूष के रूप में विख्यात हूँ।",
 );
 ```
 <p align="center">
