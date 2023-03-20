@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 18,
-    shloka: "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तम: |अतोऽस्मि लोके वेदे च प्रथित: पुरुषोत्तम: || 18||",
-    translation: "15.18: I am transcendental to the perishable world of matter, and even to the imperishable soul; hence I am celebrated, both in the Vedas and the Smṛitis, as the Supreme Divine Personality.",
-    hindi_translation: "15.18: मैं नश्वर सांसारिक पदार्थों और यहाँ तक कि अविनाशी आत्मा से भी परे हूँ इसलिए मैं वेदों और स्मृतियों दोनों में ही दिव्य परम पुरूष के रूप में विख्यात हूँ।",
+    chapter: 2,
+    verse: 60,
+    shloka: "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चित: |इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मन: || 60||",
+    translation: "2.60: The senses are so strong and turbulent, O son of Kunti, that they can forcibly carry away the mind even of a person endowed with discrimination who practices self-control.",
+    hindi_translation: "2.60: हे कुन्ति पुत्र! इन्द्रियाँ इतनी प्रबल और अशान्त होती है कि वे विवेकशील और आत्म नियंत्रण का अभ्यास करने वाले मनुष्य के मन को भी अपने वश में कर लेती है।",
 );
 ```
 <p align="center">
