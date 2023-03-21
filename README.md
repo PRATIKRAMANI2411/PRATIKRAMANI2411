@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 60,
-    shloka: "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चित: |इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मन: || 60||",
-    translation: "2.60: The senses are so strong and turbulent, O son of Kunti, that they can forcibly carry away the mind even of a person endowed with discrimination who practices self-control.",
-    hindi_translation: "2.60: हे कुन्ति पुत्र! इन्द्रियाँ इतनी प्रबल और अशान्त होती है कि वे विवेकशील और आत्म नियंत्रण का अभ्यास करने वाले मनुष्य के मन को भी अपने वश में कर लेती है।",
+    chapter: 4,
+    verse: 1,
+    shloka: "श्रीभगवानुवाच |इमं विवस्वते योगं प्रोक्तवानहमव्ययम् |विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् || 1||",
+    translation: "4.1: The Supreme Lord Shree Krishna said: I taught this eternal science of Yog to the Sun God, Vivasvan, who passed it on to Manu; and Manu, in turn, instructed it to Ikshvaku.",
+    hindi_translation: "4.1: परम भगवान श्रीकृष्ण ने कहा-मैने इस शाश्वत ज्ञानयोग का उपदेश सूर्यदेव, विवस्वान् को दिया और विवस्वान् ने मनु और फिर इसके बाद मनु ने इसका उपदेश इक्ष्वाकु को दिया।",
 );
 ```
 <p align="center">
