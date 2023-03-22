@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 1,
-    shloka: "श्रीभगवानुवाच |इमं विवस्वते योगं प्रोक्तवानहमव्ययम् |विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् || 1||",
-    translation: "4.1: The Supreme Lord Shree Krishna said: I taught this eternal science of Yog to the Sun God, Vivasvan, who passed it on to Manu; and Manu, in turn, instructed it to Ikshvaku.",
-    hindi_translation: "4.1: परम भगवान श्रीकृष्ण ने कहा-मैने इस शाश्वत ज्ञानयोग का उपदेश सूर्यदेव, विवस्वान् को दिया और विवस्वान् ने मनु और फिर इसके बाद मनु ने इसका उपदेश इक्ष्वाकु को दिया।",
+    chapter: 18,
+    verse: 62,
+    shloka: "तमेव शरणं गच्छ सर्वभावेन भारत |तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् || 62||",
+    translation: "18.62: Surrender exclusively unto him with your whole being, O Bharat. By his grace, you will attain perfect peace and the eternal abode.",
+    hindi_translation: "18.62: हे भारत! अपने पूर्ण अस्तित्त्व के साथ पूर्ण रूप से केवल उसकी शरण ग्रहण करो। उसकी कृपा से तुम पूर्ण शांति और उसके नित्यधाम को प्राप्त करोगे।",
 );
 ```
 <p align="center">
