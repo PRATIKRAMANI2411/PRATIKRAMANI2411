@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 62,
-    shloka: "तमेव शरणं गच्छ सर्वभावेन भारत |तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् || 62||",
-    translation: "18.62: Surrender exclusively unto him with your whole being, O Bharat. By his grace, you will attain perfect peace and the eternal abode.",
-    hindi_translation: "18.62: हे भारत! अपने पूर्ण अस्तित्त्व के साथ पूर्ण रूप से केवल उसकी शरण ग्रहण करो। उसकी कृपा से तुम पूर्ण शांति और उसके नित्यधाम को प्राप्त करोगे।",
+    chapter: 16,
+    verse: 10,
+    shloka: "काममाश्रित्य दुष्पूरं दम्भमानमदान्विता: |मोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रता: || 10||",
+    translation: "16.10: Harboring insatiable lust, full of hypocrisy, pride and arrogance, the demoniac cling to their false tenets. Thus illusioned, they are attracted to the impermanent and work with impure resolve.",
+    hindi_translation: "16.10: अतृप्त काम वासनाओं, पाखंड से पूर्ण गर्व और अभिमान में डूबे हुए आसुरी प्रवृति वाले मनुष्य अपने झूठे सिद्धान्तो से चिपके रहते हैं। इस प्रकार से वे भ्रमित होकर अशुभ संकल्प के साथ काम करते हैं।",
 );
 ```
 <p align="center">
