@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 10,
-    shloka: "काममाश्रित्य दुष्पूरं दम्भमानमदान्विता: |मोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रता: || 10||",
-    translation: "16.10: Harboring insatiable lust, full of hypocrisy, pride and arrogance, the demoniac cling to their false tenets. Thus illusioned, they are attracted to the impermanent and work with impure resolve.",
-    hindi_translation: "16.10: अतृप्त काम वासनाओं, पाखंड से पूर्ण गर्व और अभिमान में डूबे हुए आसुरी प्रवृति वाले मनुष्य अपने झूठे सिद्धान्तो से चिपके रहते हैं। इस प्रकार से वे भ्रमित होकर अशुभ संकल्प के साथ काम करते हैं।",
+    chapter: 2,
+    verse: 46,
+    shloka: "यावानर्थ उदपाने सर्वत: सम्प्लुतोदके |तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानत: || 46||",
+    translation: "2.46: Whatever purpose is served by a small well of water is naturally served in all respects by a large lake. Similarly, one who realizes the Absolute Truth also fulfills the purpose of all the Vedas.",
+    hindi_translation: "2.46: जैसे एक छोटे जलकूप का समस्त कार्य सहजता से सभी प्रकार से विशाल जलाशय से तत्काल पूर्ण हो जाता है, उसी प्रकार समान रूप से परम सत्य को जानने वाले वेदों के सभी प्रयोजन को पूर्ण करते हैं।",
 );
 ```
 <p align="center">
