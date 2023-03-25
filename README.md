@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 46,
-    shloka: "यावानर्थ उदपाने सर्वत: सम्प्लुतोदके |तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानत: || 46||",
-    translation: "2.46: Whatever purpose is served by a small well of water is naturally served in all respects by a large lake. Similarly, one who realizes the Absolute Truth also fulfills the purpose of all the Vedas.",
-    hindi_translation: "2.46: जैसे एक छोटे जलकूप का समस्त कार्य सहजता से सभी प्रकार से विशाल जलाशय से तत्काल पूर्ण हो जाता है, उसी प्रकार समान रूप से परम सत्य को जानने वाले वेदों के सभी प्रयोजन को पूर्ण करते हैं।",
+    chapter: 18,
+    verse: 74,
+    shloka: "सञ्जय उवाच |इत्यहं वासुदेवस्य पार्थस्य च महात्मन: |संवादमिममश्रौषमद्भुतं रोमहर्षणम् || 74||",
+    translation: "18.74: Sanjay said: Thus, have I heard this wonderful conversation between Shree Krishna, the son of Vasudev, and Arjun, the noble-hearted son of Pritha. So thrilling is the message that my hair is standing on end.",
+    hindi_translation: "18.74: संजय ने कहाः इस प्रकार से मैंने वासुदेव पुत्र श्रीकृष्ण और उदारचित्त पृथा पुत्र अर्जुन के बीच अद्भुत संवाद सुना। यह इतना रोमांचकारी संदेश है कि इससे मेरे शरीर के रोंगटे खड़े हो गए हैं।",
 );
 ```
 <p align="center">
