@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 10,
-    shloka: "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् |बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् || 10||",
-    translation: "7.10: O Arjun, know that I am the eternal seed of all beings. I am the intellect of the intelligent, and the splendor of the glorious.",
-    hindi_translation: "7.10: हे अर्जुन! यह समझो कि मैं सभी प्राणियों का आदि बीज हूँ। मैं बुद्धिमानों की बुद्धि और तेजस्वियों का तेज हूँ?",
+    chapter: 11,
+    verse: 5,
+    shloka: "श्रीभगवानुवाच |पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रश: |नानाविधानि दिव्यानि नानावर्णाकृतीनि च || 5||",
+    translation: "11.5: The Supreme Lord said: Behold, O Parth, my hundreds and thousands of wonderful forms of various shapes, sizes, and colors.",
+    hindi_translation: "11.5: परमेश्वर ने कहा-हे पार्थ! अब तुम मेरे सैकड़ों और हजारों अद्भुत दिव्य रूपों को विभिन्न आकारों और बहुरंगी रूपों में देखो।",
 );
 ```
 <p align="center">
