@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 5,
-    shloka: "श्रीभगवानुवाच |पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रश: |नानाविधानि दिव्यानि नानावर्णाकृतीनि च || 5||",
-    translation: "11.5: The Supreme Lord said: Behold, O Parth, my hundreds and thousands of wonderful forms of various shapes, sizes, and colors.",
-    hindi_translation: "11.5: परमेश्वर ने कहा-हे पार्थ! अब तुम मेरे सैकड़ों और हजारों अद्भुत दिव्य रूपों को विभिन्न आकारों और बहुरंगी रूपों में देखो।",
+    chapter: 1,
+    verse: 3,
+    shloka: "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ।। 3।।",
+    translation: "1.3: Duryodhan said: Respected teacher! Behold the mighty army of the sons of Pandu, so expertly arrayed for battle by your own gifted disciple, the son of Drupad.",
+    hindi_translation: "1.3: दुर्योधन ने कहाः पूज्य आचार्य! पाण्डु पुत्रों की विशाल सेना का अवलोकन करें, जिसे आपके द्वारा प्रशिक्षित बुद्धिमान शिष्य द्रुपद के पुत्र ने कुशलतापूर्वक युद्ध करने के लिए सुव्यवस्थित किया है।",
 );
 ```
 <p align="center">
