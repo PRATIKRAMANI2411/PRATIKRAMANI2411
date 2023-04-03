@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 7,
-    shloka: "जितात्मन: प्रशान्तस्य परमात्मा समाहित: |शीतोष्णसुखदु:खेषु तथा मानापमानयो: || 7||",
-    translation: "6.7: The yogis who have conquered the mind rise above the dualities of cold and heat, joy and sorrow, and honor and dishonor. Such yogis remain peaceful and steadfast in their devotion to God.",
-    hindi_translation: "6.7: वे योगी जिन्होंने मन पर विजय पा ली है वे शीत-ताप, सुख-दुख और मान-अपमान के द्वंद्वों से ऊपर उठ जाते हैं। ऐसे योगी शान्त रहते हैं और भगवान की भक्ति के प्रति उनकी श्रद्धा अटल होती है।",
+    chapter: 1,
+    verse: 3,
+    shloka: "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ।। 3।।",
+    translation: "1.3: Duryodhan said: Respected teacher! Behold the mighty army of the sons of Pandu, so expertly arrayed for battle by your own gifted disciple, the son of Drupad.",
+    hindi_translation: "1.3: दुर्योधन ने कहाः पूज्य आचार्य! पाण्डु पुत्रों की विशाल सेना का अवलोकन करें, जिसे आपके द्वारा प्रशिक्षित बुद्धिमान शिष्य द्रुपद के पुत्र ने कुशलतापूर्वक युद्ध करने के लिए सुव्यवस्थित किया है।",
 );
 ```
 <p align="center">
