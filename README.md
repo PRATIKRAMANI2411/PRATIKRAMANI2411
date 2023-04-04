@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 3,
-    shloka: "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ।। 3।।",
-    translation: "1.3: Duryodhan said: Respected teacher! Behold the mighty army of the sons of Pandu, so expertly arrayed for battle by your own gifted disciple, the son of Drupad.",
-    hindi_translation: "1.3: दुर्योधन ने कहाः पूज्य आचार्य! पाण्डु पुत्रों की विशाल सेना का अवलोकन करें, जिसे आपके द्वारा प्रशिक्षित बुद्धिमान शिष्य द्रुपद के पुत्र ने कुशलतापूर्वक युद्ध करने के लिए सुव्यवस्थित किया है।",
+    chapter: 18,
+    verse: 19,
+    shloka: "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदत: |प्रोच्यते गुणसङ् ख्याने यथावच्छृणु तान्यपि || 19||",
+    translation: "18.19: Knowledge, action, and the doer are declared to be of three kinds in the Sānkhya philosophy, distinguished according to the three modes of material nature. Listen, and I will explain their distinctions to you.",
+    hindi_translation: "18.19: सांख्य दर्शन में ज्ञान, कर्म और कर्ता की तीन श्रेणियों का उल्लेख किया गया है और तदनुसार प्रकृति के तीन गुणों के अनुसार इनमें भेद का वर्णन भी किया गया है। इन्हें सुनो और मैं तुम्हें इनका भेद बताता हूँ।",
 );
 ```
 <p align="center">
