@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 11,
-    shloka: "अफलाकाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते |यष्टव्यमेवेति मन: समाधाय स सात्त्विक: || 11||",
-    translation: "17.11: Sacrifice that is performed according to the scriptural injunctions without expectation of rewards, with the firm conviction of the mind that it is a matter of duty is of the nature of goodness.",
-    hindi_translation: "17.11: धर्मशास्त्रों की आज्ञाओं के अनुसार पारितोषिक की अपेक्षा किए बिना और मन की दृढ़ता के साथ कर्त्तव्य समझते हुए किया गया यज्ञ सत्वगुणी प्रकृति का है।",
+    chapter: 18,
+    verse: 75,
+    shloka: "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् |योगं योगेश्वरात्कृष्णात्साक्षात्कथयत: स्वयम् || 75||",
+    translation: "18.75: By the grace of Veda Vyas, I have heard this supreme and most secret Yog from the Lord of Yog, Shree Krishna himself.",
+    hindi_translation: "18.75: वेदव्यास की कृपा से मैंने इस परम गुह्य योग को साक्षात योगेश्वर श्रीकृष्ण से सुना।",
 );
 ```
 <p align="center">
