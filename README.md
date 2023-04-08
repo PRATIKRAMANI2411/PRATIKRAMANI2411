@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 75,
-    shloka: "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् |योगं योगेश्वरात्कृष्णात्साक्षात्कथयत: स्वयम् || 75||",
-    translation: "18.75: By the grace of Veda Vyas, I have heard this supreme and most secret Yog from the Lord of Yog, Shree Krishna himself.",
-    hindi_translation: "18.75: वेदव्यास की कृपा से मैंने इस परम गुह्य योग को साक्षात योगेश्वर श्रीकृष्ण से सुना।",
+    chapter: 1,
+    verse: 41,
+    shloka: "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रिय: |स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्कर: || 41||",
+    translation: "1.41: With the preponderance of vice, O Krishna, the women of the family become immoral; and from the immorality of women, O descendent of Vrishni, unwanted progeny are born.",
+    hindi_translation: "1.41: अधर्म की प्रबलता के साथ हे कृष्ण! कुल की स्त्रियां दूषित हो जाती हैं और स्त्रियों के दुराचारिणी होने से हे वृष्णिवंशी! अवांछित संतानें जन्म लेती हैं।",
 );
 ```
 <p align="center">
