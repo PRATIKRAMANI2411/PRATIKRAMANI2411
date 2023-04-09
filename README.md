@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 41,
-    shloka: "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रिय: |स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्कर: || 41||",
-    translation: "1.41: With the preponderance of vice, O Krishna, the women of the family become immoral; and from the immorality of women, O descendent of Vrishni, unwanted progeny are born.",
-    hindi_translation: "1.41: अधर्म की प्रबलता के साथ हे कृष्ण! कुल की स्त्रियां दूषित हो जाती हैं और स्त्रियों के दुराचारिणी होने से हे वृष्णिवंशी! अवांछित संतानें जन्म लेती हैं।",
+    chapter: 9,
+    verse: 29,
+    shloka: "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रिय: |ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् || 29||",
+    translation: "9.29: I am equally disposed to all living beings; I am neither inimical nor partial to anyone. But the devotees who worship Me with love reside in Me and I reside in them.",
+    hindi_translation: "9.29: मैं समभाव से सभी जीवों के साथ व्यवहार करता हूँ न तो मैं किसी के साथ द्वेष करता हूँ और न ही पक्षपात करता हूँ लेकिन जो भक्त मेरी प्रेममयी भक्ति करते हैं, मैं उनके हृदय में और वे मेरे हृदय में निवास करते हैं।",
 );
 ```
 <p align="center">
