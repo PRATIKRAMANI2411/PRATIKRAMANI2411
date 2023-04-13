@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 15,
-    shloka: "सर्वस्य चाहं हृदि सन्निविष्टोमत्त: स्मृतिर्ज्ञानमपोहनं च |वेदैश्च सर्वैरहमेव वेद्योवेदान्तकृद्वेदविदेव चाहम् || 15||",
-    translation: "15.15: I am seated in the hearts of all living beings, and from Me come memory, knowledge, as well as forgetfulness. I alone am to be known by all the Vedas, am the author of the Vedant, and the knower of the meaning of the Vedas.",
-    hindi_translation: "15.15: मैं समस्त जीवों के हृदय में निवास करता हूँ और मुझसे ही स्मृति, ज्ञान और विस्मृति आती है। केवल मैं ही सभी वेदों द्वारा जानने योग्य हूँ, मैं वेदांत का रचयिता और वेदों का अर्थ जानने वाला हूँ।",
+    chapter: 2,
+    verse: 6,
+    shloka: "न चैतद्विद्म: कतरन्नो गरीयोयद्वा जयेम यदि वा नो जयेयु: |यानेव हत्वा न जिजीविषामस्तेऽवस्थिता: प्रमुखे धार्तराष्ट्रा: || 6||",
+    translation: "2.6: We do not even know which result of this war is preferable for us—conquering them or being conquered by them. Even after killing them we will not desire to live. Yet they have taken the side of Dhritarasthra, and now stand before us on the battlefield.",
+    hindi_translation: "2.6: हम यह भी नहीं जानते कि इस युद्ध का परिणाम हमारे लिए किस प्रकार से श्रेयस्कर होगा। उन पर विजय पाकर या उनसे पराजित होकर। यद्यपि उन्होंने धृतराष्ट्र का पक्ष लिया है और अब वे युद्धभूमि में हमारे सम्मुख खड़े हैं तथापि उनको मारकर हमारी जीवित रहने की कोई इच्छा नहीं होगी।",
 );
 ```
 <p align="center">
