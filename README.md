@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 16,
-    shloka: "अनेकचित्तविभ्रान्ता मोहजालसमावृता: |प्रसक्ता: कामभोगेषु पतन्ति नरकेऽशुचौ || 16||",
-    translation: "16.16: Possessed and led astray by such imaginings, enveloped in a mesh of delusion, and addicted to the gratification of sensuous pleasures, they descend to the murkiest hell.",
-    hindi_translation: "16.16: ऐसी कल्पनाओं द्वारा पथभ्रष्ट होकर और मोह के जाल से आच्छादित तथा इन्द्रिय भोग की तृप्ति के आदी होकर वे अंधे नरक में गिरते हैं।",
+    chapter: 11,
+    verse: 30,
+    shloka: "लेलिह्यसे ग्रसमान: समन्ता-ल्लोकान्समग्रान्वदनैर्ज्वलद्भि: |तेजोभिरापूर्य जगत्समग्रंभासस्तवोग्रा: प्रतपन्ति विष्णो || 30||",
+    translation: "11.30: With your fiery tongues you are licking up the hosts of living beings on all sides and devouring them with your blazing mouths. O Vishnu, you are scorching the entire universe with the fierce, all-pervading rays of your effulgence.",
+    hindi_translation: "11.30: तुम अपनी तीक्ष्ण जिह्वा से समस्त दिशाओं के जीव समूहों को चाट रहे हो और उन्हें अपने प्रज्जवलित मुखों में निगल रहे हो। हे विष्णु! आप अपने सर्वत्र फैले प्रचंड तेज की किरणों से समस्त ब्रह्माण्ड को भीषणता से झुलसा रहे हो।",
 );
 ```
 <p align="center">
