@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 75,
-    shloka: "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् |योगं योगेश्वरात्कृष्णात्साक्षात्कथयत: स्वयम् || 75||",
-    translation: "18.75: By the grace of Veda Vyas, I have heard this supreme and most secret Yog from the Lord of Yog, Shree Krishna himself.",
-    hindi_translation: "18.75: वेदव्यास की कृपा से मैंने इस परम गुह्य योग को साक्षात योगेश्वर श्रीकृष्ण से सुना।",
+    chapter: 11,
+    verse: 54,
+    shloka: "भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन |ज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परन्तप || 54||",
+    translation: "11.54: O Arjun, by unalloyed devotion alone can I be known as I am, standing before you. Thereby, on receiving my divine vision, O scorcher of foes, one can enter into union with me.",
+    hindi_translation: "11.54: हे अर्जुन! मैं जिस रूप में तुम्हारे समक्ष खड़ा हूँ उसे केवल अनन्य भक्ति से जाना जा सकता है। हे शत्रुहंता! इस प्रकार मेरी दिव्य दृष्टि प्राप्त होने पर ही कोई वास्तव में मुझमें एकीकृत हो सकता है।",
 );
 ```
 <p align="center">
