@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 54,
-    shloka: "भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन |ज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परन्तप || 54||",
-    translation: "11.54: O Arjun, by unalloyed devotion alone can I be known as I am, standing before you. Thereby, on receiving my divine vision, O scorcher of foes, one can enter into union with me.",
-    hindi_translation: "11.54: हे अर्जुन! मैं जिस रूप में तुम्हारे समक्ष खड़ा हूँ उसे केवल अनन्य भक्ति से जाना जा सकता है। हे शत्रुहंता! इस प्रकार मेरी दिव्य दृष्टि प्राप्त होने पर ही कोई वास्तव में मुझमें एकीकृत हो सकता है।",
+    chapter: 18,
+    verse: 61,
+    shloka: "ईश्वर: सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति |भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया || 61||",
+    translation: "18.61: The Supreme Lord dwells in the hearts of all living beings, O Arjun. According to their karmas, he directs the wanderings of the souls, who are seated on a machine made of the material energy.",
+    hindi_translation: "18.61: हे अर्जुन! परमात्मा सभी जीवों के हृदय में निवास करता है। उनके कर्मों के अनुसार वह भटकती आत्माओं को निर्देशित करता है जो भौतिक शक्ति से निर्मित यंत्र पर सवार होती है।",
 );
 ```
 <p align="center">
