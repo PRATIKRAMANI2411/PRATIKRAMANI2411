@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 22,
-    shloka: "यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सर: |सम: सिद्धावसिद्धौ च कृत्वापि न निबध्यते || 22||",
-    translation: "4.22: Content with whatever gain comes of its own accord, and free from envy, they are beyond the dualities of life. Being equipoised in success and failure, they are not bound by their actions, even while performing all kinds of activities.",
-    hindi_translation: "4.22: वे जो अपने आप स्वतः प्राप्त हो जाए उसमें संतुष्ट रहते हैं, ईर्ष्या और द्वैत भाव से मुक्त रहते हैं, वे सफलता और असफलता दोनों में संतुलित रहते हैं, वे सभी प्रकार के कार्य करते हुए कर्म के बंधन में नहीं पड़ते।",
+    chapter: 2,
+    verse: 66,
+    shloka: "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना |न चाभावयत: शान्तिरशान्तस्य कुत: सुखम् || 66||",
+    translation: "2.66: But an undisciplined person, who has not controlled the mind and senses, can neither have a resolute intellect nor steady contemplation on God. For one who never unites the mind with God there is no peace; and how can one who lacks peace be happy?",
+    hindi_translation: "2.66: लेकिन असंयमी व्यक्ति का अपने मन और इन्द्रियों पर नियंत्रण नहीं होता, न ही उसकी बुद्धि दृढ़ होती है और न ही उसका मन भगवान के चिन्तन मे स्थिर हो सकता है जो अपने मन को भगवान में स्थिर नहीं करता, जिसके बिना शान्ति संभव नहीं और शांति के बिना कोई कैसे सुखी रह सकता है?",
 );
 ```
 <p align="center">
