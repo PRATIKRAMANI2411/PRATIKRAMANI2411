@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 66,
-    shloka: "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना |न चाभावयत: शान्तिरशान्तस्य कुत: सुखम् || 66||",
-    translation: "2.66: But an undisciplined person, who has not controlled the mind and senses, can neither have a resolute intellect nor steady contemplation on God. For one who never unites the mind with God there is no peace; and how can one who lacks peace be happy?",
-    hindi_translation: "2.66: लेकिन असंयमी व्यक्ति का अपने मन और इन्द्रियों पर नियंत्रण नहीं होता, न ही उसकी बुद्धि दृढ़ होती है और न ही उसका मन भगवान के चिन्तन मे स्थिर हो सकता है जो अपने मन को भगवान में स्थिर नहीं करता, जिसके बिना शान्ति संभव नहीं और शांति के बिना कोई कैसे सुखी रह सकता है?",
+    chapter: 7,
+    verse: 21,
+    shloka: "यो यो यां यां तनुं भक्त: श्रद्धयार्चितुमिच्छति |तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् || 21||",
+    translation: "7.21: Whatever celestial form a devotee seeks to worship with faith, I steady the faith of such a devotee in that form.",
+    hindi_translation: "7.21: भक्त श्रद्धा के साथ स्वर्ग के देवता के जिस रूप की पूजा करना चाहता है, मैं ऐसे भक्त की श्रद्धा को उसी रूप में स्थिर करता हूँ।",
 );
 ```
 <p align="center">
