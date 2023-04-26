@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 6,
-    shloka: "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च |कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् || 6||",
-    translation: "18.6: These activities must be performed without attachment and expectation for rewards. This is my definite and supreme verdict, O Arjun.",
-    hindi_translation: "18.6: ये सब कार्य आसक्ति और फल की कामना से रहित होकर संपन्न करने चाहिए। हे अर्जुन! यह मेरा स्पष्ट और अंतिम निर्णय है।",
+    chapter: 10,
+    verse: 42,
+    shloka: "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन |विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् || 42||",
+    translation: "10.42: What need is there for all this detailed knowledge, O Arjun? Simply know that by one fraction of my being, I pervade and support this entire creation.",
+    hindi_translation: "10.42: हे अर्जुन! इस प्रकार के विस्तृत ज्ञान की क्या आवश्यकता हैं। केवल इतना समझ लो कि मैं अपने एक अंश मात्र से सकल सृष्टि में व्याप्त होकर उसे धारण करता हूँ।",
 );
 ```
 <p align="center">
