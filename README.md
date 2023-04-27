@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 42,
-    shloka: "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन |विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् || 42||",
-    translation: "10.42: What need is there for all this detailed knowledge, O Arjun? Simply know that by one fraction of my being, I pervade and support this entire creation.",
-    hindi_translation: "10.42: हे अर्जुन! इस प्रकार के विस्तृत ज्ञान की क्या आवश्यकता हैं। केवल इतना समझ लो कि मैं अपने एक अंश मात्र से सकल सृष्टि में व्याप्त होकर उसे धारण करता हूँ।",
+    chapter: 6,
+    verse: 38,
+    shloka: "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति |अप्रतिष्ठो महाबाहो विमूढो ब्रह्मण: पथि || 38||",
+    translation: "6.38: Does not such a person who deviates from Yog get deprived of both material and spiritual success, O mighty-armed Krishna, and perish like a broken cloud with no position in either sphere?",
+    hindi_translation: "6.38: हे महाबाहु कृष्ण! क्या योग से पथ भ्रष्ट ऐसा व्यक्ति भौतिक एवं आध्यात्मिक सफलताओं से वंचित नहीं होता और छिन्न-भिन्न बादलों की भाँति नष्ट नहीं हो जाता जिसके परिणामस्वरूप वह किसी भी लोक में स्थान नहीं पाता?",
 );
 ```
 <p align="center">
