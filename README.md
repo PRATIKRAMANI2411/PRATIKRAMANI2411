@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 6,
-    verse: 38,
-    shloka: "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति |अप्रतिष्ठो महाबाहो विमूढो ब्रह्मण: पथि || 38||",
-    translation: "6.38: Does not such a person who deviates from Yog get deprived of both material and spiritual success, O mighty-armed Krishna, and perish like a broken cloud with no position in either sphere?",
-    hindi_translation: "6.38: हे महाबाहु कृष्ण! क्या योग से पथ भ्रष्ट ऐसा व्यक्ति भौतिक एवं आध्यात्मिक सफलताओं से वंचित नहीं होता और छिन्न-भिन्न बादलों की भाँति नष्ट नहीं हो जाता जिसके परिणामस्वरूप वह किसी भी लोक में स्थान नहीं पाता?",
+    verse: 2,
+    shloka: "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव |न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन || 2||",
+    translation: "6.2: What is known as sanyās is non-different from Yog, for none become yogis without renouncing worldly desires.",
+    hindi_translation: "6.2: जिसे संन्यास के रूप में जाना जाता है वह योग से भिन्न नहीं है। कोई भी सांसारिक कामनाओं का त्याग किए बिना संन्यासी नहीं बन सकता।",
 );
 ```
 <p align="center">
