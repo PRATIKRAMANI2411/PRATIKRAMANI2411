@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 25,
-    shloka: "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते |तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि || 25||",
-    translation: "2.25: The soul is spoken of as invisible, inconceivable, and unchangeable. Knowing this, you should not grieve for the body.",
-    hindi_translation: "2.25: इस आत्मा को अदृश्य, अचिंतनीय और अपरिवर्तनशील कहा गया है। यह जानकर हमें शरीर के लिए शोक प्रकट नहीं करना चाहिए।",
+    chapter: 18,
+    verse: 35,
+    shloka: "यया स्वप्नं भयं शोकं विषादं मदमेव च |न विमुञ्चति दुर्मेधा धृति: सा पार्थ तामसी || 35||",
+    translation: "18.35: That unintelligent resolve is said to be determination in the mode of ignorance, in which one does not give up dreaming, fearing, grieving, despair, and conceit.",
+    hindi_translation: "18.35: दर्बद्धिपूर्ण संकल्प जिसमें कोई स्वप्न देखने, भय, दुख, मोह, निराशा और कपट का त्याग नहीं करता उसे तमोगुणी घृति कहा जाता है।",
 );
 ```
 <p align="center">
