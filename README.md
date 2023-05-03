@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 35,
-    shloka: "यया स्वप्नं भयं शोकं विषादं मदमेव च |न विमुञ्चति दुर्मेधा धृति: सा पार्थ तामसी || 35||",
-    translation: "18.35: That unintelligent resolve is said to be determination in the mode of ignorance, in which one does not give up dreaming, fearing, grieving, despair, and conceit.",
-    hindi_translation: "18.35: दर्बद्धिपूर्ण संकल्प जिसमें कोई स्वप्न देखने, भय, दुख, मोह, निराशा और कपट का त्याग नहीं करता उसे तमोगुणी घृति कहा जाता है।",
+    chapter: 4,
+    verse: 12,
+    shloka: "काङ् क्षन्त: कर्मणां सिद्धिं यजन्त इह देवता: |क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा || 12||",
+    translation: "4.12: In this world, those desiring success in material activities worship the celestial gods, since material rewards manifest quickly.",
+    hindi_translation: "4.12: इस संसार में जो लोग सकाम कर्मों में सफलता चाहते हैं वे लोग स्वर्ग के देवताओं की पूजा करते हैं क्योंकि सकाम कर्मों का फल शीघ्र प्राप्त होता है।",
 );
 ```
 <p align="center">
