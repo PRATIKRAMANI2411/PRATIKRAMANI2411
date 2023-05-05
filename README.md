@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 48,
-    shloka: "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् |सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृता: || 48||",
-    translation: "18.48: One should not abandon duties born of one’s nature, even if one sees defects in them, O son of Kunti. Indeed, all endeavors are veiled by some evil, as fire is by smoke.",
-    hindi_translation: "18.48: किसी को भी अपनी प्रकृति से उत्पन्न कर्त्तव्यों का परित्याग नहीं करना चाहिए चाहे कोई उनमें दोष भी क्यों न देखता हो। हे कुन्ती पुत्र! वास्तव में सभी प्रकार के उद्योग कुछ न कुछ बुराई से आवृत रहते हैं जैसे आग धुंए से ढकी रहती है।",
+    chapter: 16,
+    verse: 21,
+    shloka: "त्रिविधं नरकस्येदं द्वारं नाशनमात्मन: |काम: क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् || 21||",
+    translation: "16.21: There are three gates leading to the hell of self-destruction for the soul—lust, anger, and greed. Therefore, all should abandon these three.",
+    hindi_translation: "16.21: काम, क्रोध और लोभ जीवात्मा को आत्म विनाश के नरक की ओर ले जाने वाले तीन द्वार हैं इसलिए सबको इनका त्याग करना चाहिए।",
 );
 ```
 <p align="center">
