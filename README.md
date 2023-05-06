@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 21,
-    shloka: "त्रिविधं नरकस्येदं द्वारं नाशनमात्मन: |काम: क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् || 21||",
-    translation: "16.21: There are three gates leading to the hell of self-destruction for the soul—lust, anger, and greed. Therefore, all should abandon these three.",
-    hindi_translation: "16.21: काम, क्रोध और लोभ जीवात्मा को आत्म विनाश के नरक की ओर ले जाने वाले तीन द्वार हैं इसलिए सबको इनका त्याग करना चाहिए।",
+    chapter: 3,
+    verse: 37,
+    shloka: "श्रीभगवानुवाच |काम एष क्रोध एष रजोगुणसमुद्भव: ||महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् || 37||",
+    translation: "3.37: The Supreme Lord said: It is lust alone, which is born of contact with the mode of passion, and later transformed into anger. Know this as the sinful, all-devouring enemy in the world.",
+    hindi_translation: "3.37: परमात्मा श्रीकृष्ण कहते हैं-अकेली काम वासना जो रजोगुण के सम्पर्क में आने से उत्पन्न होती है और बाद में क्रोध का रूप धारण कर लेती है, इसे पाप के रूप में संसार का सर्वभक्षी शत्रु समझो।",
 );
 ```
 <p align="center">
