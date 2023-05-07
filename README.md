@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 37,
-    shloka: "श्रीभगवानुवाच |काम एष क्रोध एष रजोगुणसमुद्भव: ||महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् || 37||",
-    translation: "3.37: The Supreme Lord said: It is lust alone, which is born of contact with the mode of passion, and later transformed into anger. Know this as the sinful, all-devouring enemy in the world.",
-    hindi_translation: "3.37: परमात्मा श्रीकृष्ण कहते हैं-अकेली काम वासना जो रजोगुण के सम्पर्क में आने से उत्पन्न होती है और बाद में क्रोध का रूप धारण कर लेती है, इसे पाप के रूप में संसार का सर्वभक्षी शत्रु समझो।",
+    chapter: 11,
+    verse: 30,
+    shloka: "लेलिह्यसे ग्रसमान: समन्ता-ल्लोकान्समग्रान्वदनैर्ज्वलद्भि: |तेजोभिरापूर्य जगत्समग्रंभासस्तवोग्रा: प्रतपन्ति विष्णो || 30||",
+    translation: "11.30: With your fiery tongues you are licking up the hosts of living beings on all sides and devouring them with your blazing mouths. O Vishnu, you are scorching the entire universe with the fierce, all-pervading rays of your effulgence.",
+    hindi_translation: "11.30: तुम अपनी तीक्ष्ण जिह्वा से समस्त दिशाओं के जीव समूहों को चाट रहे हो और उन्हें अपने प्रज्जवलित मुखों में निगल रहे हो। हे विष्णु! आप अपने सर्वत्र फैले प्रचंड तेज की किरणों से समस्त ब्रह्माण्ड को भीषणता से झुलसा रहे हो।",
 );
 ```
 <p align="center">
