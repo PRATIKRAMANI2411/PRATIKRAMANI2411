@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 30,
-    shloka: "लेलिह्यसे ग्रसमान: समन्ता-ल्लोकान्समग्रान्वदनैर्ज्वलद्भि: |तेजोभिरापूर्य जगत्समग्रंभासस्तवोग्रा: प्रतपन्ति विष्णो || 30||",
-    translation: "11.30: With your fiery tongues you are licking up the hosts of living beings on all sides and devouring them with your blazing mouths. O Vishnu, you are scorching the entire universe with the fierce, all-pervading rays of your effulgence.",
-    hindi_translation: "11.30: तुम अपनी तीक्ष्ण जिह्वा से समस्त दिशाओं के जीव समूहों को चाट रहे हो और उन्हें अपने प्रज्जवलित मुखों में निगल रहे हो। हे विष्णु! आप अपने सर्वत्र फैले प्रचंड तेज की किरणों से समस्त ब्रह्माण्ड को भीषणता से झुलसा रहे हो।",
+    chapter: 2,
+    verse: 8,
+    shloka: "न हि प्रपश्यामि ममापनुद्याद्यच्छोकमुच्छोषणमिन्द्रियाणाम् |अवाप्य भूमावसपत्नमृद्धंराज्यं सुराणामपि चाधिपत्यम् || 8||",
+    translation: "2.8: I can find no means of driving away this anguish that is drying up my senses. Even if I win a prosperous and unrivalled kingdom on the earth, or gain sovereignty like the celestial gods, I will be unable to dispel this grief.",
+    hindi_translation: "2.8: मुझे ऐसा कोई उपाय नहीं सूझता जो मेरी इन्द्रियों को सुखाने वाले इस शोक को दूर कर सके। यदि मैं धन सम्पदा से भरपूर इस पृथ्वी पर निष्कंटक राज्य प्राप्त कर लेता हूँ या देवताओं जैसा प्रभुत्व प्राप्त कर लेता हूँ तब भी मैं इस शोक को दूर करने में समर्थ नहीं हो पाऊँगा।",
 );
 ```
 <p align="center">
