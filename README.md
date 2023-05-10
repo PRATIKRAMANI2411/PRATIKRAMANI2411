@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 13,
-    shloka: "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी |नवद्वारे पुरे देही नैव कुर्वन्न कारयन् || 13||",
-    translation: "5.13: The embodied beings who are self-controlled and detached reside happily in the city of nine gates free from thoughts that they are the doers or the cause of anything.",
-    hindi_translation: "5.13: जो देहधारी जीव आत्मनियंत्रित एवं निरासक्त होते हैं, नौ द्वार वाले भौतिक शरीर में भी वे सुखपूर्वक रहते हैं क्योंकि वे स्वयं को कर्त्ता या किसी कार्य का कारण मानने के विचार से मुक्त होते हैं।",
+    chapter: 4,
+    verse: 31,
+    shloka: "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् |नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्य: कुरुसत्तम || 31||",
+    translation: "4.31: Those who know the secret of sacrifice, and engaging in it, partake of its remnants that are like nectar, advance toward the Absolute Truth. O best of the Kurus, those who perform no sacrifice find no happiness either in this world or the next.",
+    hindi_translation: "4.31: इन यज्ञों का रहस्य जानने वाले और इनका अनुष्ठान करने वाले, इन यज्ञों के अवशेष जो कि अमृत के समान होते हैं, का आस्वादन कर परम सत्य की ओर बढ़ते हैं। हे कुरुश्रेष्ठ! जो लोग यज्ञ नहीं करते, वे न तो इस संसार में और न ही अगले जन्म में सुखी रह सकते हैं।",
 );
 ```
 <p align="center">
