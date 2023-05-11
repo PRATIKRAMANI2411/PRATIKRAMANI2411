@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 31,
-    shloka: "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् |नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्य: कुरुसत्तम || 31||",
-    translation: "4.31: Those who know the secret of sacrifice, and engaging in it, partake of its remnants that are like nectar, advance toward the Absolute Truth. O best of the Kurus, those who perform no sacrifice find no happiness either in this world or the next.",
-    hindi_translation: "4.31: इन यज्ञों का रहस्य जानने वाले और इनका अनुष्ठान करने वाले, इन यज्ञों के अवशेष जो कि अमृत के समान होते हैं, का आस्वादन कर परम सत्य की ओर बढ़ते हैं। हे कुरुश्रेष्ठ! जो लोग यज्ञ नहीं करते, वे न तो इस संसार में और न ही अगले जन्म में सुखी रह सकते हैं।",
+    chapter: 18,
+    verse: 46,
+    shloka: "यत: प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् |स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानव: || 46||",
+    translation: "18.46: By performing one’s natural occupation, one worships the Creator from whom all living entities have come into being, and by whom the whole universe is pervaded. By such performance of work, a person easily attains perfection.",
+    hindi_translation: "18.46: अपनी स्वाभाविक वृत्ति का निर्वहन करते हुए उस सृजक भगवान की उपासना करो जिससे सभी जीव अस्तित्त्व में आते हैं और जिसके द्वारा सारा ब्रह्माण्ड प्रकट होता है। इस प्रकार से अपने कर्मों को सम्पन्न करते हुए मनुष्य सरलता से पूर्णता प्राप्त कर सकता है।",
 );
 ```
 <p align="center">
