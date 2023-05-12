@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 46,
-    shloka: "यत: प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् |स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानव: || 46||",
-    translation: "18.46: By performing one’s natural occupation, one worships the Creator from whom all living entities have come into being, and by whom the whole universe is pervaded. By such performance of work, a person easily attains perfection.",
-    hindi_translation: "18.46: अपनी स्वाभाविक वृत्ति का निर्वहन करते हुए उस सृजक भगवान की उपासना करो जिससे सभी जीव अस्तित्त्व में आते हैं और जिसके द्वारा सारा ब्रह्माण्ड प्रकट होता है। इस प्रकार से अपने कर्मों को सम्पन्न करते हुए मनुष्य सरलता से पूर्णता प्राप्त कर सकता है।",
+    chapter: 10,
+    verse: 7,
+    shloka: "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वत: |सोऽविकम्पेन योगेन युज्यते नात्र संशय: || 7||",
+    translation: "10.7: Those who know in truth my glories and divine powers become united with me through unwavering bhakti yog. Of this there is no doubt.",
+    hindi_translation: "10.7: जो मेरी महिमा और दिव्य शक्तियों को वास्तविक रूप से जान लेता है वह अविचल भक्तियोग के माध्यम से मुझमें एकीकृत हो जाता है। इसमें कोई संदेह नहीं है।",
 );
 ```
 <p align="center">
