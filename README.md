@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 7,
-    shloka: "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वत: |सोऽविकम्पेन योगेन युज्यते नात्र संशय: || 7||",
-    translation: "10.7: Those who know in truth my glories and divine powers become united with me through unwavering bhakti yog. Of this there is no doubt.",
-    hindi_translation: "10.7: जो मेरी महिमा और दिव्य शक्तियों को वास्तविक रूप से जान लेता है वह अविचल भक्तियोग के माध्यम से मुझमें एकीकृत हो जाता है। इसमें कोई संदेह नहीं है।",
+    chapter: 17,
+    verse: 25,
+    shloka: "तदित्यनभिसन्धाय फलं यज्ञतप:क्रिया: |दानक्रियाश्च विविधा: क्रियन्ते मोक्षकाङ्क्षिभि: || 25||",
+    translation: "17.25: Persons who do not desire fruitive rewards, but seek to be free from material entanglements, utter the word “Tat” along with acts of austerity, sacrifice, and charity.",
+    hindi_translation: "17.25: ऐसे व्यक्ति जो किसी फल की कामना नहीं करते किन्तु भौतिक उलझनों से मुक्त रहना चाहते हैं वे तप, यज्ञ तथा दान जैसे कार्य करते समय 'तत्' शब्द का उच्चारण करते हैं।",
 );
 ```
 <p align="center">
