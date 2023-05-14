@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 25,
-    shloka: "तदित्यनभिसन्धाय फलं यज्ञतप:क्रिया: |दानक्रियाश्च विविधा: क्रियन्ते मोक्षकाङ्क्षिभि: || 25||",
-    translation: "17.25: Persons who do not desire fruitive rewards, but seek to be free from material entanglements, utter the word “Tat” along with acts of austerity, sacrifice, and charity.",
-    hindi_translation: "17.25: ऐसे व्यक्ति जो किसी फल की कामना नहीं करते किन्तु भौतिक उलझनों से मुक्त रहना चाहते हैं वे तप, यज्ञ तथा दान जैसे कार्य करते समय 'तत्' शब्द का उच्चारण करते हैं।",
+    chapter: 9,
+    verse: 31,
+    shloka: "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति |कौन्तेय प्रतिजानीहि न मे भक्त: प्रणश्यति || 31||",
+    translation: "9.31: Quickly they become virtuous, and attain lasting peace. O son of Kunti, declare it boldly that no devotee of Mine is ever lost.",
+    hindi_translation: "9.31: वे शीघ्र धार्मात्मा बन जाते हैं और चिरस्थायी शांति पाते हैं। हे कुन्ती पुत्र! निडर हो कर यह घोषणा कर दो कि मेरे भक्त का कभी पतन नहीं होता।",
 );
 ```
 <p align="center">
