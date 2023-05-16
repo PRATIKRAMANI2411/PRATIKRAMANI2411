@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 5,
-    shloka: "यत्साङ्ख्यै: प्राप्यते स्थानं तद्योगैरपि गम्यते |एकं साङ्ख्यं च योगं च य: पश्यति स पश्यति || 5||",
-    translation: "5.5: The supreme state that is attained by means of karm sanyās is also attained by working in devotion. Hence, those who see karm sanyās and karm yog to be identical, truly see things as they are.",
-    hindi_translation: "5.5: परमेश्वर श्रीकृष्ण कहते हैं कि कर्म संन्यास के माध्यम से जो प्राप्त होता है उसे भक्ति युक्त कर्मयोग से भी प्राप्त किया जा सकता है। इस प्रकार जो कर्म संन्यास और कर्मयोग को एक समान देखते हैं वही वास्तव में सभी वस्तुओं को यथावत रूप में देखते हैं।",
+    chapter: 2,
+    verse: 36,
+    shloka: "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिता: |निन्दन्तस्तव सामर्थ्यं ततो दु:खतरं नु किम् || 36||",
+    translation: "2.36: Your enemies will defame and humiliate you with unkind words, disparaging your might. Alas, what could be more painful than that?",
+    hindi_translation: "2.36: तुम्हारे शत्रु तुम्हारी निन्दा करेंगे और कटु शब्दों से तुम्हारा मानमर्दन करेंगे और तुम्हारी सामर्थ्य का उपहास उड़ायेंगें। तुम्हारे लिए इससे पीड़ादायक और क्या हो सकता है?",
 );
 ```
 <p align="center">
