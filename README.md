@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 36,
-    shloka: "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिता: |निन्दन्तस्तव सामर्थ्यं ततो दु:खतरं नु किम् || 36||",
-    translation: "2.36: Your enemies will defame and humiliate you with unkind words, disparaging your might. Alas, what could be more painful than that?",
-    hindi_translation: "2.36: तुम्हारे शत्रु तुम्हारी निन्दा करेंगे और कटु शब्दों से तुम्हारा मानमर्दन करेंगे और तुम्हारी सामर्थ्य का उपहास उड़ायेंगें। तुम्हारे लिए इससे पीड़ादायक और क्या हो सकता है?",
+    chapter: 11,
+    verse: 34,
+    shloka: "द्रोणं च भीष्मं च जयद्रथं चकर्णं तथान्यानपि योधवीरान् |मया हतांस्त्वं जहि मा व्यथिष्ठायुध्यस्व जेतासि रणे सपत्नान् || 34||",
+    translation: "11.34: Dronacharya, Bheeshma, Jayadratha, Karn, and other brave warriors have already been killed by me. So slay them without being disturbed. Just fight and you will be victorious over your enemies in battle.",
+    hindi_translation: "11.34: द्रोणाचार्य, भीष्म, जयद्रथ, कर्ण और अन्य महायोद्धा पहले ही मेरे द्वारा मारे जा चुके हैं। इसलिए बिना विक्षुब्ध हुए इनका वध करो, केवल युद्ध करो और तुम अपने शत्रुओं पर विजय पाओगे।",
 );
 ```
 <p align="center">
