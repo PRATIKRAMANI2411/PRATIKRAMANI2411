@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 34,
-    shloka: "द्रोणं च भीष्मं च जयद्रथं चकर्णं तथान्यानपि योधवीरान् |मया हतांस्त्वं जहि मा व्यथिष्ठायुध्यस्व जेतासि रणे सपत्नान् || 34||",
-    translation: "11.34: Dronacharya, Bheeshma, Jayadratha, Karn, and other brave warriors have already been killed by me. So slay them without being disturbed. Just fight and you will be victorious over your enemies in battle.",
-    hindi_translation: "11.34: द्रोणाचार्य, भीष्म, जयद्रथ, कर्ण और अन्य महायोद्धा पहले ही मेरे द्वारा मारे जा चुके हैं। इसलिए बिना विक्षुब्ध हुए इनका वध करो, केवल युद्ध करो और तुम अपने शत्रुओं पर विजय पाओगे।",
+    chapter: 2,
+    verse: 27,
+    shloka: "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च |तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि || 27||",
+    translation: "2.27: Death is certain for one who has been born, and rebirth is inevitable for one who has died. Therefore, you should not lament over the inevitable.",
+    hindi_translation: "2.27: जो जन्म लेता है उसकी मृत्यु निश्चित है और मृत्यु के पश्चात पुनर्जन्म भी अवश्यंभावी है। अतः तुम्हें अपरिहार्य के लिए शोक नहीं करना चाहिए।",
 );
 ```
 <p align="center">
