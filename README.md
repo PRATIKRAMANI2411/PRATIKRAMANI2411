@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 32,
-    shloka: "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् |सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतस: || 32||",
-    translation: "3.32: But those who find faults with my teachings, being bereft of knowledge and devoid of discrimination, they disregard these principles and bring about their own ruin.",
-    hindi_translation: "3.32: किन्तु जो मेरे उपदेशों में दोष ढूंढते हैं, वे ज्ञान से वंचित और विवेकहीन होते हैं, इन सिद्धान्तों की उपेक्षा करने से वे अपने विनाश का कारण बनते हैं।",
+    chapter: 13,
+    verse: 30,
+    shloka: "प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वश: |य: पश्यति तथात्मानमकर्तारं स पश्यति || 30||",
+    translation: "13.30: They alone truly see who understand that all actions (of the body) are performed by material nature, while the embodied soul actually does nothing.",
+    hindi_translation: "13.30: जो यह समझ लेते हैं कि शरीर के समस्त कार्य प्राकृत शक्ति द्वारा सम्पन्न होते हैं जबकि देहधारी आत्मा वास्तव में कुछ नहीं करती। केवल वही वास्तव में देखते हैं।",
 );
 ```
 <p align="center">
