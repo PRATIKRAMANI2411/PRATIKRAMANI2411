@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 30,
-    shloka: "प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वश: |य: पश्यति तथात्मानमकर्तारं स पश्यति || 30||",
-    translation: "13.30: They alone truly see who understand that all actions (of the body) are performed by material nature, while the embodied soul actually does nothing.",
-    hindi_translation: "13.30: जो यह समझ लेते हैं कि शरीर के समस्त कार्य प्राकृत शक्ति द्वारा सम्पन्न होते हैं जबकि देहधारी आत्मा वास्तव में कुछ नहीं करती। केवल वही वास्तव में देखते हैं।",
+    chapter: 15,
+    verse: 15,
+    shloka: "सर्वस्य चाहं हृदि सन्निविष्टोमत्त: स्मृतिर्ज्ञानमपोहनं च |वेदैश्च सर्वैरहमेव वेद्योवेदान्तकृद्वेदविदेव चाहम् || 15||",
+    translation: "15.15: I am seated in the hearts of all living beings, and from Me come memory, knowledge, as well as forgetfulness. I alone am to be known by all the Vedas, am the author of the Vedant, and the knower of the meaning of the Vedas.",
+    hindi_translation: "15.15: मैं समस्त जीवों के हृदय में निवास करता हूँ और मुझसे ही स्मृति, ज्ञान और विस्मृति आती है। केवल मैं ही सभी वेदों द्वारा जानने योग्य हूँ, मैं वेदांत का रचयिता और वेदों का अर्थ जानने वाला हूँ।",
 );
 ```
 <p align="center">
