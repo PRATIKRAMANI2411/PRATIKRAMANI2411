@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 15,
-    shloka: "सर्वस्य चाहं हृदि सन्निविष्टोमत्त: स्मृतिर्ज्ञानमपोहनं च |वेदैश्च सर्वैरहमेव वेद्योवेदान्तकृद्वेदविदेव चाहम् || 15||",
-    translation: "15.15: I am seated in the hearts of all living beings, and from Me come memory, knowledge, as well as forgetfulness. I alone am to be known by all the Vedas, am the author of the Vedant, and the knower of the meaning of the Vedas.",
-    hindi_translation: "15.15: मैं समस्त जीवों के हृदय में निवास करता हूँ और मुझसे ही स्मृति, ज्ञान और विस्मृति आती है। केवल मैं ही सभी वेदों द्वारा जानने योग्य हूँ, मैं वेदांत का रचयिता और वेदों का अर्थ जानने वाला हूँ।",
+    chapter: 6,
+    verse: 8,
+    shloka: "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रिय: |युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चन: || 8||",
+    translation: "6.8: The yogi who are satisfied by knowledge and discrimination, and have conquered their senses, remain undisturbed in all circumstances. They see everything—dirt, stones, and gold—as the same.",
+    hindi_translation: "6.8: वे योगी जो ज्ञान और विवेक से संतुष्ट होते हैं और जो इन्द्रियों पर विजय पा लेते हैं, वे सभी परिस्थितियों में अविचलित रहते हैं। वे धूल, पत्थर और सोने को एक समान देखते हैं।",
 );
 ```
 <p align="center">
