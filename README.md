@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 8,
-    shloka: "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रिय: |युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चन: || 8||",
-    translation: "6.8: The yogi who are satisfied by knowledge and discrimination, and have conquered their senses, remain undisturbed in all circumstances. They see everything—dirt, stones, and gold—as the same.",
-    hindi_translation: "6.8: वे योगी जो ज्ञान और विवेक से संतुष्ट होते हैं और जो इन्द्रियों पर विजय पा लेते हैं, वे सभी परिस्थितियों में अविचलित रहते हैं। वे धूल, पत्थर और सोने को एक समान देखते हैं।",
+    chapter: 16,
+    verse: 24,
+    shloka: "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि || 24||",
+    translation: "16.24: Therefore, let the scriptures be your authority in determining what should be done and what should not be done. Understand the scriptural injunctions and teachings, and then perform your actions in this world accordingly.",
+    hindi_translation: "16.24: इसलिए क्या करना और क्या नहीं करना चाहिए? यह निश्चित करने के लिए शास्त्रों में वर्णित विधानों को स्वीकार करो और शास्त्रों के निर्देशों व उपदेशों को समझो तथा फिर तदानुसार संसार में अपने कर्तव्यों का पालन करो।",
 );
 ```
 <p align="center">
