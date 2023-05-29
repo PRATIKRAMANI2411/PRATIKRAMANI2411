@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
+    chapter: 3,
     verse: 28,
-    shloka: "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत |अव्यक्तनिधनान्येव तत्र का परिदेवना || 28||",
-    translation: "2.28: O scion of Bharat, all created beings are unmanifest before birth, manifest in life, and again unmanifest on death. So why grieve?",
-    hindi_translation: "2.28: हे भरतवंशी! समस्त जीव जन्म से पूर्व अव्यक्त रहते हैं, जन्म होने पर व्यक्त हो जाते हैं और मृत्यु होने पर पुनः अव्यक्त हो जाते हैं। अतः ऐसे में शोक व्यक्त करने की क्या आवश्यकता है।",
+    shloka: "तत्त्ववित्तु महाबाहो गुणकर्मविभागयो: |गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते || 28||",
+    translation: "3.28: O mighty-armed Arjun, illumined persons distinguish the soul as distinct from guṇas and karmas. They perceive that it is only the guṇas (in the shape of the senses, mind, and others) that move among the guṇas (in the shape of the objects of perception), and thus they do not get entangled in them.",
+    hindi_translation: "3.28: हे महाबाहु अर्जुन! तत्त्वज्ञानी आत्मा की पहचान गुणों और कर्मों से भिन्न करते हैं वे समझते हैं कि 'इन्द्रिय, मन, आदि के रूप में केवल गुण ही हैं जो इन्द्रिय विषयों, (गुणेषु) में संचालित होते हैं और इसलिए वे उनमें नहीं फंसते।",
 );
 ```
 <p align="center">
