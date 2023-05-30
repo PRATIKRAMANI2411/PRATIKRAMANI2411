@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 28,
-    shloka: "तत्त्ववित्तु महाबाहो गुणकर्मविभागयो: |गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते || 28||",
-    translation: "3.28: O mighty-armed Arjun, illumined persons distinguish the soul as distinct from guṇas and karmas. They perceive that it is only the guṇas (in the shape of the senses, mind, and others) that move among the guṇas (in the shape of the objects of perception), and thus they do not get entangled in them.",
-    hindi_translation: "3.28: हे महाबाहु अर्जुन! तत्त्वज्ञानी आत्मा की पहचान गुणों और कर्मों से भिन्न करते हैं वे समझते हैं कि 'इन्द्रिय, मन, आदि के रूप में केवल गुण ही हैं जो इन्द्रिय विषयों, (गुणेषु) में संचालित होते हैं और इसलिए वे उनमें नहीं फंसते।",
+    chapter: 2,
+    verse: 14,
+    shloka: "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदु: खदा: |आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत || 14||",
+    translation: "2.14: O son of Kunti, the contact between the senses and the sense objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent, and come and go like the winter and summer seasons. O descendent of Bharat, one must learn to tolerate them without being disturbed.",
+    hindi_translation: "2.14: हे कुन्तीपुत्र! इन्द्रिय और उसके विषयों के संपर्क से उत्पन्न सुख तथा दुख का अनुभव क्षण भंगुर है। ये स्थायी न होकर सर्दी तथा गर्मी की ऋतुओं के आने-जाने के समान हैं। हे भरतवंशी! मनुष्य को चाहिए कि वह विचलित हुए बिना उनको सहन करना सीखे।",
 );
 ```
 <p align="center">
