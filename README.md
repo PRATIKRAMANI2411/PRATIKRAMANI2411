@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 14,
-    shloka: "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदु: खदा: |आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत || 14||",
-    translation: "2.14: O son of Kunti, the contact between the senses and the sense objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent, and come and go like the winter and summer seasons. O descendent of Bharat, one must learn to tolerate them without being disturbed.",
-    hindi_translation: "2.14: हे कुन्तीपुत्र! इन्द्रिय और उसके विषयों के संपर्क से उत्पन्न सुख तथा दुख का अनुभव क्षण भंगुर है। ये स्थायी न होकर सर्दी तथा गर्मी की ऋतुओं के आने-जाने के समान हैं। हे भरतवंशी! मनुष्य को चाहिए कि वह विचलित हुए बिना उनको सहन करना सीखे।",
+    chapter: 4,
+    verse: 20,
+    shloka: "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रय: |कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति स: || 20||",
+    translation: "4.20: Such people, having given up attachment to the fruits of their actions, are always satisfied and not dependent on external things. Despite engaging in activities, they do not do anything at all.",
+    hindi_translation: "4.20: अपने कर्मों के फलों की आसक्ति को त्याग कर ऐसे ज्ञानीजन सदा संतुष्ट रहते हैं और बाह्य आश्रयों पर निर्भर नहीं होते। कर्मों में संलग्न रहने पर भी वे वास्तव में कोई कर्म नहीं करते।",
 );
 ```
 <p align="center">
