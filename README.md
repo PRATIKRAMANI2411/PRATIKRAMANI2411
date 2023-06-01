@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
+    chapter: 1,
     verse: 20,
-    shloka: "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रय: |कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति स: || 20||",
-    translation: "4.20: Such people, having given up attachment to the fruits of their actions, are always satisfied and not dependent on external things. Despite engaging in activities, they do not do anything at all.",
-    hindi_translation: "4.20: अपने कर्मों के फलों की आसक्ति को त्याग कर ऐसे ज्ञानीजन सदा संतुष्ट रहते हैं और बाह्य आश्रयों पर निर्भर नहीं होते। कर्मों में संलग्न रहने पर भी वे वास्तव में कोई कर्म नहीं करते।",
+    shloka: "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वज: |प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डव: ||20||हृषीकेशं तदा वाक्यमिदमाह महीपते |",
+    translation: "1.20: At that time, the son of Pandu, Arjun, who had the insignia of Hanuman on the flag of his chariot, took up his bow. Seeing your sons arrayed against him, O King, Arjun then spoke the following words to Shree Krishna.",
+    hindi_translation: "1.20: उस समय हनुमान के चिह्न की ध्वजा लगे रथ पर आसीन पाण्डु पुत्र अर्जुन अपना धनुष उठा कर बाण चलाने के लिए उद्यत दिखाई दिया। हे राजन! आपके पुत्रों को अपने विरूद्ध व्यूह रचना में खड़े देख कर अर्जुन ने श्रीकृष्ण से यह वचन कहे।",
 );
 ```
 <p align="center">
