@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 20,
-    shloka: "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वज: |प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डव: ||20||हृषीकेशं तदा वाक्यमिदमाह महीपते |",
-    translation: "1.20: At that time, the son of Pandu, Arjun, who had the insignia of Hanuman on the flag of his chariot, took up his bow. Seeing your sons arrayed against him, O King, Arjun then spoke the following words to Shree Krishna.",
-    hindi_translation: "1.20: उस समय हनुमान के चिह्न की ध्वजा लगे रथ पर आसीन पाण्डु पुत्र अर्जुन अपना धनुष उठा कर बाण चलाने के लिए उद्यत दिखाई दिया। हे राजन! आपके पुत्रों को अपने विरूद्ध व्यूह रचना में खड़े देख कर अर्जुन ने श्रीकृष्ण से यह वचन कहे।",
+    chapter: 12,
+    verse: 17,
+    shloka: "यो न हृष्यति न द्वेष्टि न शोचति न काङ् क्षति |शुभाशुभपरित्यागी भक्तिमान्य: स मे प्रिय: || 17||",
+    translation: "12.17: Those who neither rejoice in mundane pleasures nor despair in worldly sorrows, who neither lament for any loss nor hanker for any gain, who renounce both good and evil deeds, such persons who are full of devotion are very dear to Me.",
+    hindi_translation: "12.17: वे जो न तो लौकिक सुखों से हर्षित होते हैं और न ही सांसारिक दुखों से निराश होते हैं तथा न ही किसी हानि के लिए शोक करते हैं एवं न ही लाभ की लालसा करते हैं, वे शुभ और अशुभ कर्मों का परित्याग करते हैं। ऐसे भक्त जो भक्ति भावना से परिपूर्ण होते हैं, मुझे अति प्रिय हैं।",
 );
 ```
 <p align="center">
