@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 12,
-    verse: 17,
-    shloka: "यो न हृष्यति न द्वेष्टि न शोचति न काङ् क्षति |शुभाशुभपरित्यागी भक्तिमान्य: स मे प्रिय: || 17||",
-    translation: "12.17: Those who neither rejoice in mundane pleasures nor despair in worldly sorrows, who neither lament for any loss nor hanker for any gain, who renounce both good and evil deeds, such persons who are full of devotion are very dear to Me.",
-    hindi_translation: "12.17: वे जो न तो लौकिक सुखों से हर्षित होते हैं और न ही सांसारिक दुखों से निराश होते हैं तथा न ही किसी हानि के लिए शोक करते हैं एवं न ही लाभ की लालसा करते हैं, वे शुभ और अशुभ कर्मों का परित्याग करते हैं। ऐसे भक्त जो भक्ति भावना से परिपूर्ण होते हैं, मुझे अति प्रिय हैं।",
+    chapter: 9,
+    verse: 1,
+    shloka: "श्रीभगवानुवाच |इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे |ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् || 1||",
+    translation: "9.1: The Supreme Lord said: O Arjun, because you are not envious of Me, I shall now impart to you this very confidential knowledge and wisdom, upon knowing which you will be released from the miseries of material existence.",
+    hindi_translation: "9.1: परम प्रभु ने कहाः हे अर्जुन! क्योंकि तुम मुझसे ईर्ष्या नहीं करते इसलिए मैं तुम्हें विज्ञान सहित परम गुह्म ज्ञान बताऊँगा जिसे जानकर तुम भौतिक जगत के कष्टों से मुक्त हो जाओगे।",
 );
 ```
 <p align="center">
