@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 1,
-    shloka: "श्रीभगवानुवाच |इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे |ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् || 1||",
-    translation: "9.1: The Supreme Lord said: O Arjun, because you are not envious of Me, I shall now impart to you this very confidential knowledge and wisdom, upon knowing which you will be released from the miseries of material existence.",
-    hindi_translation: "9.1: परम प्रभु ने कहाः हे अर्जुन! क्योंकि तुम मुझसे ईर्ष्या नहीं करते इसलिए मैं तुम्हें विज्ञान सहित परम गुह्म ज्ञान बताऊँगा जिसे जानकर तुम भौतिक जगत के कष्टों से मुक्त हो जाओगे।",
+    chapter: 18,
+    verse: 65,
+    shloka: "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे || 65||",
+    translation: "18.65: Always think of me, be devoted to me, worship me, and offer obeisance to me. Doing so, you will certainly come to me. This is my pledge to you, for you are very dear to me.",
+    hindi_translation: "18.65: सदा मेरा चिंतन करो, मेरे भक्त बनो, मेरी अराधना करो, मुझे प्रणाम करो, ऐसा करके तुम निश्चित रूप से मेरे पास आओगे। मैं तुम्हें ऐसा वचन देता हूँ क्योंकि तुम मेरे अतिशय मित्र हो।",
 );
 ```
 <p align="center">
