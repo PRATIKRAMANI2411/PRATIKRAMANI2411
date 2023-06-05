@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 65,
-    shloka: "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे || 65||",
-    translation: "18.65: Always think of me, be devoted to me, worship me, and offer obeisance to me. Doing so, you will certainly come to me. This is my pledge to you, for you are very dear to me.",
-    hindi_translation: "18.65: सदा मेरा चिंतन करो, मेरे भक्त बनो, मेरी अराधना करो, मुझे प्रणाम करो, ऐसा करके तुम निश्चित रूप से मेरे पास आओगे। मैं तुम्हें ऐसा वचन देता हूँ क्योंकि तुम मेरे अतिशय मित्र हो।",
+    chapter: 3,
+    verse: 30,
+    shloka: "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: || 30||",
+    translation: "3.30: Performing all works as an offering unto me, constantly meditate on me as the Supreme. Become free from desire and selfishness, and with your mental grief departed, fight!",
+    hindi_translation: "3.30: अपने समस्त कर्मों को मुझको अर्पित करके और परमात्मा के रूप में निरन्तर मेरा ध्यान करते हुए कामना और स्वार्थ से रहित होकर अपने मानसिक दुखों को त्याग कर युद्ध करो।",
 );
 ```
 <p align="center">
