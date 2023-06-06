@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 30,
-    shloka: "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: || 30||",
-    translation: "3.30: Performing all works as an offering unto me, constantly meditate on me as the Supreme. Become free from desire and selfishness, and with your mental grief departed, fight!",
-    hindi_translation: "3.30: अपने समस्त कर्मों को मुझको अर्पित करके और परमात्मा के रूप में निरन्तर मेरा ध्यान करते हुए कामना और स्वार्थ से रहित होकर अपने मानसिक दुखों को त्याग कर युद्ध करो।",
+    chapter: 17,
+    verse: 15,
+    shloka: "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते || 15||",
+    translation: "17.15: Words that do not cause distress, are truthful, inoffensive, and beneficial, as well as the regular recitation of the Vedic scriptures—these are declared as the austerity of speech.",
+    hindi_translation: "17.15: ऐसे शब्द जो दुख का कारण नहीं बनते, सच्चे, अहानिकर तथा हितकारी होते हैं। उसी प्रकार से वैदिक ग्रन्थों के नियमित अनुवाचन को वाणी का तप कहा गया है।",
 );
 ```
 <p align="center">
