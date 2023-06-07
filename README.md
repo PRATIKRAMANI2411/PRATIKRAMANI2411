@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 15,
-    shloka: "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते || 15||",
-    translation: "17.15: Words that do not cause distress, are truthful, inoffensive, and beneficial, as well as the regular recitation of the Vedic scriptures—these are declared as the austerity of speech.",
-    hindi_translation: "17.15: ऐसे शब्द जो दुख का कारण नहीं बनते, सच्चे, अहानिकर तथा हितकारी होते हैं। उसी प्रकार से वैदिक ग्रन्थों के नियमित अनुवाचन को वाणी का तप कहा गया है।",
+    chapter: 7,
+    verse: 11,
+    shloka: "बलं बलवतां चाहं कामरागविवर्जितम् |धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ || 11||",
+    translation: "7.11: O best of the Bharatas, in strong persons, I am their strength devoid of desire and passion. I am sexual activity not conflicting with virtue or scriptural injunctions.",
+    hindi_translation: "7.11: हे भरत श्रेष्ठ! मैं बलवान पुरुषों का काम और आसक्ति रहित बल हूँ। मैं वो काम हूँ जो धर्म या धर्म ग्रंथों की आज्ञाओं के विरुद्ध नहीं है।",
 );
 ```
 <p align="center">
