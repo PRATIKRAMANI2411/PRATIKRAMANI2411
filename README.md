@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 7,
-    verse: 11,
-    shloka: "बलं बलवतां चाहं कामरागविवर्जितम् |धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ || 11||",
-    translation: "7.11: O best of the Bharatas, in strong persons, I am their strength devoid of desire and passion. I am sexual activity not conflicting with virtue or scriptural injunctions.",
-    hindi_translation: "7.11: हे भरत श्रेष्ठ! मैं बलवान पुरुषों का काम और आसक्ति रहित बल हूँ। मैं वो काम हूँ जो धर्म या धर्म ग्रंथों की आज्ञाओं के विरुद्ध नहीं है।",
+    verse: 29,
+    shloka: "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये |ते ब्रह्म तद्विदु: कृत्स्नमध्यात्मं कर्म चाखिलम् || 29||",
+    translation: "7.29: Those who take shelter in Me, striving for liberation from old-age and death, come to know Brahman, the individual self, and the entire field of karmic action.",
+    hindi_translation: "7.29: जो मेरी शरण ग्रहण करते हैं, वे बुढ़ापे और मृत्यु से छुटकारा पाने की चेष्टा करते हैं, वे ब्रह्म, अपनी आत्मा और समस्त कार्मिक गतिविधियों के क्षेत्र को जान जाते हैं।",
 );
 ```
 <p align="center">
