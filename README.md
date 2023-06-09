@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 29,
-    shloka: "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये |ते ब्रह्म तद्विदु: कृत्स्नमध्यात्मं कर्म चाखिलम् || 29||",
-    translation: "7.29: Those who take shelter in Me, striving for liberation from old-age and death, come to know Brahman, the individual self, and the entire field of karmic action.",
-    hindi_translation: "7.29: जो मेरी शरण ग्रहण करते हैं, वे बुढ़ापे और मृत्यु से छुटकारा पाने की चेष्टा करते हैं, वे ब्रह्म, अपनी आत्मा और समस्त कार्मिक गतिविधियों के क्षेत्र को जान जाते हैं।",
+    chapter: 13,
+    verse: 21,
+    shloka: "कार्यकारणकर्तृत्वे हेतु: प्रकृतिरुच्यते |पुरुष: सुखदु:खानां भोक्तृत्वे हेतुरुच्यते || 21||",
+    translation: "13.21: In the matter of creation, the material energy is responsible for cause and effect; in the matter of experiencing happiness and distress, the individual soul is declared responsible.",
+    hindi_translation: "13.21: सृष्टि के विषय में प्राकृत शक्ति ही कारण और परिणाम के लिए उत्तरदायी है और सुख-दुख की अनुभूति हेतु जीवात्मा को उत्तरदायी बताया जाता है।",
 );
 ```
 <p align="center">
