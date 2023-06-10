@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 21,
-    shloka: "कार्यकारणकर्तृत्वे हेतु: प्रकृतिरुच्यते |पुरुष: सुखदु:खानां भोक्तृत्वे हेतुरुच्यते || 21||",
-    translation: "13.21: In the matter of creation, the material energy is responsible for cause and effect; in the matter of experiencing happiness and distress, the individual soul is declared responsible.",
-    hindi_translation: "13.21: सृष्टि के विषय में प्राकृत शक्ति ही कारण और परिणाम के लिए उत्तरदायी है और सुख-दुख की अनुभूति हेतु जीवात्मा को उत्तरदायी बताया जाता है।",
+    chapter: 3,
+    verse: 41,
+    shloka: "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ |पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् || 41||",
+    translation: "3.41: Therefore, O best of the Bharatas, in the very beginning bring the senses under control and slay this enemy called desire, which is the embodiment of sin and destroys knowledge and realization.",
+    hindi_translation: "3.41: इसलिए हे भरतवंशियों में श्रेष्ठ! प्रारम्भ से ही इन इन्द्रियों को नियंत्रण में रखकर कामना रूपी शत्रु का वध कर डालो जो पाप का मूर्तरूप तथा ज्ञान और आत्मबोध का विनाशक है।",
 );
 ```
 <p align="center">
