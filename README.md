@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 3,
-    verse: 41,
-    shloka: "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ |पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् || 41||",
-    translation: "3.41: Therefore, O best of the Bharatas, in the very beginning bring the senses under control and slay this enemy called desire, which is the embodiment of sin and destroys knowledge and realization.",
-    hindi_translation: "3.41: इसलिए हे भरतवंशियों में श्रेष्ठ! प्रारम्भ से ही इन इन्द्रियों को नियंत्रण में रखकर कामना रूपी शत्रु का वध कर डालो जो पाप का मूर्तरूप तथा ज्ञान और आत्मबोध का विनाशक है।",
+    verse: 37,
+    shloka: "श्रीभगवानुवाच |काम एष क्रोध एष रजोगुणसमुद्भव: ||महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् || 37||",
+    translation: "3.37: The Supreme Lord said: It is lust alone, which is born of contact with the mode of passion, and later transformed into anger. Know this as the sinful, all-devouring enemy in the world.",
+    hindi_translation: "3.37: परमात्मा श्रीकृष्ण कहते हैं-अकेली काम वासना जो रजोगुण के सम्पर्क में आने से उत्पन्न होती है और बाद में क्रोध का रूप धारण कर लेती है, इसे पाप के रूप में संसार का सर्वभक्षी शत्रु समझो।",
 );
 ```
 <p align="center">
