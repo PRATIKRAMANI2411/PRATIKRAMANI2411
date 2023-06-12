@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 37,
-    shloka: "श्रीभगवानुवाच |काम एष क्रोध एष रजोगुणसमुद्भव: ||महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् || 37||",
-    translation: "3.37: The Supreme Lord said: It is lust alone, which is born of contact with the mode of passion, and later transformed into anger. Know this as the sinful, all-devouring enemy in the world.",
-    hindi_translation: "3.37: परमात्मा श्रीकृष्ण कहते हैं-अकेली काम वासना जो रजोगुण के सम्पर्क में आने से उत्पन्न होती है और बाद में क्रोध का रूप धारण कर लेती है, इसे पाप के रूप में संसार का सर्वभक्षी शत्रु समझो।",
+    chapter: 6,
+    verse: 11,
+    shloka: "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मन: |नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् || 11||",
+    translation: "6.11: To practice Yog, one should make an āsan (seat) in a sanctified place, by placing Kuśh grass, deer skin, and a cloth, one over the other. The āsan should be neither too high nor too low.",
+    hindi_translation: "6.11: योगाभ्यास के लिए स्वच्छ स्थान पर भूमि पर कुशा बिछाकर उसे मृगछाला से ढककर और उसके ऊपर वस्त्र बिछाना चाहिए। आसन बहुत ऊँचा या नीचा नहीं होना चाहिए।",
 );
 ```
 <p align="center">
