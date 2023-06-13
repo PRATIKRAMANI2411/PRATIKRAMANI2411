@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 11,
-    shloka: "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मन: |नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् || 11||",
-    translation: "6.11: To practice Yog, one should make an āsan (seat) in a sanctified place, by placing Kuśh grass, deer skin, and a cloth, one over the other. The āsan should be neither too high nor too low.",
-    hindi_translation: "6.11: योगाभ्यास के लिए स्वच्छ स्थान पर भूमि पर कुशा बिछाकर उसे मृगछाला से ढककर और उसके ऊपर वस्त्र बिछाना चाहिए। आसन बहुत ऊँचा या नीचा नहीं होना चाहिए।",
+    chapter: 9,
+    verse: 34,
+    shloka: "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |मामेवैष्यसि युक्त्वैवमात्मानं मत्परायण: || 34||",
+    translation: "9.34: Always think of Me, be devoted to Me, worship Me, and offer obeisance to Me. Having dedicated your mind and body to Me, you will certainly come to Me.",
+    hindi_translation: "9.34: सदैव मेरा चिन्तन करो, मेरे भक्त बनो, मेरी पूजा करो। अपने मन और शरीर को मुझे समर्पित करने से तुम निश्चित रूप से मुझको प्राप्त करोगे।",
 );
 ```
 <p align="center">
