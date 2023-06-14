@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 34,
-    shloka: "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |मामेवैष्यसि युक्त्वैवमात्मानं मत्परायण: || 34||",
-    translation: "9.34: Always think of Me, be devoted to Me, worship Me, and offer obeisance to Me. Having dedicated your mind and body to Me, you will certainly come to Me.",
-    hindi_translation: "9.34: सदैव मेरा चिन्तन करो, मेरे भक्त बनो, मेरी पूजा करो। अपने मन और शरीर को मुझे समर्पित करने से तुम निश्चित रूप से मुझको प्राप्त करोगे।",
+    chapter: 2,
+    verse: 7,
+    shloka: "कार्पण्यदोषोपहतस्वभाव: पृच्छामि त्वां धर्मसम्मूढचेता: |यच्छ्रेय: स्यान्निश्चितं ब्रूहि तन्मेशिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् || 7||",
+    translation: "2.7: I am confused about my duty, and am besieged with anxiety and faintheartedness. I am your disciple, and am surrendered to you. Please instruct me for certain what is best for me.",
+    hindi_translation: "2.7: मैं किंकर्तव्यविमूढ़ हो गया हूँ और गहन चिन्ता में डूब कर कायरता दिखा रहा हूँ। मैं आपका शिष्य हूँ और आपके शरणागत हूँ। कृपया मुझे निश्चय ही यह उपदेश दें कि मेरा हित किसमें है।",
 );
 ```
 <p align="center">
