@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 7,
-    shloka: "कार्पण्यदोषोपहतस्वभाव: पृच्छामि त्वां धर्मसम्मूढचेता: |यच्छ्रेय: स्यान्निश्चितं ब्रूहि तन्मेशिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् || 7||",
-    translation: "2.7: I am confused about my duty, and am besieged with anxiety and faintheartedness. I am your disciple, and am surrendered to you. Please instruct me for certain what is best for me.",
-    hindi_translation: "2.7: मैं किंकर्तव्यविमूढ़ हो गया हूँ और गहन चिन्ता में डूब कर कायरता दिखा रहा हूँ। मैं आपका शिष्य हूँ और आपके शरणागत हूँ। कृपया मुझे निश्चय ही यह उपदेश दें कि मेरा हित किसमें है।",
+    chapter: 1,
+    verse: 43,
+    shloka: "दोषैरेतै: कुलघ्नानां वर्णसङ्करकारकै: |उत्साद्यन्ते जातिधर्मा: कुलधर्माश्च शाश्वता: || 43||",
+    translation: "1.43: Through the evil deeds of those who destroy the family tradition and thus give rise to unwanted progeny, a variety of social and family welfare activities are ruined.",
+    hindi_translation: "1.43: अपने दुष्कर्मों से कुल परम्परा का विनाश करने वाले दुराचारियों के कारण समाज में अवांछित सन्तानों की वृद्धि होती है और विविध प्रकार की सामुदायिक और परिवार कल्याण की गतिविधियों का भी विनाश हो जाता है।",
 );
 ```
 <p align="center">
