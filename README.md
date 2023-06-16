@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 43,
-    shloka: "दोषैरेतै: कुलघ्नानां वर्णसङ्करकारकै: |उत्साद्यन्ते जातिधर्मा: कुलधर्माश्च शाश्वता: || 43||",
-    translation: "1.43: Through the evil deeds of those who destroy the family tradition and thus give rise to unwanted progeny, a variety of social and family welfare activities are ruined.",
-    hindi_translation: "1.43: अपने दुष्कर्मों से कुल परम्परा का विनाश करने वाले दुराचारियों के कारण समाज में अवांछित सन्तानों की वृद्धि होती है और विविध प्रकार की सामुदायिक और परिवार कल्याण की गतिविधियों का भी विनाश हो जाता है।",
+    chapter: 16,
+    verse: 18,
+    shloka: "अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिता: |मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयका: || 18||",
+    translation: "16.18: Blinded by egotism, strength, arrogance, desire, and anger, the demonic abuse my presence within their own body and in the bodies of others.",
+    hindi_translation: "16.18: अहंकार, शक्ति, दम्भ, कामना और क्रोध से अंधे असुर मनुष्य अपने शरीर के भीतर और अन्य लोगों के शरीरों के भीतर मेरी उपस्थिति की निंदा करते हैं।",
 );
 ```
 <p align="center">
