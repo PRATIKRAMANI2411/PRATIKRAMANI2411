@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 18,
-    shloka: "अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिता: |मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयका: || 18||",
-    translation: "16.18: Blinded by egotism, strength, arrogance, desire, and anger, the demonic abuse my presence within their own body and in the bodies of others.",
-    hindi_translation: "16.18: अहंकार, शक्ति, दम्भ, कामना और क्रोध से अंधे असुर मनुष्य अपने शरीर के भीतर और अन्य लोगों के शरीरों के भीतर मेरी उपस्थिति की निंदा करते हैं।",
+    chapter: 11,
+    verse: 49,
+    shloka: "मा ते व्यथा मा च विमूढभावोदृष्ट्वा रूपं घोरमीदृङ्ममेदम् |व्यपेतभी: प्रीतमना: पुनस्त्वंतदेव मे रूपमिदं प्रपश्य || 49||",
+    translation: "11.49: Be neither afraid nor bewildered on seeing this terrible form of mine. Be free from fear and with a cheerful heart, behold me once again in my personal form.",
+    hindi_translation: "11.49: मेरे भयानक रूप को देखकर तुम न तो भयभीत हो और न ही मोहित हो। भयमुक्त और प्रसन्नचित्त होकर मेरे पुरुषोत्तम रूप को देखो।",
 );
 ```
 <p align="center">
