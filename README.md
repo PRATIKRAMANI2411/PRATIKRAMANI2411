@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 49,
-    shloka: "मा ते व्यथा मा च विमूढभावोदृष्ट्वा रूपं घोरमीदृङ्ममेदम् |व्यपेतभी: प्रीतमना: पुनस्त्वंतदेव मे रूपमिदं प्रपश्य || 49||",
-    translation: "11.49: Be neither afraid nor bewildered on seeing this terrible form of mine. Be free from fear and with a cheerful heart, behold me once again in my personal form.",
-    hindi_translation: "11.49: मेरे भयानक रूप को देखकर तुम न तो भयभीत हो और न ही मोहित हो। भयमुक्त और प्रसन्नचित्त होकर मेरे पुरुषोत्तम रूप को देखो।",
+    chapter: 5,
+    verse: 7,
+    shloka: "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रिय: |सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते || 7||",
+    translation: "5.7: The karm yogis, who are of purified intellect, and who control the mind and senses, see the Soul of all souls in every living being. Though performing all kinds of actions, they are never entangled.",
+    hindi_translation: "5.7: जो कर्मयोगी विशुद्ध बुद्धि युक्त हैं, अपने मन तथा इन्द्रियों को वश में रखते हैं और सभी जीवों की आत्मा में आत्मरूप परमात्मा को देखते हैं, वे सभी प्रकार के कर्म करते हुए कभी कर्मबंधन में नहीं पड़ते।",
 );
 ```
 <p align="center">
