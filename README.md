@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
+    chapter: 4,
     verse: 7,
-    shloka: "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रिय: |सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते || 7||",
-    translation: "5.7: The karm yogis, who are of purified intellect, and who control the mind and senses, see the Soul of all souls in every living being. Though performing all kinds of actions, they are never entangled.",
-    hindi_translation: "5.7: जो कर्मयोगी विशुद्ध बुद्धि युक्त हैं, अपने मन तथा इन्द्रियों को वश में रखते हैं और सभी जीवों की आत्मा में आत्मरूप परमात्मा को देखते हैं, वे सभी प्रकार के कर्म करते हुए कभी कर्मबंधन में नहीं पड़ते।",
+    shloka: "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत |अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् || 7||",
+    translation: "4.7: Whenever there is a decline in righteousness and an increase in unrighteousness, O Arjun, at that time I manifest myself on earth.",
+    hindi_translation: "4.7: जब जब धरती पर धर्म का पतन और अधर्म में वृद्धि होती है तब उस समय मैं पृथ्वी पर अवतार लेता हूँ।",
 );
 ```
 <p align="center">
