@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 7,
-    shloka: "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत |अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् || 7||",
-    translation: "4.7: Whenever there is a decline in righteousness and an increase in unrighteousness, O Arjun, at that time I manifest myself on earth.",
-    hindi_translation: "4.7: जब जब धरती पर धर्म का पतन और अधर्म में वृद्धि होती है तब उस समय मैं पृथ्वी पर अवतार लेता हूँ।",
+    chapter: 17,
+    verse: 15,
+    shloka: "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते || 15||",
+    translation: "17.15: Words that do not cause distress, are truthful, inoffensive, and beneficial, as well as the regular recitation of the Vedic scriptures—these are declared as the austerity of speech.",
+    hindi_translation: "17.15: ऐसे शब्द जो दुख का कारण नहीं बनते, सच्चे, अहानिकर तथा हितकारी होते हैं। उसी प्रकार से वैदिक ग्रन्थों के नियमित अनुवाचन को वाणी का तप कहा गया है।",
 );
 ```
 <p align="center">
