@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 17,
-    verse: 15,
-    shloka: "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् |स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते || 15||",
-    translation: "17.15: Words that do not cause distress, are truthful, inoffensive, and beneficial, as well as the regular recitation of the Vedic scriptures—these are declared as the austerity of speech.",
-    hindi_translation: "17.15: ऐसे शब्द जो दुख का कारण नहीं बनते, सच्चे, अहानिकर तथा हितकारी होते हैं। उसी प्रकार से वैदिक ग्रन्थों के नियमित अनुवाचन को वाणी का तप कहा गया है।",
+    verse: 16,
+    shloka: "मन: प्रसाद: सौम्यत्वं मौनमात्मविनिग्रह: |भावसंशुद्धिरित्येतत्तपो मानसमुच्यते || 16||",
+    translation: "17.16: Serenity of thought, gentleness, silence, self-control, and purity of purpose—all these are declared as the austerity of the mind.",
+    hindi_translation: "17.16: विचारों की शुद्धता, विनम्रता, मौन, आत्म-नियन्त्रण तथा उद्देश्य की निर्मलता इन सबको मन के तप के रूप में घोषित किया गया है।",
 );
 ```
 <p align="center">
