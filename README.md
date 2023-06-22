@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 16,
-    shloka: "मन: प्रसाद: सौम्यत्वं मौनमात्मविनिग्रह: |भावसंशुद्धिरित्येतत्तपो मानसमुच्यते || 16||",
-    translation: "17.16: Serenity of thought, gentleness, silence, self-control, and purity of purpose—all these are declared as the austerity of the mind.",
-    hindi_translation: "17.16: विचारों की शुद्धता, विनम्रता, मौन, आत्म-नियन्त्रण तथा उद्देश्य की निर्मलता इन सबको मन के तप के रूप में घोषित किया गया है।",
+    chapter: 10,
+    verse: 33,
+    shloka: "अक्षराणामकारोऽस्मि द्वन्द्व: सामासिकस्य च |अहमेवाक्षय: कालो धाताहं विश्वतोमुख: || 33||",
+    translation: "10.33: I am the beginning “A” amongst all letters; I am the dual word in grammatical compounds. I am the endless Time, and amongst creators I am Brahma.",
+    hindi_translation: "10.33: मैं सभी अक्षरों में प्रथम अक्षर 'आकार' हूँ और व्याकरण के समासों का द्वन्द्व समास हूँ। मैं शाश्वत काल हूँ और सृष्टाओं में ब्रह्मा हूँ।",
 );
 ```
 <p align="center">
