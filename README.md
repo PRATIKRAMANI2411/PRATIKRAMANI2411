@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 33,
-    shloka: "अक्षराणामकारोऽस्मि द्वन्द्व: सामासिकस्य च |अहमेवाक्षय: कालो धाताहं विश्वतोमुख: || 33||",
-    translation: "10.33: I am the beginning “A” amongst all letters; I am the dual word in grammatical compounds. I am the endless Time, and amongst creators I am Brahma.",
-    hindi_translation: "10.33: मैं सभी अक्षरों में प्रथम अक्षर 'आकार' हूँ और व्याकरण के समासों का द्वन्द्व समास हूँ। मैं शाश्वत काल हूँ और सृष्टाओं में ब्रह्मा हूँ।",
+    chapter: 13,
+    verse: 14,
+    shloka: "सर्वत: पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् |सर्वत: श्रुतिमल्लोके सर्वमावृत्य तिष्ठति || 14||",
+    translation: "13.14: Everywhere are His hands and feet, eyes, heads, and faces. His ears too are in all places, for He pervades everything in the universe.",
+    hindi_translation: "13.14: भगवान के हाथ, पाँव, नेत्र, सिर, तथा मुख सर्वत्र हैं। उनके कान भी सभी ओर हैं क्योंकि वे ब्रह्माण्ड की प्रत्येक वस्तु में व्याप्त हैं।",
 );
 ```
 <p align="center">
