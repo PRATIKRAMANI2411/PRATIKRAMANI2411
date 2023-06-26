@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 26,
-    shloka: "अन्ये त्वेवमजानन्त: श्रुत्वान्येभ्य उपासते |तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणा: || 26||",
-    translation: "13.26: There are still others who are unaware of these spiritual paths, but they hear from others and begin worshipping the Supreme Lord. By such devotion to hearing from saints, they too can gradually cross over the ocean of birth and death.",
-    hindi_translation: "13.26: कुछ अन्य लोग ऐसे भी होते हैं जो आध्यात्मिक मार्ग से अनभिज्ञ होते हैं लेकिन वे अन्य संत पुरुषों से श्रवण कर भगवान की आराधना करने लगते हैं। वे भी धीरे-धीरे जन्म और मृत्यु के सागर को पार कर लेते हैं।",
+    chapter: 2,
+    verse: 60,
+    shloka: "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चित: |इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मन: || 60||",
+    translation: "2.60: The senses are so strong and turbulent, O son of Kunti, that they can forcibly carry away the mind even of a person endowed with discrimination who practices self-control.",
+    hindi_translation: "2.60: हे कुन्ति पुत्र! इन्द्रियाँ इतनी प्रबल और अशान्त होती है कि वे विवेकशील और आत्म नियंत्रण का अभ्यास करने वाले मनुष्य के मन को भी अपने वश में कर लेती है।",
 );
 ```
 <p align="center">
