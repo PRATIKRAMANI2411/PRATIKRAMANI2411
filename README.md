@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 60,
-    shloka: "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चित: |इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मन: || 60||",
-    translation: "2.60: The senses are so strong and turbulent, O son of Kunti, that they can forcibly carry away the mind even of a person endowed with discrimination who practices self-control.",
-    hindi_translation: "2.60: हे कुन्ति पुत्र! इन्द्रियाँ इतनी प्रबल और अशान्त होती है कि वे विवेकशील और आत्म नियंत्रण का अभ्यास करने वाले मनुष्य के मन को भी अपने वश में कर लेती है।",
+    chapter: 8,
+    verse: 22,
+    shloka: "पुरुष: स पर: पार्थ भक्त्या लभ्यस्त्वनन्यया |यस्यान्त:स्थानि भूतानि येन सर्वमिदं ततम् || 22||",
+    translation: "8.22: The Supreme Divine Personality is greater than all that exists. Although He is all-pervading and all living beings are situated in Him, yet He can be known only through devotion.",
+    hindi_translation: "8.22: परमेश्वर का दिव्य व्यक्तित्व सभी सत्ताओं से परे है। यद्यपि वह सर्वव्यापक है और सभी प्राणी उसके भीतर रहते है तथापि उसे केवल भक्ति द्वारा ही जाना जा सकता है।",
 );
 ```
 <p align="center">
