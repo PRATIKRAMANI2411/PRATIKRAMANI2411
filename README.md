@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 22,
-    shloka: "पुरुष: स पर: पार्थ भक्त्या लभ्यस्त्वनन्यया |यस्यान्त:स्थानि भूतानि येन सर्वमिदं ततम् || 22||",
-    translation: "8.22: The Supreme Divine Personality is greater than all that exists. Although He is all-pervading and all living beings are situated in Him, yet He can be known only through devotion.",
-    hindi_translation: "8.22: परमेश्वर का दिव्य व्यक्तित्व सभी सत्ताओं से परे है। यद्यपि वह सर्वव्यापक है और सभी प्राणी उसके भीतर रहते है तथापि उसे केवल भक्ति द्वारा ही जाना जा सकता है।",
+    chapter: 15,
+    verse: 20,
+    shloka: "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत || 20||",
+    translation: "15.20: I have shared this most secret principle of the Vedic scriptures with you, O sinless Arjun. By understanding this, a person becomes enlightened, and fulfills all that is to be accomplished.",
+    hindi_translation: "15.20: हे निष्पाप अर्जुन! मैंने तुम्हें वैदिक ग्रंथों का अति गुह्य सिद्धान्त समझाया है। इसे समझकर मनुष्य प्रबुद्ध हो जाता है और अपने प्रयासो में परिपूर्ण हो जाता है।",
 );
 ```
 <p align="center">
