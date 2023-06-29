@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 20,
-    shloka: "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ |एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत || 20||",
-    translation: "15.20: I have shared this most secret principle of the Vedic scriptures with you, O sinless Arjun. By understanding this, a person becomes enlightened, and fulfills all that is to be accomplished.",
-    hindi_translation: "15.20: हे निष्पाप अर्जुन! मैंने तुम्हें वैदिक ग्रंथों का अति गुह्य सिद्धान्त समझाया है। इसे समझकर मनुष्य प्रबुद्ध हो जाता है और अपने प्रयासो में परिपूर्ण हो जाता है।",
+    chapter: 18,
+    verse: 19,
+    shloka: "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदत: |प्रोच्यते गुणसङ् ख्याने यथावच्छृणु तान्यपि || 19||",
+    translation: "18.19: Knowledge, action, and the doer are declared to be of three kinds in the Sānkhya philosophy, distinguished according to the three modes of material nature. Listen, and I will explain their distinctions to you.",
+    hindi_translation: "18.19: सांख्य दर्शन में ज्ञान, कर्म और कर्ता की तीन श्रेणियों का उल्लेख किया गया है और तदनुसार प्रकृति के तीन गुणों के अनुसार इनमें भेद का वर्णन भी किया गया है। इन्हें सुनो और मैं तुम्हें इनका भेद बताता हूँ।",
 );
 ```
 <p align="center">
