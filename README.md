@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 19,
-    shloka: "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदत: |प्रोच्यते गुणसङ् ख्याने यथावच्छृणु तान्यपि || 19||",
-    translation: "18.19: Knowledge, action, and the doer are declared to be of three kinds in the Sānkhya philosophy, distinguished according to the three modes of material nature. Listen, and I will explain their distinctions to you.",
-    hindi_translation: "18.19: सांख्य दर्शन में ज्ञान, कर्म और कर्ता की तीन श्रेणियों का उल्लेख किया गया है और तदनुसार प्रकृति के तीन गुणों के अनुसार इनमें भेद का वर्णन भी किया गया है। इन्हें सुनो और मैं तुम्हें इनका भेद बताता हूँ।",
+    chapter: 10,
+    verse: 14,
+    shloka: "सर्वमेतदृतं मन्ये यन्मां वदसि केशव |न हि ते भगवन्व्यक्तिं विदुर्देवा न दानवा: || 14||",
+    translation: "10.14: O Krishna, I totally accept everything you have told me as the truth. O Lord, neither gods nor the demons can understand your true personality.",
+    hindi_translation: "10.14: हे कृष्ण! मैं आपके द्वारा कहे गए सभी कथनों को पूर्णतया सत्य के रूप में स्वीकार करता हूँ। हे परम प्रभु! न तो देवता और न ही असुर आपके वास्तविक स्वरूप को समझ सकते हैं।",
 );
 ```
 <p align="center">
