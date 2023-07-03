@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 1,
-    shloka: "अर्जुन उवाच |संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि |यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् || 1||",
-    translation: "5.1: Arjun said: O Shree Krishna, You praised karm sanyās (the path of renunciation of actions), and You also advised to do karm yog (work with devotion). Please tell me decisively which of the two is more beneficial?",
-    hindi_translation: "5.1: अर्जुन ने कहा-हे कृष्ण! पहले आपने कर्म संन्यास की सराहना की और आपने मुझे भक्ति युक्त कर्मयोग का पालन करने का उपदेश भी दिया। कृपापूर्वक अब मुझे निश्चित रूप से अवगत कराएँ कि इन दोनों में से कौन सा मार्ग अधिक लाभदायक है।",
+    chapter: 14,
+    verse: 7,
+    shloka: "रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् | तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् || 7||",
+    translation: "14.7: O Arjun, rajo guṇa is of the nature of passion. It arises from worldly desires and affections, and binds the soul through attachment to fruitive actions.",
+    hindi_translation: "14.7: हे अर्जुन! रजोगुण की प्रकृति मोह है। यह सांसारिक आकांक्षाओं और आकर्षणों से उत्पन्न होता है और आसक्ति के माध्यम से आत्मा को कर्म के प्रतिफलों में बांधता है।",
 );
 ```
 <p align="center">
