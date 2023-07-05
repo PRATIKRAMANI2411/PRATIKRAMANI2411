@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 2,
-    verse: 46,
-    shloka: "यावानर्थ उदपाने सर्वत: सम्प्लुतोदके |तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानत: || 46||",
-    translation: "2.46: Whatever purpose is served by a small well of water is naturally served in all respects by a large lake. Similarly, one who realizes the Absolute Truth also fulfills the purpose of all the Vedas.",
-    hindi_translation: "2.46: जैसे एक छोटे जलकूप का समस्त कार्य सहजता से सभी प्रकार से विशाल जलाशय से तत्काल पूर्ण हो जाता है, उसी प्रकार समान रूप से परम सत्य को जानने वाले वेदों के सभी प्रयोजन को पूर्ण करते हैं।",
+    verse: 59,
+    shloka: "विषया विनिवर्तन्ते निराहारस्य देहिन: |रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते || 59||",
+    translation: "2.59: Aspirants may restrain the senses from their objects of enjoyment, but the taste for the sense objects remains. However, even this taste ceases for those who realizes the Supreme.",
+    hindi_translation: "2.59: यद्यपि देहधारी जीव इन्द्रियों के विषयों से अपने को कितना दूर रखे लेकिन इन्द्रिय विषयों को भोगने की लालसा बनी रहती है फिर भी जो लोग भगवान को जान लेते हैं, उनकी लालसाएँ समाप्त हो जाती हैं।",
 );
 ```
 <p align="center">
