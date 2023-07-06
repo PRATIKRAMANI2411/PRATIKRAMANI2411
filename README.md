@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 59,
-    shloka: "विषया विनिवर्तन्ते निराहारस्य देहिन: |रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते || 59||",
-    translation: "2.59: Aspirants may restrain the senses from their objects of enjoyment, but the taste for the sense objects remains. However, even this taste ceases for those who realizes the Supreme.",
-    hindi_translation: "2.59: यद्यपि देहधारी जीव इन्द्रियों के विषयों से अपने को कितना दूर रखे लेकिन इन्द्रिय विषयों को भोगने की लालसा बनी रहती है फिर भी जो लोग भगवान को जान लेते हैं, उनकी लालसाएँ समाप्त हो जाती हैं।",
+    chapter: 11,
+    verse: 50,
+    shloka: "सञ्जय उवाच |इत्यर्जुनं वासुदेवस्तथोक्त्वास्वकं रूपं दर्शयामास भूय: |आश्वासयामास च भीतमेनंभूत्वा पुन: सौम्यवपुर्महात्मा || 50||",
+    translation: "11.50: Sanjay said: Having spoken thus, the compassionate son of Vasudev displayed his personal (four-armed) form again. Then, he further consoled the frightened Arjun by assuming his gentle (two-armed) form.",
+    hindi_translation: "11.50: संजय ने कहाः ऐसा कहकर वासुदेव के करुणामय पुत्र ने पुनः अपना चतुर्भुज रूप प्रकट किया और फिर अपना दो भुजाओं वाला सुन्दर रूप प्रदर्शित कर भयभीत अर्जुन को सांत्वना दी।",
 );
 ```
 <p align="center">
