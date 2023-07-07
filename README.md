@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 50,
-    shloka: "सञ्जय उवाच |इत्यर्जुनं वासुदेवस्तथोक्त्वास्वकं रूपं दर्शयामास भूय: |आश्वासयामास च भीतमेनंभूत्वा पुन: सौम्यवपुर्महात्मा || 50||",
-    translation: "11.50: Sanjay said: Having spoken thus, the compassionate son of Vasudev displayed his personal (four-armed) form again. Then, he further consoled the frightened Arjun by assuming his gentle (two-armed) form.",
-    hindi_translation: "11.50: संजय ने कहाः ऐसा कहकर वासुदेव के करुणामय पुत्र ने पुनः अपना चतुर्भुज रूप प्रकट किया और फिर अपना दो भुजाओं वाला सुन्दर रूप प्रदर्शित कर भयभीत अर्जुन को सांत्वना दी।",
+    chapter: 5,
+    verse: 18,
+    shloka: "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि |शुनि चैव श्वपाके च पण्डिता: समदर्शिन: || 18||",
+    translation: "5.18: The truly learned, with the eyes of divine knowledge, see with equal vision a Brahmin, a cow, an elephant, a dog, and a dog-eater.",
+    hindi_translation: "5.18: सच्चे ज्ञानी महापुरुष एक ब्राह्मण, गाय, हाथी, कुत्ते और चाण्डाल को अपने दिव्य ज्ञान के चक्षुओं द्वारा समदृष्टि से देखते हैं।",
 );
 ```
 <p align="center">
