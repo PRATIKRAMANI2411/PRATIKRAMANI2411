@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 55,
-    shloka: "श्रीभगवानुवाच |प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् |आत्मन्येवात्मना तुष्ट: स्थितप्रज्ञस्तदोच्यते || 55||",
-    translation: "2.55: The Supreme Lord said: O Parth, when one discards all selfish desires and cravings of the senses that torment the mind, and becomes satisfied in the realization of the self, such a person is said to be transcendentally situated.",
-    hindi_translation: "2.55: परम प्रभु श्रीकृष्ण कहते हैं: हे पार्थ! जब कोई मनुष्य स्वार्थयुक्त कामनाओं और मन को दूषित करने वाली इन्द्रिय तृप्ति से संबंधित कामनाओं का परित्याग कर देता है और आत्मज्ञान को अनुभव कर संतुष्ट हो जाता है तब ऐसे मानव को दिव्य चेतना में स्थित कहा जा सकता है।",
+    chapter: 8,
+    verse: 22,
+    shloka: "पुरुष: स पर: पार्थ भक्त्या लभ्यस्त्वनन्यया |यस्यान्त:स्थानि भूतानि येन सर्वमिदं ततम् || 22||",
+    translation: "8.22: The Supreme Divine Personality is greater than all that exists. Although He is all-pervading and all living beings are situated in Him, yet He can be known only through devotion.",
+    hindi_translation: "8.22: परमेश्वर का दिव्य व्यक्तित्व सभी सत्ताओं से परे है। यद्यपि वह सर्वव्यापक है और सभी प्राणी उसके भीतर रहते है तथापि उसे केवल भक्ति द्वारा ही जाना जा सकता है।",
 );
 ```
 <p align="center">
