@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 22,
-    shloka: "पुरुष: स पर: पार्थ भक्त्या लभ्यस्त्वनन्यया |यस्यान्त:स्थानि भूतानि येन सर्वमिदं ततम् || 22||",
-    translation: "8.22: The Supreme Divine Personality is greater than all that exists. Although He is all-pervading and all living beings are situated in Him, yet He can be known only through devotion.",
-    hindi_translation: "8.22: परमेश्वर का दिव्य व्यक्तित्व सभी सत्ताओं से परे है। यद्यपि वह सर्वव्यापक है और सभी प्राणी उसके भीतर रहते है तथापि उसे केवल भक्ति द्वारा ही जाना जा सकता है।",
+    chapter: 13,
+    verse: 27,
+    shloka: "यावत्सञ्जायते किञ्चित्सत्वं स्थावरजङ्गमम् |क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ || 27||",
+    translation: "13.27: O best of the Bharatas, whatever moving or unmoving being you see in existence, know it to be a combination of the field of activities and the knower of the field.",
+    hindi_translation: "13.27: हे भरतवंशियों में श्रेष्ठ! चर और अचर जिनका अस्तित्व तुम्हें दिखाई दे रहा है वह कर्म क्षेत्र और क्षेत्र के ज्ञाता का संयोग मात्र है।",
 );
 ```
 <p align="center">
