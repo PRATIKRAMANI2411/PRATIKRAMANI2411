@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 27,
-    shloka: "यावत्सञ्जायते किञ्चित्सत्वं स्थावरजङ्गमम् |क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ || 27||",
-    translation: "13.27: O best of the Bharatas, whatever moving or unmoving being you see in existence, know it to be a combination of the field of activities and the knower of the field.",
-    hindi_translation: "13.27: हे भरतवंशियों में श्रेष्ठ! चर और अचर जिनका अस्तित्व तुम्हें दिखाई दे रहा है वह कर्म क्षेत्र और क्षेत्र के ज्ञाता का संयोग मात्र है।",
+    chapter: 17,
+    verse: 12,
+    shloka: "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् |इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् || 12||",
+    translation: "17.12: O best of the Bharatas, know that sacrifice, which is performed for material benefit, or with hypocritical aim, to be in the mode of passion.",
+    hindi_translation: "17.12: हे श्रेष्ठ भरतवंशी! जो यज्ञ भौतिक लाभ अथवा आडम्बरपूर्ण उद्देश्य के साथ किया जाता है उसे रजोगुणी श्रेणी का यज्ञ समझो।",
 );
 ```
 <p align="center">
