@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 22,
-    shloka: "स तया श्रद्धया युक्तस्तस्याराधनमीहते |लभते च तत: कामान्मयैव विहितान्हि तान् || 22||",
-    translation: "7.22: Endowed with faith, the devotee worships a particular celestial god and obtains the objects of desire. But in reality, I alone arrange these benefits.",
-    hindi_translation: "7.22: श्रद्धायुक्त होकर ऐसे भक्त विशेष देवता की पूजा करते हैं और अपनी वांछित वस्तुएँ प्राप्त करते हैं किन्तु वास्तव में ये सब लाभ मेरे द्वारा ही प्रदान किए जाते हैं।",
+    chapter: 1,
+    verse: 13,
+    shloka: "तत: शङ्खाश्च भेर्यश्च पणवानकगोमुखा: |सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् || 13||",
+    translation: "1.13: Thereafter, conches, kettledrums, bugles, trumpets, and horns suddenly blared forth, and their combined sound was overwhelming.",
+    hindi_translation: "1.13: इसके पश्चात शंख, नगाड़े, बिगुल, तुरही तथा सींग अचानक एक साथ बजने लगे। उनका समवेत स्वर अत्यन्त भयंकर था।",
 );
 ```
 <p align="center">
