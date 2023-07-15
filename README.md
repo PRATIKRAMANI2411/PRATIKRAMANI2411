@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 14,
-    verse: 2,
-    shloka: "इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागता: |सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च || 2||",
-    translation: "14.2: Those who take refuge in this wisdom will be united with me. They will not be reborn at the time of creation nor destroyed at the time of dissolution.",
-    hindi_translation: "14.2: वे जो इस ज्ञान की शरण लेते हैं, मेरे साथ एकीकृत होंगे और वे सृष्टि के समय न तो पुनः जन्म लेंगे और न ही प्रलय के समय उनका विनाश होगा।",
+    verse: 26,
+    shloka: "मां च योऽव्यभिचारेण भक्तियोगेन सेवते |स गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते || 26||",
+    translation: "14.26: Those who serve me with unalloyed devotion rise above the three modes of material nature and come to the level of Brahman.",
+    hindi_translation: "14.26: जो लोग विशुद्ध भक्ति के साथ मेरी सेवा करते हैं, वे प्राकृतिक शक्ति के तीनों गुणों से ऊपर उठ जाते हैं और ब्रह्म पद के स्तर को पा लेते हैं।",
 );
 ```
 <p align="center">
