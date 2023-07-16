@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 14,
-    verse: 26,
-    shloka: "मां च योऽव्यभिचारेण भक्तियोगेन सेवते |स गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते || 26||",
-    translation: "14.26: Those who serve me with unalloyed devotion rise above the three modes of material nature and come to the level of Brahman.",
-    hindi_translation: "14.26: जो लोग विशुद्ध भक्ति के साथ मेरी सेवा करते हैं, वे प्राकृतिक शक्ति के तीनों गुणों से ऊपर उठ जाते हैं और ब्रह्म पद के स्तर को पा लेते हैं।",
+    chapter: 18,
+    verse: 65,
+    shloka: "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे || 65||",
+    translation: "18.65: Always think of me, be devoted to me, worship me, and offer obeisance to me. Doing so, you will certainly come to me. This is my pledge to you, for you are very dear to me.",
+    hindi_translation: "18.65: सदा मेरा चिंतन करो, मेरे भक्त बनो, मेरी अराधना करो, मुझे प्रणाम करो, ऐसा करके तुम निश्चित रूप से मेरे पास आओगे। मैं तुम्हें ऐसा वचन देता हूँ क्योंकि तुम मेरे अतिशय मित्र हो।",
 );
 ```
 <p align="center">
