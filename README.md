@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 65,
-    shloka: "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे || 65||",
-    translation: "18.65: Always think of me, be devoted to me, worship me, and offer obeisance to me. Doing so, you will certainly come to me. This is my pledge to you, for you are very dear to me.",
-    hindi_translation: "18.65: सदा मेरा चिंतन करो, मेरे भक्त बनो, मेरी अराधना करो, मुझे प्रणाम करो, ऐसा करके तुम निश्चित रूप से मेरे पास आओगे। मैं तुम्हें ऐसा वचन देता हूँ क्योंकि तुम मेरे अतिशय मित्र हो।",
+    chapter: 4,
+    verse: 26,
+    shloka: "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति |शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति || 26||",
+    translation: "4.26: Others offer hearing and other senses in the sacrificial fire of restraint. Still others offer sound and other objects of the senses as sacrifice in the fire of the senses.",
+    hindi_translation: "4.26: कुछ योगीजन श्रवणादि क्रियाओं और अन्य इन्द्रियों को संयमरूपी यज्ञ की अग्नि में स्वाहा कर देते हैं और जबकि कुछ अन्य शब्दादि क्रियाओं और इन्द्रियों के अन्य विषयों को इन्द्रियों के अग्निरूपी यज्ञ में भेंट चढ़ा देते हैं।",
 );
 ```
 <p align="center">
