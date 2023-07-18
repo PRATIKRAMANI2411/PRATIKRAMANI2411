@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 26,
-    shloka: "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति |शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति || 26||",
-    translation: "4.26: Others offer hearing and other senses in the sacrificial fire of restraint. Still others offer sound and other objects of the senses as sacrifice in the fire of the senses.",
-    hindi_translation: "4.26: कुछ योगीजन श्रवणादि क्रियाओं और अन्य इन्द्रियों को संयमरूपी यज्ञ की अग्नि में स्वाहा कर देते हैं और जबकि कुछ अन्य शब्दादि क्रियाओं और इन्द्रियों के अन्य विषयों को इन्द्रियों के अग्निरूपी यज्ञ में भेंट चढ़ा देते हैं।",
+    chapter: 2,
+    verse: 69,
+    shloka: "या निशा सर्वभूतानां तस्यां जागर्ति संयमी |यस्यां जाग्रति भूतानि सा निशा पश्यतो मुने: || 69||",
+    translation: "2.69: What all beings consider as day is the night of ignorance for the wise, and what all creatures see as night is the day for the introspective sage.",
+    hindi_translation: "2.69: जिसे सब लोग दिन समझते हैं वह आत्मसंयमी के लिए अज्ञानता की रात्रि है तथा जो सब जीवों के लिए रात्रि है, वह आत्मविश्लेषी मुनियों के लिए दिन है।",
 );
 ```
 <p align="center">
