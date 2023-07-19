@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 69,
-    shloka: "या निशा सर्वभूतानां तस्यां जागर्ति संयमी |यस्यां जाग्रति भूतानि सा निशा पश्यतो मुने: || 69||",
-    translation: "2.69: What all beings consider as day is the night of ignorance for the wise, and what all creatures see as night is the day for the introspective sage.",
-    hindi_translation: "2.69: जिसे सब लोग दिन समझते हैं वह आत्मसंयमी के लिए अज्ञानता की रात्रि है तथा जो सब जीवों के लिए रात्रि है, वह आत्मविश्लेषी मुनियों के लिए दिन है।",
+    chapter: 4,
+    verse: 42,
+    shloka: "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मन: |छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत || 42||",
+    translation: "4.42: Therefore, with the sword of knowledge, cut asunder the doubts that have arisen in your heart. O scion of Bharat, establish yourself in karm yog. Arise, stand up, and take action!",
+    hindi_translation: "4.42: अतः तुम्हारे हृदय में अज्ञानतावश जो संदेह उत्पन्न हुए हैं उन्हें ज्ञानरूपी शस्त्र से काट दो। हे भरतवंशी अर्जुन! स्वयं को योग में निष्ठ करो। उठो खड़े हो जाओ और युद्ध करो।",
 );
 ```
 <p align="center">
