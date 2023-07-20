@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 42,
-    shloka: "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मन: |छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत || 42||",
-    translation: "4.42: Therefore, with the sword of knowledge, cut asunder the doubts that have arisen in your heart. O scion of Bharat, establish yourself in karm yog. Arise, stand up, and take action!",
-    hindi_translation: "4.42: अतः तुम्हारे हृदय में अज्ञानतावश जो संदेह उत्पन्न हुए हैं उन्हें ज्ञानरूपी शस्त्र से काट दो। हे भरतवंशी अर्जुन! स्वयं को योग में निष्ठ करो। उठो खड़े हो जाओ और युद्ध करो।",
+    chapter: 5,
+    verse: 4,
+    shloka: "साङ्ख्ययोगौ पृथग्बाला: प्रवदन्ति न पण्डिता: |एकमप्यास्थित: सम्यगुभयोर्विन्दते फलम् || 4||",
+    translation: "5.4: Only the ignorant speak of sānkhya (renunciation of actions, or karm sanyās) and karm yog (work in devotion) as different. Those who are truly learned say that by applying ourselves to any one of these paths, we can achieve the results of both.",
+    hindi_translation: "5.4: केवल अज्ञानी ही 'सांख्य' या 'कर्म संन्यास' को कर्मयोग से भिन्न कहते हैं जो वास्तव में ज्ञानी हैं, वे यह कहते हैं कि इन दोनों में से किसी भी मार्ग का अनुसरण करने से वे दोनों का फल प्राप्त कर सकते हैं।",
 );
 ```
 <p align="center">
