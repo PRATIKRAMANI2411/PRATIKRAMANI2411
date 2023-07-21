@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 4,
-    shloka: "साङ्ख्ययोगौ पृथग्बाला: प्रवदन्ति न पण्डिता: |एकमप्यास्थित: सम्यगुभयोर्विन्दते फलम् || 4||",
-    translation: "5.4: Only the ignorant speak of sānkhya (renunciation of actions, or karm sanyās) and karm yog (work in devotion) as different. Those who are truly learned say that by applying ourselves to any one of these paths, we can achieve the results of both.",
-    hindi_translation: "5.4: केवल अज्ञानी ही 'सांख्य' या 'कर्म संन्यास' को कर्मयोग से भिन्न कहते हैं जो वास्तव में ज्ञानी हैं, वे यह कहते हैं कि इन दोनों में से किसी भी मार्ग का अनुसरण करने से वे दोनों का फल प्राप्त कर सकते हैं।",
+    chapter: 18,
+    verse: 44,
+    shloka: "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् |परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् || 44||",
+    translation: "18.44: Agriculture, dairy farming, and commerce are the natural works for those with the qualities of Vaishyas. Serving through work is the natural duty for those with the qualities of Shudras.",
+    hindi_translation: "18.44: कृषि, गोपालन और दुग्ध उत्पादन तथा व्यापार, वैश्य गुणों से संपन्न लोगों के स्वाभाविक कार्य हैं। शुद्रता के गुण से युक्त लोगों के श्रम और सेवा स्वाभाविक कर्म हैं।",
 );
 ```
 <p align="center">
