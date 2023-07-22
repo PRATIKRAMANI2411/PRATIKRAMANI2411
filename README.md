@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 44,
-    shloka: "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् |परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् || 44||",
-    translation: "18.44: Agriculture, dairy farming, and commerce are the natural works for those with the qualities of Vaishyas. Serving through work is the natural duty for those with the qualities of Shudras.",
-    hindi_translation: "18.44: कृषि, गोपालन और दुग्ध उत्पादन तथा व्यापार, वैश्य गुणों से संपन्न लोगों के स्वाभाविक कार्य हैं। शुद्रता के गुण से युक्त लोगों के श्रम और सेवा स्वाभाविक कर्म हैं।",
+    chapter: 9,
+    verse: 24,
+    shloka: "अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च |न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते || 24||",
+    translation: "9.24: I am the enjoyer and the only Lord of all sacrifices. But those who fail to realize My divine nature must be reborn.",
+    hindi_translation: "9.24: मैं ही समस्त यज्ञों का एक मात्र भोक्ता और स्वामी हूँ लेकिन जो मेरी दिव्य प्रकृति को पहचान नहीं पाते, वे पुनर्जन्म लेते हैं।",
 );
 ```
 <p align="center">
