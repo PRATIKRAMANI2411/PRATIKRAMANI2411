@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 24,
-    shloka: "अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च |न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते || 24||",
-    translation: "9.24: I am the enjoyer and the only Lord of all sacrifices. But those who fail to realize My divine nature must be reborn.",
-    hindi_translation: "9.24: मैं ही समस्त यज्ञों का एक मात्र भोक्ता और स्वामी हूँ लेकिन जो मेरी दिव्य प्रकृति को पहचान नहीं पाते, वे पुनर्जन्म लेते हैं।",
+    chapter: 10,
+    verse: 36,
+    shloka: "द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् |जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् || 36||",
+    translation: "10.36: I am the gambling of the cheats and the splendor of the splendid. I am the victory of the victorious, the resolve of the resolute, and the virtue of the virtuous.",
+    hindi_translation: "10.36: समस्त छलियों में मैं जुआ हूँ और तेजस्वियों में तेज हूँ। विजेताओं में विजय हूँ। संकल्पकर्ताओं का संकल्प और धर्मात्माओं का धर्म हूँ।",
 );
 ```
 <p align="center">
