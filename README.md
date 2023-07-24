@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 36,
-    shloka: "द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् |जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् || 36||",
-    translation: "10.36: I am the gambling of the cheats and the splendor of the splendid. I am the victory of the victorious, the resolve of the resolute, and the virtue of the virtuous.",
-    hindi_translation: "10.36: समस्त छलियों में मैं जुआ हूँ और तेजस्वियों में तेज हूँ। विजेताओं में विजय हूँ। संकल्पकर्ताओं का संकल्प और धर्मात्माओं का धर्म हूँ।",
+    chapter: 2,
+    verse: 42-43,
+    shloka: "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चित: |वेदवादरता: पार्थ नान्यदस्तीति वादिन: || 42||कामात्मान: स्वर्गपरा जन्मकर्मफलप्रदाम् |क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति || 43||",
+    translation: "2.42-43: Those with limited understanding, get attracted to the flowery words of the Vedas, which advocate ostentatious rituals for elevation to the celestial abodes, and presume no higher principle is described in them. They glorify only those portions of the Vedas that please their senses, and perform pompous ritualistic ceremonies for attaining high birth, opulence, sensual enjoyment, and elevation to the heavenly planets.",
+    hindi_translation: "2.42-43: अल्पज्ञ मनुष्य वेदों के आलंकारिक शब्दों पर अत्यधिक आसक्त रहते हैं जो स्वर्गलोक का सुख भोगने के प्रयोजनार्थ दिखावटी कर्मकाण्ड करने की अनुशंसा करते हैं और जो यह मानते हैं कि इन वेदों में कोई उच्च सिद्धान्तों का वर्णन नहीं किया गया है। वे वेदों के केवल उन्हीं खण्डों की महिमामण्डित करते हैं जो उनकी इन्द्रियों को तृप्त करते हैं और वे उत्तम जन्म, ऐश्वर्य, इन्द्रिय तृप्ति और स्वर्गलोक की प्राप्ति के लिए आडम्बरयुक्त कर्मकाण्डों के पालन में लगे रहते हैं।",
 );
 ```
 <p align="center">
