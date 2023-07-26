@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 11,
-    shloka: "बलं बलवतां चाहं कामरागविवर्जितम् |धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ || 11||",
-    translation: "7.11: O best of the Bharatas, in strong persons, I am their strength devoid of desire and passion. I am sexual activity not conflicting with virtue or scriptural injunctions.",
-    hindi_translation: "7.11: हे भरत श्रेष्ठ! मैं बलवान पुरुषों का काम और आसक्ति रहित बल हूँ। मैं वो काम हूँ जो धर्म या धर्म ग्रंथों की आज्ञाओं के विरुद्ध नहीं है।",
+    chapter: 10,
+    verse: 37,
+    shloka: "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जय: |मुनीनामप्यहं व्यास: कवीनामुशना कवि: || 37||",
+    translation: "10.37: Amongst the descendants of Vrishni, I am Krishna, and amongst the Pandavas I am Arjun. Know me to be Ved Vyas amongst the sages, and Shukracharya amongst the great thinkers.",
+    hindi_translation: "10.37: विभूति योग वृष्णिवंशियों में मैं कृष्ण और पाण्डवों में अर्जुन हूँ, ऋषियों में मैं वेदव्यास और महान विचारकों में शुक्राचार्य हूँ।",
 );
 ```
 <p align="center">
