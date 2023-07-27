@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 37,
-    shloka: "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जय: |मुनीनामप्यहं व्यास: कवीनामुशना कवि: || 37||",
-    translation: "10.37: Amongst the descendants of Vrishni, I am Krishna, and amongst the Pandavas I am Arjun. Know me to be Ved Vyas amongst the sages, and Shukracharya amongst the great thinkers.",
-    hindi_translation: "10.37: विभूति योग वृष्णिवंशियों में मैं कृष्ण और पाण्डवों में अर्जुन हूँ, ऋषियों में मैं वेदव्यास और महान विचारकों में शुक्राचार्य हूँ।",
+    chapter: 2,
+    verse: 23,
+    shloka: "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावक: |न चैनं क्लेदयन्त्यापो न शोषयति मारुत: || 23||",
+    translation: "2.23: Weapons cannot shred the soul, nor can fire burn it. Water cannot wet it, nor can the wind dry it.",
+    hindi_translation: "2.23: किसी भी शस्त्र द्वारा आत्मा के टुकड़े नहीं किए जा सकते, न ही अग्नि आत्मा को जला सकती है, न ही जल द्वारा उसे गीला किया जा सकता है और न ही वायु इसे सुखा सकती है।",
 );
 ```
 <p align="center">
