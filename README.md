@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 72,
-    shloka: "एषा ब्राह्मी स्थिति: पार्थ नैनां प्राप्य विमुह्यति |स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति || 72||",
-    translation: "2.72: O Parth, such is the state of an enlightened soul that having attained it, one is never again deluded. Being established in this consciousness even at the hour of death, one is liberated from the cycle of life and death and reaches the Supreme Abode of God.",
-    hindi_translation: "2.72: हे पार्थ! ऐसी अवस्था में रहने वाली प्रबुद्ध आत्मा जब ब्रह्मज्ञान प्राप्त कर लेती है, वह फिर कभी भ्रमित नहीं होती तब मृत्यु के समय भी इस दिव्य चेतना में स्थित सिद्ध पुरुष जन्म और मृत्यु के बंधन से मुक्त हो जाता है और भगवान के परम धाम में प्रवेश करता है।",
+    chapter: 1,
+    verse: 24,
+    shloka: "सञ्जय उवाच |एवमुक्तो हृषीकेशो गुडाकेशेन भारत |सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् || 24||",
+    translation: "1.24: Sanjay said: O Dhritarasthra, having thus been addressed by Arjun, the conqueror of sleep, Shree Krishna then drew the magnificent chariot between the two armies.",
+    hindi_translation: "1.24: संजय ने कहा-हे भरतवंशी धृतराष्ट्र! निद्रा पर विजय पाने वाले अर्जुन द्वारा इस प्रकार के वचन बोले जाने पर तब भगवान श्रीकृष्ण ने उस भव्य रथ को दोनों सेनाओं के बीच में ले जाकर खड़ा कर दिया।",
 );
 ```
 <p align="center">
