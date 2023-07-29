@@ -6,7 +6,7 @@ const dev = Developer(
   pronouns: ['He', 'Him'],
   nationality: 'Indian',
   mail : 'pratikramani22@gmail.com',
-  tech : ['.php'],
+  tech : ['.js'],
   interests: ['Playing Minecraft', 'Listening Music'],
 );
 
