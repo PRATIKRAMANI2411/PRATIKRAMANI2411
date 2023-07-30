@@ -6,18 +6,18 @@ const dev = Developer(
   pronouns: ['He', 'Him'],
   nationality: 'Indian',
   mail : 'pratikramani22@gmail.com',
-  tech : ['.js'],
+  tech : ['.php'],
   interests: ['Playing Minecraft', 'Listening Music'],
 );
 
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 24,
-    shloka: "सञ्जय उवाच |एवमुक्तो हृषीकेशो गुडाकेशेन भारत |सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् || 24||",
-    translation: "1.24: Sanjay said: O Dhritarasthra, having thus been addressed by Arjun, the conqueror of sleep, Shree Krishna then drew the magnificent chariot between the two armies.",
-    hindi_translation: "1.24: संजय ने कहा-हे भरतवंशी धृतराष्ट्र! निद्रा पर विजय पाने वाले अर्जुन द्वारा इस प्रकार के वचन बोले जाने पर तब भगवान श्रीकृष्ण ने उस भव्य रथ को दोनों सेनाओं के बीच में ले जाकर खड़ा कर दिया।",
+    chapter: 15,
+    verse: 15,
+    shloka: "सर्वस्य चाहं हृदि सन्निविष्टोमत्त: स्मृतिर्ज्ञानमपोहनं च |वेदैश्च सर्वैरहमेव वेद्योवेदान्तकृद्वेदविदेव चाहम् || 15||",
+    translation: "15.15: I am seated in the hearts of all living beings, and from Me come memory, knowledge, as well as forgetfulness. I alone am to be known by all the Vedas, am the author of the Vedant, and the knower of the meaning of the Vedas.",
+    hindi_translation: "15.15: मैं समस्त जीवों के हृदय में निवास करता हूँ और मुझसे ही स्मृति, ज्ञान और विस्मृति आती है। केवल मैं ही सभी वेदों द्वारा जानने योग्य हूँ, मैं वेदांत का रचयिता और वेदों का अर्थ जानने वाला हूँ।",
 );
 ```
 <p align="center">
