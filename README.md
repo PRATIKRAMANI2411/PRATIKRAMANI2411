@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 15,
-    shloka: "सर्वस्य चाहं हृदि सन्निविष्टोमत्त: स्मृतिर्ज्ञानमपोहनं च |वेदैश्च सर्वैरहमेव वेद्योवेदान्तकृद्वेदविदेव चाहम् || 15||",
-    translation: "15.15: I am seated in the hearts of all living beings, and from Me come memory, knowledge, as well as forgetfulness. I alone am to be known by all the Vedas, am the author of the Vedant, and the knower of the meaning of the Vedas.",
-    hindi_translation: "15.15: मैं समस्त जीवों के हृदय में निवास करता हूँ और मुझसे ही स्मृति, ज्ञान और विस्मृति आती है। केवल मैं ही सभी वेदों द्वारा जानने योग्य हूँ, मैं वेदांत का रचयिता और वेदों का अर्थ जानने वाला हूँ।",
+    chapter: 12,
+    verse: 12,
+    shloka: "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् || 12||",
+    translation: "12.12: Better than mechanical practice is knowledge; better than knowledge is meditation. Better than meditation is renunciation of the fruits of actions, for peace immediately follows such renunciation.",
+    hindi_translation: "12.12: शारीरिक अभ्यास से श्रेष्ठ ज्ञान है, ज्ञान से श्रेष्ठ ध्यान है और ध्यान से श्रेष्ठ कर्म फलों का परित्याग है और ऐसे त्याग से शीघ्र मन को शांति प्राप्त होती है।",
 );
 ```
 <p align="center">
