@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 12,
-    verse: 12,
-    shloka: "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् || 12||",
-    translation: "12.12: Better than mechanical practice is knowledge; better than knowledge is meditation. Better than meditation is renunciation of the fruits of actions, for peace immediately follows such renunciation.",
-    hindi_translation: "12.12: शारीरिक अभ्यास से श्रेष्ठ ज्ञान है, ज्ञान से श्रेष्ठ ध्यान है और ध्यान से श्रेष्ठ कर्म फलों का परित्याग है और ऐसे त्याग से शीघ्र मन को शांति प्राप्त होती है।",
+    chapter: 4,
+    verse: 1,
+    shloka: "श्रीभगवानुवाच |इमं विवस्वते योगं प्रोक्तवानहमव्ययम् |विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् || 1||",
+    translation: "4.1: The Supreme Lord Shree Krishna said: I taught this eternal science of Yog to the Sun God, Vivasvan, who passed it on to Manu; and Manu, in turn, instructed it to Ikshvaku.",
+    hindi_translation: "4.1: परम भगवान श्रीकृष्ण ने कहा-मैने इस शाश्वत ज्ञानयोग का उपदेश सूर्यदेव, विवस्वान् को दिया और विवस्वान् ने मनु और फिर इसके बाद मनु ने इसका उपदेश इक्ष्वाकु को दिया।",
 );
 ```
 <p align="center">
