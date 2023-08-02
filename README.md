@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 1,
-    shloka: "श्रीभगवानुवाच |इमं विवस्वते योगं प्रोक्तवानहमव्ययम् |विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् || 1||",
-    translation: "4.1: The Supreme Lord Shree Krishna said: I taught this eternal science of Yog to the Sun God, Vivasvan, who passed it on to Manu; and Manu, in turn, instructed it to Ikshvaku.",
-    hindi_translation: "4.1: परम भगवान श्रीकृष्ण ने कहा-मैने इस शाश्वत ज्ञानयोग का उपदेश सूर्यदेव, विवस्वान् को दिया और विवस्वान् ने मनु और फिर इसके बाद मनु ने इसका उपदेश इक्ष्वाकु को दिया।",
+    chapter: 2,
+    verse: 34,
+    shloka: "अकीर्तिं चापि भूतानिकथयिष्यन्ति तेऽव्ययाम् |सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते || 34||",
+    translation: "2.34: People will speak of you as a coward and a deserter. For a respectable person, infamy is worse than death.",
+    hindi_translation: "2.34: लोग तुम्हें कायर और भगोड़ा कहेंगे। एक सम्माननीय व्यक्ति के लिए अपयश मृत्यु से बढ़कर है।",
 );
 ```
 <p align="center">
