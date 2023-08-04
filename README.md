@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 26,
-    shloka: "तत्रापश्यत्स्थितान् पार्थ: पितृ नथ पितामहान् |आचार्यान्मातुलान्भ्रातृ न्पुत्रान्पौत्रान्सखींस्तथा || 26||श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि |",
-    translation: "1.26: There, Arjun could see stationed in both armies, his fathers, grandfathers, teachers, maternal uncles, brothers, cousins, sons, nephews, grand-nephews, friends, fathers-in-law, and well-wishers.",
-    hindi_translation: "1.26: अर्जुन ने वहाँ खड़ी दोनों पक्षों की सेनाओं के बीच अपने पिता तुल्य चाचाओं-ताऊओं, पितामहों, गुरुओं, मामाओं, भाइयों, चचेरे भाइयों, पुत्रों, भतीजों, मित्रों, ससुर, और शुभचिन्तकों को भी देखा।",
+    chapter: 4,
+    verse: 36,
+    shloka: "अपि चेदसि पापेभ्य: सर्वेभ्य: पापकृत्तम: |सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि || 36||",
+    translation: "4.36: Even those who are considered the most immoral of all sinners can cross over this ocean of material existence by seating themselves in the boat of divine knowledge.",
+    hindi_translation: "4.36: जिन्हें समस्त पापों का महापापी समझा जाता है, वे भी दिव्यज्ञान की नौका में बैठकर संसार रूपी सागर को पार करने में समर्थ हो सकते हैं।",
 );
 ```
 <p align="center">
