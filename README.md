@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 36,
-    shloka: "अपि चेदसि पापेभ्य: सर्वेभ्य: पापकृत्तम: |सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि || 36||",
-    translation: "4.36: Even those who are considered the most immoral of all sinners can cross over this ocean of material existence by seating themselves in the boat of divine knowledge.",
-    hindi_translation: "4.36: जिन्हें समस्त पापों का महापापी समझा जाता है, वे भी दिव्यज्ञान की नौका में बैठकर संसार रूपी सागर को पार करने में समर्थ हो सकते हैं।",
+    chapter: 14,
+    verse: 26,
+    shloka: "मां च योऽव्यभिचारेण भक्तियोगेन सेवते |स गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते || 26||",
+    translation: "14.26: Those who serve me with unalloyed devotion rise above the three modes of material nature and come to the level of Brahman.",
+    hindi_translation: "14.26: जो लोग विशुद्ध भक्ति के साथ मेरी सेवा करते हैं, वे प्राकृतिक शक्ति के तीनों गुणों से ऊपर उठ जाते हैं और ब्रह्म पद के स्तर को पा लेते हैं।",
 );
 ```
 <p align="center">
