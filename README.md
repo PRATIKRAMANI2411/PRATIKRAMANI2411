@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 11,
-    verse: 24,
-    shloka: "नभ:स्पृशं दीप्तमनेकवर्णंव्यात्ताननं दीप्तविशालनेत्रम् |दृष्ट्वा हि त्वां प्रव्यथितान्तरात्माधृतिं न विन्दामि शमं च विष्णो || 24||",
-    translation: "11.24: O Lord Vishnu, seeing your form touching the sky, effulgent in many colors, with mouths wide open and enormous blazing eyes, my heart is trembling with fear. I have lost all courage and peace of mind.",
-    hindi_translation: "11.24: हे विष्णु भगवान! आकाश को स्पर्श करते हुए बहु रंगों, दीप्तिमान, मुख फैलाए और चमकती हुई असंख्य आंखों से युक्त आपके रूप को देखकर मेरा हृदय भय से कांप रहा है और मैंने अपना सारा धैर्य और मानसिक संतुलन खो दिया है।",
+    verse: 26-27,
+    shloka: "अमी च त्वां धृतराष्ट्रस्य पुत्रा:सर्वे सहैवावनिपालसङ्घै: |भीष्मो द्रोण: सूतपुत्रस्तथासौसहास्मदीयैरपि योधमुख्यै: || 26||वक्त्राणि ते त्वरमाणा विशन्तिदंष्ट्राकरालानि भयानकानि |केचिद्विलग्ना दशनान्तरेषुसन्दृश्यन्ते चूर्णितैरुत्तमाङ्गै: || 27||",
+    translation: "11.26-27: I see all the sons of Dhritarashtra, along with their allied kings, including Bheeshma, Dronacharya, Karn, and also the generals from our side, rushing headlong into your fearsome mouths. I see some with their heads smashed between your terrible teeth.",
+    hindi_translation: "11.26-27: मैं धृतराष्ट्र के सभी पुत्रों को उनके सहयोगी राजाओं और भीष्म, द्रोणाचार्य, कर्ण तथा हमारे पक्ष के सेना नायकों सहित आपके विकराल मुख में प्रवेश करता देख रहा हूँ। इनमें से कुछ के सिरों को मैं आपके विकराल दांतों के बीच पिसता हुआ देख रहा हूँ।",
 );
 ```
 <p align="center">
