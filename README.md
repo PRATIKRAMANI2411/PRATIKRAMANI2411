@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 26-27,
-    shloka: "अमी च त्वां धृतराष्ट्रस्य पुत्रा:सर्वे सहैवावनिपालसङ्घै: |भीष्मो द्रोण: सूतपुत्रस्तथासौसहास्मदीयैरपि योधमुख्यै: || 26||वक्त्राणि ते त्वरमाणा विशन्तिदंष्ट्राकरालानि भयानकानि |केचिद्विलग्ना दशनान्तरेषुसन्दृश्यन्ते चूर्णितैरुत्तमाङ्गै: || 27||",
-    translation: "11.26-27: I see all the sons of Dhritarashtra, along with their allied kings, including Bheeshma, Dronacharya, Karn, and also the generals from our side, rushing headlong into your fearsome mouths. I see some with their heads smashed between your terrible teeth.",
-    hindi_translation: "11.26-27: मैं धृतराष्ट्र के सभी पुत्रों को उनके सहयोगी राजाओं और भीष्म, द्रोणाचार्य, कर्ण तथा हमारे पक्ष के सेना नायकों सहित आपके विकराल मुख में प्रवेश करता देख रहा हूँ। इनमें से कुछ के सिरों को मैं आपके विकराल दांतों के बीच पिसता हुआ देख रहा हूँ।",
+    chapter: 2,
+    verse: 24,
+    shloka: "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च |नित्य: सर्वगत: स्थाणुरचलोऽयं सनातन: || 24||",
+    translation: "2.24: The soul is unbreakable and incombustible; it can neither be dampened nor dried. It is everlasting, in all places, unalterable, immutable, and primordial.",
+    hindi_translation: "2.24: आत्मा अखंडित और अज्वलनशील है, इसे न तो गीला किया जा सकता है और न ही सुखाया जा सकता है। यह आत्मा शाश्वत, सर्वव्यापी, अपरिर्वतनीय, अचल और अनादि है।",
 );
 ```
 <p align="center">
