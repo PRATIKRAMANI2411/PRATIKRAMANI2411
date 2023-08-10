@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 24,
-    shloka: "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च |नित्य: सर्वगत: स्थाणुरचलोऽयं सनातन: || 24||",
-    translation: "2.24: The soul is unbreakable and incombustible; it can neither be dampened nor dried. It is everlasting, in all places, unalterable, immutable, and primordial.",
-    hindi_translation: "2.24: आत्मा अखंडित और अज्वलनशील है, इसे न तो गीला किया जा सकता है और न ही सुखाया जा सकता है। यह आत्मा शाश्वत, सर्वव्यापी, अपरिर्वतनीय, अचल और अनादि है।",
+    chapter: 11,
+    verse: 31,
+    shloka: "आख्याहि मे को भवानुग्ररूपोनमोऽस्तु ते देववर प्रसीद |विज्ञातुमिच्छामि भवन्तमाद्यंन हि प्रजानामि तव प्रवृत्तिम् || 31||",
+    translation: "11.31: Tell me who you are, so fierce of form. O God of gods, I bow before you; please bestow your mercy on me. You, who existed before all creation, I wish to know who you are, for I do not comprehend your nature and workings.",
+    hindi_translation: "11.31: हे देवेश! कृपया मुझे बताएं कि अति उग्र रूप में आप कौन हैं? मैं आपको प्रणाम करता हूँ। कृपया मुझ पर करुणा करें। आप समस्त सृष्टियों से पूर्व आदि भगवान हैं। मैं आपको जानना चाहता हूँ और मैं आपकी प्रकृति और प्रयोजन को नहीं समझ पा रहा हूँ।",
 );
 ```
 <p align="center">
