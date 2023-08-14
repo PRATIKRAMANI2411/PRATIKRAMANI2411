@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 14,
-    shloka: "सततं कीर्तयन्तो मां यतन्तश्च दृढव्रता: |नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते || 14||",
-    translation: "9.14: Always singing My divine glories, striving with great determination, and humbly bowing down before Me, they constantly worship Me in loving devotion.",
-    hindi_translation: "9.14: मेरी दिव्य महिमा का सदैव कीर्तन करते हुए दृढ़ निश्चय के साथ विनय पूर्वक मेरे समक्ष नतमस्तक होकर वे निरन्तर प्रेमा भक्ति के साथ मेरी आराधना करते हैं।",
+    chapter: 16,
+    verse: 8,
+    shloka: "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् |अपरस्परसम्भूतं किमन्यत्कामहैतुकम् || 8||",
+    translation: "16.8: They say, “The world is without absolute truth, without any basis (for moral order), and without a God (who has created or is controlling it). It is created from the combination of the two sexes, and has no purpose other than sexual gratification.”",
+    hindi_translation: "16.8: वे कहते हैं, संसार परम सत्य से रहित और आधारहीन है तथा यह भगवान रहित है जो इसका सृष्टा और नियामक है। यह दो विपरीत लिंगों से उत्पन्न होता है और कामेच्छा के अतिरिक्त इसका कोई अन्य कारण नहीं है।",
 );
 ```
 <p align="center">
