@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 8,
-    shloka: "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् |अपरस्परसम्भूतं किमन्यत्कामहैतुकम् || 8||",
-    translation: "16.8: They say, “The world is without absolute truth, without any basis (for moral order), and without a God (who has created or is controlling it). It is created from the combination of the two sexes, and has no purpose other than sexual gratification.”",
-    hindi_translation: "16.8: वे कहते हैं, संसार परम सत्य से रहित और आधारहीन है तथा यह भगवान रहित है जो इसका सृष्टा और नियामक है। यह दो विपरीत लिंगों से उत्पन्न होता है और कामेच्छा के अतिरिक्त इसका कोई अन्य कारण नहीं है।",
+    chapter: 7,
+    verse: 30,
+    shloka: "साधिभूताधिदैवं मां साधियज्ञं च ये विदु: |प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतस: || 30||",
+    translation: "7.30: Those who know Me as the governing principle of the adhibhūta (field of matter) and the adhidaiva (the celestial gods), and as adhiyajña (the Lord of all sacrificial performances), such enlightened souls are in full consciousness of Me even at the time of death.",
+    hindi_translation: "7.30: वे जो मुझे 'अधिभूत' प्रकृति के तत्त्व के सिद्धान्त और 'अधिदेव' देवतागण तथा 'अधियज्ञ' यज्ञों के नियामक के रूप में जानते हैं, ऐसी प्रबुद्ध आत्माएँ सदैव यहाँ तक कि अपनी मृत्यु के समय भी मेरी पूर्ण चेतना में लीन रहती हैं।",
 );
 ```
 <p align="center">
