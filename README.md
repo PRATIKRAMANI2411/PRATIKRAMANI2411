@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 30,
-    shloka: "साधिभूताधिदैवं मां साधियज्ञं च ये विदु: |प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतस: || 30||",
-    translation: "7.30: Those who know Me as the governing principle of the adhibhūta (field of matter) and the adhidaiva (the celestial gods), and as adhiyajña (the Lord of all sacrificial performances), such enlightened souls are in full consciousness of Me even at the time of death.",
-    hindi_translation: "7.30: वे जो मुझे 'अधिभूत' प्रकृति के तत्त्व के सिद्धान्त और 'अधिदेव' देवतागण तथा 'अधियज्ञ' यज्ञों के नियामक के रूप में जानते हैं, ऐसी प्रबुद्ध आत्माएँ सदैव यहाँ तक कि अपनी मृत्यु के समय भी मेरी पूर्ण चेतना में लीन रहती हैं।",
+    chapter: 11,
+    verse: 28-29,
+    shloka: "यथा नदीनां बहवोऽम्बुवेगा:समुद्रमेवाभिमुखा द्रवन्ति |तथा तवामी नरलोकवीराविशन्ति वक्त्राण्यभिविज्वलन्ति || 28||यथा प्रदीप्तं ज्वलनं पतङ्गाविशन्ति नाशाय समृद्धवेगा: |तथैव नाशाय विशन्ति लोका-स्तवापि वक्त्राणि समृद्धवेगा: || 29||",
+    translation: "11.28-29: As many waves of the rivers flowing rapidly into the ocean, so are all these great warriors entering into your blazing mouths. As moths rush with great speed into the fire to perish, so are all these armies entering with great speed into your mouths.",
+    hindi_translation: "11.28-29: जिस प्रकार से नदियों की कई लहरें समुद्र में प्रवेश करती हैं उसी प्रकार से ये सब महायोद्धा आपके धधकते मुख में प्रवेश कर रहे हैं। जिस प्रकार से पतंगा तीव्र गति से अग्नि में प्रवेश कर जलकर भस्म हो जाता है उसी प्रकार से ये सेनाएँ अपने विनाश के लिए तीव्र गति से आपके मुख में प्रवेश कर रही हैं।",
 );
 ```
 <p align="center">
