@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 28-29,
-    shloka: "यथा नदीनां बहवोऽम्बुवेगा:समुद्रमेवाभिमुखा द्रवन्ति |तथा तवामी नरलोकवीराविशन्ति वक्त्राण्यभिविज्वलन्ति || 28||यथा प्रदीप्तं ज्वलनं पतङ्गाविशन्ति नाशाय समृद्धवेगा: |तथैव नाशाय विशन्ति लोका-स्तवापि वक्त्राणि समृद्धवेगा: || 29||",
-    translation: "11.28-29: As many waves of the rivers flowing rapidly into the ocean, so are all these great warriors entering into your blazing mouths. As moths rush with great speed into the fire to perish, so are all these armies entering with great speed into your mouths.",
-    hindi_translation: "11.28-29: जिस प्रकार से नदियों की कई लहरें समुद्र में प्रवेश करती हैं उसी प्रकार से ये सब महायोद्धा आपके धधकते मुख में प्रवेश कर रहे हैं। जिस प्रकार से पतंगा तीव्र गति से अग्नि में प्रवेश कर जलकर भस्म हो जाता है उसी प्रकार से ये सेनाएँ अपने विनाश के लिए तीव्र गति से आपके मुख में प्रवेश कर रही हैं।",
+    chapter: 18,
+    verse: 45,
+    shloka: "स्वे स्वे कर्मण्यभिरत: संसिद्धिं लभते नर: |स्वकर्मनिरत: सिद्धिं यथा विन्दति तच्छृणु || 45||",
+    translation: "18.45: By fulfilling their duties, born of their innate qualities, human beings can attain perfection. Now hear from me how one can become perfect by discharging one’s prescribed duties.",
+    hindi_translation: "18.45: अपने जन्मजात गुणों से उत्पन्न अपने कर्तव्यों का पालन करने से मनुष्य पूर्णता प्राप्त कर सकता है। अब मुझसे सुनो कि कोई निर्धारित कर्तव्यों का पालन करते हुए कैसे पूर्णता प्राप्त करता है।",
 );
 ```
 <p align="center">
