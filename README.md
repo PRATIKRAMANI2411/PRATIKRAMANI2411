@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 18,
-    verse: 45,
-    shloka: "स्वे स्वे कर्मण्यभिरत: संसिद्धिं लभते नर: |स्वकर्मनिरत: सिद्धिं यथा विन्दति तच्छृणु || 45||",
-    translation: "18.45: By fulfilling their duties, born of their innate qualities, human beings can attain perfection. Now hear from me how one can become perfect by discharging one’s prescribed duties.",
-    hindi_translation: "18.45: अपने जन्मजात गुणों से उत्पन्न अपने कर्तव्यों का पालन करने से मनुष्य पूर्णता प्राप्त कर सकता है। अब मुझसे सुनो कि कोई निर्धारित कर्तव्यों का पालन करते हुए कैसे पूर्णता प्राप्त करता है।",
+    verse: 65,
+    shloka: "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे || 65||",
+    translation: "18.65: Always think of me, be devoted to me, worship me, and offer obeisance to me. Doing so, you will certainly come to me. This is my pledge to you, for you are very dear to me.",
+    hindi_translation: "18.65: सदा मेरा चिंतन करो, मेरे भक्त बनो, मेरी अराधना करो, मुझे प्रणाम करो, ऐसा करके तुम निश्चित रूप से मेरे पास आओगे। मैं तुम्हें ऐसा वचन देता हूँ क्योंकि तुम मेरे अतिशय मित्र हो।",
 );
 ```
 <p align="center">
