@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 65,
-    shloka: "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे || 65||",
-    translation: "18.65: Always think of me, be devoted to me, worship me, and offer obeisance to me. Doing so, you will certainly come to me. This is my pledge to you, for you are very dear to me.",
-    hindi_translation: "18.65: सदा मेरा चिंतन करो, मेरे भक्त बनो, मेरी अराधना करो, मुझे प्रणाम करो, ऐसा करके तुम निश्चित रूप से मेरे पास आओगे। मैं तुम्हें ऐसा वचन देता हूँ क्योंकि तुम मेरे अतिशय मित्र हो।",
+    chapter: 10,
+    verse: 30,
+    shloka: "प्रह्लादश्चास्मि दैत्यानां काल: कलयतामहम् |मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् || 30||",
+    translation: "10.30: I am Prahlad amongst the demons; amongst all that controls I am time. Know me to be the lion amongst animals, and Garud amongst the birds.",
+    hindi_translation: "10.30: दैत्यों में मैं प्रह्लाद हूँ और दमनकर्ताओं में मैं काल हूँ। पशुओं में मुझे सिंह मानो और पक्षियों में मुझे गरूड़ जानो।",
 );
 ```
 <p align="center">
