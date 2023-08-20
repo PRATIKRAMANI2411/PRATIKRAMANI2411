@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 30,
-    shloka: "प्रह्लादश्चास्मि दैत्यानां काल: कलयतामहम् |मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् || 30||",
-    translation: "10.30: I am Prahlad amongst the demons; amongst all that controls I am time. Know me to be the lion amongst animals, and Garud amongst the birds.",
-    hindi_translation: "10.30: दैत्यों में मैं प्रह्लाद हूँ और दमनकर्ताओं में मैं काल हूँ। पशुओं में मुझे सिंह मानो और पक्षियों में मुझे गरूड़ जानो।",
+    chapter: 11,
+    verse: 36,
+    shloka: "अर्जुन उवाच |स्थाने हृषीकेश तव प्रकीर्त्याजगत्प्रहृष्यत्यनुरज्यते च |रक्षांसि भीतानि दिशो द्रवन्तिसर्वे नमस्यन्ति च सिद्धसङ्घा: || 36||",
+    translation: "11.36: Arjun said: O Master of the senses, it is but apt that the universe rejoices in giving you praise and is enamored by You. Demons flee fearfully from you in all directions and the hosts of perfected saints bow to you.",
+    hindi_translation: "11.36: अर्जुन ने कहाः हे हृषीकेश! ये उचित है कि आपके नाम, श्रवण और यश गान से संसार हर्षित होता है। असुर गण आपसे भयभीत होकर सभी दिशाओं की ओर भागते रहते हैं और सिद्ध महात्माओं के समुदाय आपको नमस्कार करते हैं।",
 );
 ```
 <p align="center">
