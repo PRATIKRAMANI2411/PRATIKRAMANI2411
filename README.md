@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 36,
-    shloka: "अर्जुन उवाच |स्थाने हृषीकेश तव प्रकीर्त्याजगत्प्रहृष्यत्यनुरज्यते च |रक्षांसि भीतानि दिशो द्रवन्तिसर्वे नमस्यन्ति च सिद्धसङ्घा: || 36||",
-    translation: "11.36: Arjun said: O Master of the senses, it is but apt that the universe rejoices in giving you praise and is enamored by You. Demons flee fearfully from you in all directions and the hosts of perfected saints bow to you.",
-    hindi_translation: "11.36: अर्जुन ने कहाः हे हृषीकेश! ये उचित है कि आपके नाम, श्रवण और यश गान से संसार हर्षित होता है। असुर गण आपसे भयभीत होकर सभी दिशाओं की ओर भागते रहते हैं और सिद्ध महात्माओं के समुदाय आपको नमस्कार करते हैं।",
+    chapter: 16,
+    verse: 6,
+    shloka: "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च |दैवो विस्तरश: प्रोक्त आसुरं पार्थ मे शृणु || 6||",
+    translation: "16.6: There are two kinds of beings in this world—those endowed with a divine nature and those possessing a demoniac nature. I have described the divine qualities in detail, O Arjun. Now hear from me about the demoniac nature.",
+    hindi_translation: "16.6: संसार में दो प्रकार के प्राणी हैं-एक वे जो दैवीय गुणों से सम्पन्न हैं और दूसरे वे जो आसुरी प्रकृति के हैं। मैं दैवीय गुणों का विस्तार से वर्णन कर चुका हूँ अब तुम मुझसे आसुरी स्वभाव वाले लोगों के संबंध में सुनो।",
 );
 ```
 <p align="center">
