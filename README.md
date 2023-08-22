@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 6,
-    shloka: "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च |दैवो विस्तरश: प्रोक्त आसुरं पार्थ मे शृणु || 6||",
-    translation: "16.6: There are two kinds of beings in this world—those endowed with a divine nature and those possessing a demoniac nature. I have described the divine qualities in detail, O Arjun. Now hear from me about the demoniac nature.",
-    hindi_translation: "16.6: संसार में दो प्रकार के प्राणी हैं-एक वे जो दैवीय गुणों से सम्पन्न हैं और दूसरे वे जो आसुरी प्रकृति के हैं। मैं दैवीय गुणों का विस्तार से वर्णन कर चुका हूँ अब तुम मुझसे आसुरी स्वभाव वाले लोगों के संबंध में सुनो।",
+    chapter: 2,
+    verse: 54,
+    shloka: "अर्जुन उवाच |स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव |स्थितधी: किं प्रभाषेत किमासीत व्रजेत किम् || 54||",
+    translation: "2.54: Arjun said : O Keshav, what is the disposition of one who is situated in divine consciousness? How does an enlightened person talk? How does he sit? How does he walk?",
+    hindi_translation: "2.54: अर्जुन ने कहाः हे केशव! दिव्य चेतना में लीन मनुष्य के क्या लक्षण हैं। वह सिद्ध पुरुष कैसे बोलता है? कैसे बैठता है और कैसे चलता है?",
 );
 ```
 <p align="center">
