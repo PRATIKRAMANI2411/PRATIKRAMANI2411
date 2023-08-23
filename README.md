@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 2,
-    verse: 54,
-    shloka: "अर्जुन उवाच |स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव |स्थितधी: किं प्रभाषेत किमासीत व्रजेत किम् || 54||",
-    translation: "2.54: Arjun said : O Keshav, what is the disposition of one who is situated in divine consciousness? How does an enlightened person talk? How does he sit? How does he walk?",
-    hindi_translation: "2.54: अर्जुन ने कहाः हे केशव! दिव्य चेतना में लीन मनुष्य के क्या लक्षण हैं। वह सिद्ध पुरुष कैसे बोलता है? कैसे बैठता है और कैसे चलता है?",
+    verse: 49,
+    shloka: "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय |बुद्धौ शरणमन्विच्छ कृपणा: फलहेतव: || 49||",
+    translation: "2.49: Seek refuge in divine knowledge and insight, O Arjun, and discard reward-seeking actions that are certainly inferior to works performed with the intellect established in divine knowledge. Miserly are those who seek to enjoy the fruits of their works.",
+    hindi_translation: "2.49: हे अर्जुन! दिव्य ज्ञान और अन्तर्दृष्टि की शरण ग्रहण करो, फलों की आसक्ति युक्त कर्मों से दूर रहो जो निश्चित रूप से दिव्य ज्ञान में स्थित बुद्धि के साथ निष्पादित किए गए कार्यों से निष्कृष्ट हैं। जो अपने कर्मफलों का भोग करना चाहते हैं, वे कृपण हैं।",
 );
 ```
 <p align="center">
