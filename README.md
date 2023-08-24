@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 49,
-    shloka: "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय |बुद्धौ शरणमन्विच्छ कृपणा: फलहेतव: || 49||",
-    translation: "2.49: Seek refuge in divine knowledge and insight, O Arjun, and discard reward-seeking actions that are certainly inferior to works performed with the intellect established in divine knowledge. Miserly are those who seek to enjoy the fruits of their works.",
-    hindi_translation: "2.49: हे अर्जुन! दिव्य ज्ञान और अन्तर्दृष्टि की शरण ग्रहण करो, फलों की आसक्ति युक्त कर्मों से दूर रहो जो निश्चित रूप से दिव्य ज्ञान में स्थित बुद्धि के साथ निष्पादित किए गए कार्यों से निष्कृष्ट हैं। जो अपने कर्मफलों का भोग करना चाहते हैं, वे कृपण हैं।",
+    chapter: 4,
+    verse: 34,
+    shloka: "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया |उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिन: || 34||",
+    translation: "4.34: Learn the Truth by approaching a spiritual master. Inquire from him with reverence and render service unto him. Such an enlightened Saint can impart knowledge unto you because he has seen the Truth.",
+    hindi_translation: "4.34: आध्यात्मिक गुरु के पास जाकर सत्य को जानो। विनम्र होकर उनसे ज्ञान प्राप्त करने की जिज्ञासा प्रकट करते हुए ज्ञान प्राप्त करो और उनकी सेवा करो। ऐसा सिद्ध सन्त तुम्हें दिव्य ज्ञान प्रदान कर सकता है क्योंकि वह परम सत्य की अनुभूति कर चुका होता है।",
 );
 ```
 <p align="center">
