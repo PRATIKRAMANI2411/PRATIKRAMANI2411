@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 34,
-    shloka: "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया |उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिन: || 34||",
-    translation: "4.34: Learn the Truth by approaching a spiritual master. Inquire from him with reverence and render service unto him. Such an enlightened Saint can impart knowledge unto you because he has seen the Truth.",
-    hindi_translation: "4.34: आध्यात्मिक गुरु के पास जाकर सत्य को जानो। विनम्र होकर उनसे ज्ञान प्राप्त करने की जिज्ञासा प्रकट करते हुए ज्ञान प्राप्त करो और उनकी सेवा करो। ऐसा सिद्ध सन्त तुम्हें दिव्य ज्ञान प्रदान कर सकता है क्योंकि वह परम सत्य की अनुभूति कर चुका होता है।",
+    chapter: 18,
+    verse: 30,
+    shloka: "प्रवृत्तिंच निवृत्तिं च कार्याकार्ये भयाभये |बन्धं मोक्षं च या वेत्तिबुद्धि: सा पार्थ सात्त्विकी || 30||",
+    translation: "18.30: The intellect is said to be in the nature of goodness, O Parth, when it understands what is proper action and what is improper action, what is duty and what is non-duty, what is to be feared and what is not to be feared, what is binding and what is liberating.",
+    hindi_translation: "18.30: हे पृथापुत्र! वह बुद्धि सत्वगुणी है जिसके द्वारा यह जाना जाता है कि क्या उचित है और क्या अनुचित है, क्या कर्त्तव्य है और क्या अकरणीय है, किससे भयभीत होना चाहिए और किससे भयभीत नहीं होना चाहिए, और क्या बंधन में डालने वाला है और क्या मुक्ति देने वाला है।",
 );
 ```
 <p align="center">
