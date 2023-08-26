@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 30,
-    shloka: "प्रवृत्तिंच निवृत्तिं च कार्याकार्ये भयाभये |बन्धं मोक्षं च या वेत्तिबुद्धि: सा पार्थ सात्त्विकी || 30||",
-    translation: "18.30: The intellect is said to be in the nature of goodness, O Parth, when it understands what is proper action and what is improper action, what is duty and what is non-duty, what is to be feared and what is not to be feared, what is binding and what is liberating.",
-    hindi_translation: "18.30: हे पृथापुत्र! वह बुद्धि सत्वगुणी है जिसके द्वारा यह जाना जाता है कि क्या उचित है और क्या अनुचित है, क्या कर्त्तव्य है और क्या अकरणीय है, किससे भयभीत होना चाहिए और किससे भयभीत नहीं होना चाहिए, और क्या बंधन में डालने वाला है और क्या मुक्ति देने वाला है।",
+    chapter: 11,
+    verse: 28-29,
+    shloka: "यथा नदीनां बहवोऽम्बुवेगा:समुद्रमेवाभिमुखा द्रवन्ति |तथा तवामी नरलोकवीराविशन्ति वक्त्राण्यभिविज्वलन्ति || 28||यथा प्रदीप्तं ज्वलनं पतङ्गाविशन्ति नाशाय समृद्धवेगा: |तथैव नाशाय विशन्ति लोका-स्तवापि वक्त्राणि समृद्धवेगा: || 29||",
+    translation: "11.28-29: As many waves of the rivers flowing rapidly into the ocean, so are all these great warriors entering into your blazing mouths. As moths rush with great speed into the fire to perish, so are all these armies entering with great speed into your mouths.",
+    hindi_translation: "11.28-29: जिस प्रकार से नदियों की कई लहरें समुद्र में प्रवेश करती हैं उसी प्रकार से ये सब महायोद्धा आपके धधकते मुख में प्रवेश कर रहे हैं। जिस प्रकार से पतंगा तीव्र गति से अग्नि में प्रवेश कर जलकर भस्म हो जाता है उसी प्रकार से ये सेनाएँ अपने विनाश के लिए तीव्र गति से आपके मुख में प्रवेश कर रही हैं।",
 );
 ```
 <p align="center">
