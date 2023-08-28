@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 51,
-    shloka: "अर्जुन उवाच |दृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन |इदानीमस्मि संवृत्त: सचेता: प्रकृतिं गत: || 51||",
-    translation: "11.51: Arjun said: O Shree Krishna, seeing your gentle human form (two-armed), I have regained my composure and my mind is restored to normal.",
-    hindi_translation: "11.51: अर्जुन ने कहा-हे जनार्दन! आपके दो भुजा वाले मनोहर मानव रूप को देखकर मुझ में आत्मसंयम लौट आया है और मेरा चित्त स्थिर होकर सामान्य अवस्था में आ गया है।",
+    chapter: 14,
+    verse: 10,
+    shloka: "रजस्तमश्चाभिभूय सत्त्वं भवति भारत |रज: सत्त्वं तमश्चैव तम: सत्त्वं रजस्तथा || 10||",
+    translation: "14.10: Sometimes goodness (sattva) prevails over passion (rajas) and ignorance (tamas), O scion of Bharat. Sometimes passion (rajas) dominates goodness (sattva) and ignorance (tamas), and at other times ignorance (tamas) overcomes goodness (sattva) and passion (rajas).",
+    hindi_translation: "14.10: कभी-कभी सत्वगुण, रजोगुण और तमोगुण को परास्त करता है और कभी-कभी रजोगुण सत्व गुण और तमोगुण पर हावी हो जाता है और कभी-कभी ऐसा भी होता है कि तमोगुण सत्व गुण और रजोगुण पर हावी हो जाता है।",
 );
 ```
 <p align="center">
