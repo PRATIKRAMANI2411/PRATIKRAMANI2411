@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
+    chapter: 13,
     verse: 29,
-    shloka: "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् |सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति || 29||",
-    translation: "5.29: Having realized Me as the enjoyer of all sacrifices and austerities, the Supreme Lord of all the worlds and the selfless friend of all living beings, My devotee attains peace.",
-    hindi_translation: "5.29: जो भक्त मुझे समस्त यज्ञों और तपस्याओं का भोक्ता, समस्त लोकों का परम भगवानऔर सभी प्राणियों का सच्चा हितैषी समझते हैं, वे परम शांति प्राप्त करते हैं।",
+    shloka: "समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् |न हिनस्त्यात्मनात्मानं ततो याति परां गतिम् || 29||",
+    translation: "13.29: Those, who see God as the Supreme Soul equally present everywhere and in all living beings, do not degrade themselves by their mind. Thereby, they reach the supreme destination.",
+    hindi_translation: "13.29: वे जो भगवान को सर्वत्र और सभी जीवों में समान रूप से स्थित देखते हैं वे अपने मन से स्वयं को निम्नीकृत नहीं करते। इस प्रकार से वे अपने परम गंतव्य को प्राप्त करते हैं।",
 );
 ```
 <p align="center">
