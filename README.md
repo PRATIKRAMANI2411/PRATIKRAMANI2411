@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 13,
-    verse: 29,
-    shloka: "समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् |न हिनस्त्यात्मनात्मानं ततो याति परां गतिम् || 29||",
-    translation: "13.29: Those, who see God as the Supreme Soul equally present everywhere and in all living beings, do not degrade themselves by their mind. Thereby, they reach the supreme destination.",
-    hindi_translation: "13.29: वे जो भगवान को सर्वत्र और सभी जीवों में समान रूप से स्थित देखते हैं वे अपने मन से स्वयं को निम्नीकृत नहीं करते। इस प्रकार से वे अपने परम गंतव्य को प्राप्त करते हैं।",
+    verse: 5,
+    shloka: "ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधै: पृथक् |ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितै: || 5 ||",
+    translation: "13.5: Great sages have sung the truth about the field and the knower of the field in manifold ways. It has been stated in various Vedic hymns, and especially revealed in the Brahma Sūtra, with sound logic and conclusive evidence.",
+    hindi_translation: "13.5: महान ऋषियों ने अनेक रूप से क्षेत्र का और क्षेत्र के ज्ञाता के सत्य का वर्णन किया है। इसका उल्लेख विभिन्न वैदिक स्रोतों और विशेष रूप से ब्रह्मसूत्र में ठोस तर्क और निर्णयात्मक साक्ष्यों के साथ प्रकट किया गया है।",
 );
 ```
 <p align="center">
