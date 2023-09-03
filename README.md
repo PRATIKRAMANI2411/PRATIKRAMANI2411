@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 5,
-    shloka: "ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधै: पृथक् |ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितै: || 5 ||",
-    translation: "13.5: Great sages have sung the truth about the field and the knower of the field in manifold ways. It has been stated in various Vedic hymns, and especially revealed in the Brahma Sūtra, with sound logic and conclusive evidence.",
-    hindi_translation: "13.5: महान ऋषियों ने अनेक रूप से क्षेत्र का और क्षेत्र के ज्ञाता के सत्य का वर्णन किया है। इसका उल्लेख विभिन्न वैदिक स्रोतों और विशेष रूप से ब्रह्मसूत्र में ठोस तर्क और निर्णयात्मक साक्ष्यों के साथ प्रकट किया गया है।",
+    chapter: 10,
+    verse: 21,
+    shloka: "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् |मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी || 21||",
+    translation: "10.21: Amongst the twelve sons of Aditi I am Vishnu; amongst luminous objects I am the sun. Know me to be Marichi amongst the maruts, and the moon amongst the stars in the night sky.",
+    hindi_translation: "10.21: मैं अदिति के बारह पुत्रों में विष्णु हूँ, प्रकाशवान पदार्थों में सूर्य, मरूतों में मुझे मरीचि और नक्षत्रों में रात्रि का चन्द्रमा समझो।",
 );
 ```
 <p align="center">
