@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 21,
-    shloka: "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् |मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी || 21||",
-    translation: "10.21: Amongst the twelve sons of Aditi I am Vishnu; amongst luminous objects I am the sun. Know me to be Marichi amongst the maruts, and the moon amongst the stars in the night sky.",
-    hindi_translation: "10.21: मैं अदिति के बारह पुत्रों में विष्णु हूँ, प्रकाशवान पदार्थों में सूर्य, मरूतों में मुझे मरीचि और नक्षत्रों में रात्रि का चन्द्रमा समझो।",
+    chapter: 1,
+    verse: 20,
+    shloka: "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वज: |प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डव: ||20||हृषीकेशं तदा वाक्यमिदमाह महीपते |",
+    translation: "1.20: At that time, the son of Pandu, Arjun, who had the insignia of Hanuman on the flag of his chariot, took up his bow. Seeing your sons arrayed against him, O King, Arjun then spoke the following words to Shree Krishna.",
+    hindi_translation: "1.20: उस समय हनुमान के चिह्न की ध्वजा लगे रथ पर आसीन पाण्डु पुत्र अर्जुन अपना धनुष उठा कर बाण चलाने के लिए उद्यत दिखाई दिया। हे राजन! आपके पुत्रों को अपने विरूद्ध व्यूह रचना में खड़े देख कर अर्जुन ने श्रीकृष्ण से यह वचन कहे।",
 );
 ```
 <p align="center">
