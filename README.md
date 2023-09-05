@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 20,
-    shloka: "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वज: |प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डव: ||20||हृषीकेशं तदा वाक्यमिदमाह महीपते |",
-    translation: "1.20: At that time, the son of Pandu, Arjun, who had the insignia of Hanuman on the flag of his chariot, took up his bow. Seeing your sons arrayed against him, O King, Arjun then spoke the following words to Shree Krishna.",
-    hindi_translation: "1.20: उस समय हनुमान के चिह्न की ध्वजा लगे रथ पर आसीन पाण्डु पुत्र अर्जुन अपना धनुष उठा कर बाण चलाने के लिए उद्यत दिखाई दिया। हे राजन! आपके पुत्रों को अपने विरूद्ध व्यूह रचना में खड़े देख कर अर्जुन ने श्रीकृष्ण से यह वचन कहे।",
+    chapter: 18,
+    verse: 76,
+    shloka: "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् |केशवार्जुनयो: पुण्यं हृष्यामि च मुहुर्मुहु: || 76||",
+    translation: "18.76: As I repeatedly recall this astonishing and wonderful dialogue between the Supreme Lord Shree Krishna and Arjun, O King, I rejoice again and again.",
+    hindi_translation: "18.76: हे राजन! जब-जब मैं परमेश्वर श्रीकृष्ण और अर्जुन के बीच हुए इस चकित कर देने वाले अद्भुत संवाद का स्मरण करता हूँ तब-तब मैं पुनः पुनः हर्षित होता हूँ।",
 );
 ```
 <p align="center">
