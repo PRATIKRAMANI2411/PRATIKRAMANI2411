@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 76,
-    shloka: "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् |केशवार्जुनयो: पुण्यं हृष्यामि च मुहुर्मुहु: || 76||",
-    translation: "18.76: As I repeatedly recall this astonishing and wonderful dialogue between the Supreme Lord Shree Krishna and Arjun, O King, I rejoice again and again.",
-    hindi_translation: "18.76: हे राजन! जब-जब मैं परमेश्वर श्रीकृष्ण और अर्जुन के बीच हुए इस चकित कर देने वाले अद्भुत संवाद का स्मरण करता हूँ तब-तब मैं पुनः पुनः हर्षित होता हूँ।",
+    chapter: 16,
+    verse: 21,
+    shloka: "त्रिविधं नरकस्येदं द्वारं नाशनमात्मन: |काम: क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् || 21||",
+    translation: "16.21: There are three gates leading to the hell of self-destruction for the soul—lust, anger, and greed. Therefore, all should abandon these three.",
+    hindi_translation: "16.21: काम, क्रोध और लोभ जीवात्मा को आत्म विनाश के नरक की ओर ले जाने वाले तीन द्वार हैं इसलिए सबको इनका त्याग करना चाहिए।",
 );
 ```
 <p align="center">
