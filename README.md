@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 21,
-    shloka: "त्रिविधं नरकस्येदं द्वारं नाशनमात्मन: |काम: क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् || 21||",
-    translation: "16.21: There are three gates leading to the hell of self-destruction for the soul—lust, anger, and greed. Therefore, all should abandon these three.",
-    hindi_translation: "16.21: काम, क्रोध और लोभ जीवात्मा को आत्म विनाश के नरक की ओर ले जाने वाले तीन द्वार हैं इसलिए सबको इनका त्याग करना चाहिए।",
+    chapter: 18,
+    verse: 32,
+    shloka: "अधर्मं धर्ममिति या मन्यते तमसावृता |सर्वार्थान्विपरीतांश्च बुद्धि: सा पार्थ तामसी || 32||",
+    translation: "18.32: That intellect which is shrouded in darkness, imagining irreligion to be religion, and perceiving untruth to be the truth, is of the nature of ignorance.",
+    hindi_translation: "18.32: जो बुद्धि अंधकार से आच्छादित रहती है, अधर्म में धर्म, असत्य में सत्य की कल्पना करती है, वह तामसिक प्रकृति की होती है।",
 );
 ```
 <p align="center">
