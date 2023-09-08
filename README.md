@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 32,
-    shloka: "अधर्मं धर्ममिति या मन्यते तमसावृता |सर्वार्थान्विपरीतांश्च बुद्धि: सा पार्थ तामसी || 32||",
-    translation: "18.32: That intellect which is shrouded in darkness, imagining irreligion to be religion, and perceiving untruth to be the truth, is of the nature of ignorance.",
-    hindi_translation: "18.32: जो बुद्धि अंधकार से आच्छादित रहती है, अधर्म में धर्म, असत्य में सत्य की कल्पना करती है, वह तामसिक प्रकृति की होती है।",
+    chapter: 14,
+    verse: 8,
+    shloka: "तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् |प्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत || 8||",
+    translation: "14.8: O Arjun, tamo guṇa, which is born of ignorance, is the cause of illusion for the embodied souls. It deludes all living beings through negligence, laziness, and sleep.",
+    hindi_translation: "14.8: हे अर्जुन! तमोगुण जो अज्ञानता के कारण उत्पन्न होता है और देहधारियों जीवात्माओं के लिए मोह का कारण है। यह सभी जीवों को असावधानी, आलस्य और निद्रा द्वारा भ्रमित करता है।",
 );
 ```
 <p align="center">
