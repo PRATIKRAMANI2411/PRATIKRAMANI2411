@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 10,
-    shloka: "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् |विमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुष: || 10||",
-    translation: "15.10: The ignorant do not perceive the soul as it resides in the body, and as it enjoys sense objects; nor do they perceive it when it departs. But those who possess the eyes of knowledge can behold it.",
-    hindi_translation: "15.10: अज्ञानी आत्मा का अनुभव नहीं कर पाते जबकि यह शरीर में रहती है और इन्द्रिय विषयों का भोग करती है और न ही उन्हें इसके शरीर से प्रस्थान करने का बोध होता है लेकिन वे जिनके नेत्र ज्ञान से युक्त होते हैं वे इसे देख सकते हैं।",
+    chapter: 5,
+    verse: 21,
+    shloka: "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् |स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते || 21||",
+    translation: "5.21: Those who are not attached to external sense pleasures realize divine bliss in the self. Being united with God through Yog, they experience unending happiness.",
+    hindi_translation: "5.21: जो बाह्य इन्द्रिय सुखों में आसक्त नहीं होते वे आत्मिक परम आनन्द की अनुभूति करते हैं। भगवान के साथ एकनिष्ठ होने के कारण वे असीम सुख भोगते हैं।",
 );
 ```
 <p align="center">
