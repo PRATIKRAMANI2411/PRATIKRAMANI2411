@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 21,
-    shloka: "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् |स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते || 21||",
-    translation: "5.21: Those who are not attached to external sense pleasures realize divine bliss in the self. Being united with God through Yog, they experience unending happiness.",
-    hindi_translation: "5.21: जो बाह्य इन्द्रिय सुखों में आसक्त नहीं होते वे आत्मिक परम आनन्द की अनुभूति करते हैं। भगवान के साथ एकनिष्ठ होने के कारण वे असीम सुख भोगते हैं।",
+    chapter: 7,
+    verse: 24,
+    shloka: "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: |परं भावमजानन्तो ममाव्ययमनुत्तमम् || 24||",
+    translation: "7.24: The less intelligent think that I, the Supreme Lord Shree Krishna, was formless earlier and have now assumed this personality. They do not understand the imperishable exalted nature of My personal form.",
+    hindi_translation: "7.24: बुद्धिहीन मनुष्य सोचते हैं कि मैं परमेश्वर पहले निराकार था और अब मैंने यह साकार व्यक्तित्त्व धारण किया है, वे मेरे इस अविनाशी और सर्वोत्तम दिव्य स्वरूप की प्रकृत्ति को नहीं जान पाते।",
 );
 ```
 <p align="center">
