@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 24,
-    shloka: "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: |परं भावमजानन्तो ममाव्ययमनुत्तमम् || 24||",
-    translation: "7.24: The less intelligent think that I, the Supreme Lord Shree Krishna, was formless earlier and have now assumed this personality. They do not understand the imperishable exalted nature of My personal form.",
-    hindi_translation: "7.24: बुद्धिहीन मनुष्य सोचते हैं कि मैं परमेश्वर पहले निराकार था और अब मैंने यह साकार व्यक्तित्त्व धारण किया है, वे मेरे इस अविनाशी और सर्वोत्तम दिव्य स्वरूप की प्रकृत्ति को नहीं जान पाते।",
+    chapter: 4,
+    verse: 17,
+    shloka: "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मण: |अकर्मणश्च बोद्धव्यं गहना कर्मणो गति: || 17||",
+    translation: "4.17: You must understand the nature of all three—recommended action, wrong action, and inaction. The truth about these is profound and difficult to understand.",
+    hindi_translation: "4.17: तुम्हें सभी तीन कर्मों-अनुमोदित कर्म, विकर्म और अकर्म की प्रकृति को समझना चाहिए। इनके सत्य को समझना गहन और कठिन है।",
 );
 ```
 <p align="center">
