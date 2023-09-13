@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 17,
-    shloka: "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मण: |अकर्मणश्च बोद्धव्यं गहना कर्मणो गति: || 17||",
-    translation: "4.17: You must understand the nature of all three—recommended action, wrong action, and inaction. The truth about these is profound and difficult to understand.",
-    hindi_translation: "4.17: तुम्हें सभी तीन कर्मों-अनुमोदित कर्म, विकर्म और अकर्म की प्रकृति को समझना चाहिए। इनके सत्य को समझना गहन और कठिन है।",
+    chapter: 17,
+    verse: 25,
+    shloka: "तदित्यनभिसन्धाय फलं यज्ञतप:क्रिया: |दानक्रियाश्च विविधा: क्रियन्ते मोक्षकाङ्क्षिभि: || 25||",
+    translation: "17.25: Persons who do not desire fruitive rewards, but seek to be free from material entanglements, utter the word “Tat” along with acts of austerity, sacrifice, and charity.",
+    hindi_translation: "17.25: ऐसे व्यक्ति जो किसी फल की कामना नहीं करते किन्तु भौतिक उलझनों से मुक्त रहना चाहते हैं वे तप, यज्ञ तथा दान जैसे कार्य करते समय 'तत्' शब्द का उच्चारण करते हैं।",
 );
 ```
 <p align="center">
