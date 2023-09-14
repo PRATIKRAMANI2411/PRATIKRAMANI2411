@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 25,
-    shloka: "तदित्यनभिसन्धाय फलं यज्ञतप:क्रिया: |दानक्रियाश्च विविधा: क्रियन्ते मोक्षकाङ्क्षिभि: || 25||",
-    translation: "17.25: Persons who do not desire fruitive rewards, but seek to be free from material entanglements, utter the word “Tat” along with acts of austerity, sacrifice, and charity.",
-    hindi_translation: "17.25: ऐसे व्यक्ति जो किसी फल की कामना नहीं करते किन्तु भौतिक उलझनों से मुक्त रहना चाहते हैं वे तप, यज्ञ तथा दान जैसे कार्य करते समय 'तत्' शब्द का उच्चारण करते हैं।",
+    chapter: 9,
+    verse: 2,
+    shloka: "राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् |प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् || 2||",
+    translation: "9.2: This knowledge is the king of sciences and the most profound of all secrets. It purifies those who hear it. It is directly realizable, in accordance with dharma, easy to practice, and everlasting in effect.",
+    hindi_translation: "9.2: राज विद्या का यह ज्ञान सभी रहस्यों से सर्वाधिक गहन है। जो इसका श्रवण करते हैं उन्हें यह शुद्ध कर देता है और यह प्रत्यक्ष अनुभूति कराने वाला है। धर्म की मर्यादा के पालनार्थ इसका सरलता से अभ्यास किया जा सकता है और यह नित्य प्रभावी है।",
 );
 ```
 <p align="center">
