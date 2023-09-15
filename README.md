@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 2,
-    shloka: "राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् |प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् || 2||",
-    translation: "9.2: This knowledge is the king of sciences and the most profound of all secrets. It purifies those who hear it. It is directly realizable, in accordance with dharma, easy to practice, and everlasting in effect.",
-    hindi_translation: "9.2: राज विद्या का यह ज्ञान सभी रहस्यों से सर्वाधिक गहन है। जो इसका श्रवण करते हैं उन्हें यह शुद्ध कर देता है और यह प्रत्यक्ष अनुभूति कराने वाला है। धर्म की मर्यादा के पालनार्थ इसका सरलता से अभ्यास किया जा सकता है और यह नित्य प्रभावी है।",
+    chapter: 6,
+    verse: 17,
+    shloka: "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु |युक्तस्वप्नावबोधस्य योगो भवति दु:खहा || 17||",
+    translation: "6.17: But those who are temperate in eating and recreation, balanced in work, and regulated in sleep, can mitigate all sorrows by practicing Yog.",
+    hindi_translation: "6.17: लेकिन जो आहार और आमोद-प्रमोद को संयमित रखते हैं, कर्म को संतुलित रखते हैं और निद्रा पर नियंत्रण रखते हैं, वे योग का अभ्यास कर अपने दुखों को कम कर सकते हैं।",
 );
 ```
 <p align="center">
