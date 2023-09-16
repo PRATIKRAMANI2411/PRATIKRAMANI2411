@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 17,
-    shloka: "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु |युक्तस्वप्नावबोधस्य योगो भवति दु:खहा || 17||",
-    translation: "6.17: But those who are temperate in eating and recreation, balanced in work, and regulated in sleep, can mitigate all sorrows by practicing Yog.",
-    hindi_translation: "6.17: लेकिन जो आहार और आमोद-प्रमोद को संयमित रखते हैं, कर्म को संतुलित रखते हैं और निद्रा पर नियंत्रण रखते हैं, वे योग का अभ्यास कर अपने दुखों को कम कर सकते हैं।",
+    chapter: 10,
+    verse: 8,
+    shloka: "अहं सर्वस्य प्रभवो मत्त: सर्वं प्रवर्तते |इति मत्वा भजन्ते मां बुधा भावसमन्विता: || 8||",
+    translation: "10.8: I am the origin of all creation. Everything proceeds from me. The wise who know this perfectly worship me with great faith and devotion.",
+    hindi_translation: "10.8: मैं समस्त सृष्टि का उद्गम हूँ। सभी वस्तुएँ मुझसे ही उत्पन्न होती हैं। जो बुद्धिमान यह जान लेता है वह पूर्ण दृढ़ विश्वास और प्रेमा भक्ति के साथ मेरी उपासना करता है।",
 );
 ```
 <p align="center">
