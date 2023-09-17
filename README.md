@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 8,
-    shloka: "अहं सर्वस्य प्रभवो मत्त: सर्वं प्रवर्तते |इति मत्वा भजन्ते मां बुधा भावसमन्विता: || 8||",
-    translation: "10.8: I am the origin of all creation. Everything proceeds from me. The wise who know this perfectly worship me with great faith and devotion.",
-    hindi_translation: "10.8: मैं समस्त सृष्टि का उद्गम हूँ। सभी वस्तुएँ मुझसे ही उत्पन्न होती हैं। जो बुद्धिमान यह जान लेता है वह पूर्ण दृढ़ विश्वास और प्रेमा भक्ति के साथ मेरी उपासना करता है।",
+    chapter: 9,
+    verse: 29,
+    shloka: "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रिय: |ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् || 29||",
+    translation: "9.29: I am equally disposed to all living beings; I am neither inimical nor partial to anyone. But the devotees who worship Me with love reside in Me and I reside in them.",
+    hindi_translation: "9.29: मैं समभाव से सभी जीवों के साथ व्यवहार करता हूँ न तो मैं किसी के साथ द्वेष करता हूँ और न ही पक्षपात करता हूँ लेकिन जो भक्त मेरी प्रेममयी भक्ति करते हैं, मैं उनके हृदय में और वे मेरे हृदय में निवास करते हैं।",
 );
 ```
 <p align="center">
