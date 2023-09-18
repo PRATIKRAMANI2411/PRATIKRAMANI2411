@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 29,
-    shloka: "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रिय: |ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् || 29||",
-    translation: "9.29: I am equally disposed to all living beings; I am neither inimical nor partial to anyone. But the devotees who worship Me with love reside in Me and I reside in them.",
-    hindi_translation: "9.29: मैं समभाव से सभी जीवों के साथ व्यवहार करता हूँ न तो मैं किसी के साथ द्वेष करता हूँ और न ही पक्षपात करता हूँ लेकिन जो भक्त मेरी प्रेममयी भक्ति करते हैं, मैं उनके हृदय में और वे मेरे हृदय में निवास करते हैं।",
+    chapter: 10,
+    verse: 11,
+    shloka: "तेषामेवानुकम्पार्थमहमज्ञानजं तम: |नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता || 11||",
+    translation: "10.11: Out of compassion for them, I, who dwell within their hearts, destroy the darkness born of ignorance, with the luminous lamp of knowledge.",
+    hindi_translation: "10.11: उन पर करुणा करने के कारण मैं उनके हृदयों में वास करता हूँ और ज्ञान के प्रकाशमय दीपक द्वारा अंधकार जनित अज्ञान को नष्ट करता हूँ।",
 );
 ```
 <p align="center">
