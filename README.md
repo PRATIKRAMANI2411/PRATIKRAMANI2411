@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 10,
-    verse: 11,
-    shloka: "तेषामेवानुकम्पार्थमहमज्ञानजं तम: |नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता || 11||",
-    translation: "10.11: Out of compassion for them, I, who dwell within their hearts, destroy the darkness born of ignorance, with the luminous lamp of knowledge.",
-    hindi_translation: "10.11: उन पर करुणा करने के कारण मैं उनके हृदयों में वास करता हूँ और ज्ञान के प्रकाशमय दीपक द्वारा अंधकार जनित अज्ञान को नष्ट करता हूँ।",
+    verse: 40,
+    shloka: "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप |एष तूद्देशत: प्रोक्तो विभूतेर्विस्तरो मया || 40||",
+    translation: "10.40: There is no end to my divine manifestations, O conqueror of enemies. What I have declared to you is a mere sample of my infinite glories.",
+    hindi_translation: "10.40: हे शत्रु विजेता! मेरी दिव्य विभूतियों का कोई अन्त नहीं है। मैंने जो तुमसे कहा यह मेरी अनन्त महिमा का संकेत मात्र है।",
 );
 ```
 <p align="center">
