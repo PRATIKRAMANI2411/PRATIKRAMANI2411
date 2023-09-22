@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 14,
-    shloka: "सर्वत: पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् |सर्वत: श्रुतिमल्लोके सर्वमावृत्य तिष्ठति || 14||",
-    translation: "13.14: Everywhere are His hands and feet, eyes, heads, and faces. His ears too are in all places, for He pervades everything in the universe.",
-    hindi_translation: "13.14: भगवान के हाथ, पाँव, नेत्र, सिर, तथा मुख सर्वत्र हैं। उनके कान भी सभी ओर हैं क्योंकि वे ब्रह्माण्ड की प्रत्येक वस्तु में व्याप्त हैं।",
+    chapter: 4,
+    verse: 36,
+    shloka: "अपि चेदसि पापेभ्य: सर्वेभ्य: पापकृत्तम: |सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि || 36||",
+    translation: "4.36: Even those who are considered the most immoral of all sinners can cross over this ocean of material existence by seating themselves in the boat of divine knowledge.",
+    hindi_translation: "4.36: जिन्हें समस्त पापों का महापापी समझा जाता है, वे भी दिव्यज्ञान की नौका में बैठकर संसार रूपी सागर को पार करने में समर्थ हो सकते हैं।",
 );
 ```
 <p align="center">
