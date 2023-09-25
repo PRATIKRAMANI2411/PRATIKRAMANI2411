@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 16,
-    shloka: "चतुर्विधा भजन्ते मां जना: सुकृतिनोऽर्जुन |आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ || 16||",
-    translation: "7.16: O best amongst the Bharatas, four kinds of pious people engage in My devotion—the distressed, the seekers of knowledge, the seekers of worldly possessions, and those who are situated in knowledge.",
-    hindi_translation: "7.16: हे भरतश्रेष्ठ! चार प्रकार के पवित्र लोग मेरी भक्ति में लीन रहते हैं: आर्त अर्थात पीड़ित, ज्ञान की जिज्ञासा रखने वाले जिज्ञासु, संसार के स्वामित्व की अभिलाषा रखने वाले अर्थार्थी और जो परमज्ञान में स्थित ज्ञानी हैं।",
+    chapter: 10,
+    verse: 10,
+    shloka: "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् |ददामि बुद्धियोगं तं येन मामुपयान्ति ते || 10||",
+    translation: "10.10: To those whose minds are always united with me in loving devotion, I give the divine knowledge by which they can attain me.",
+    hindi_translation: "10.10: जिनका मन सदैव मेरी प्रेममयी भक्ति में एकीकृत हो जाता है, मैं उन्हें दिव्य ज्ञान प्रदान करता हूँ जिससे वह मुझे पा सकते हैं।",
 );
 ```
 <p align="center">
