@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 10,
-    shloka: "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् |ददामि बुद्धियोगं तं येन मामुपयान्ति ते || 10||",
-    translation: "10.10: To those whose minds are always united with me in loving devotion, I give the divine knowledge by which they can attain me.",
-    hindi_translation: "10.10: जिनका मन सदैव मेरी प्रेममयी भक्ति में एकीकृत हो जाता है, मैं उन्हें दिव्य ज्ञान प्रदान करता हूँ जिससे वह मुझे पा सकते हैं।",
+    chapter: 18,
+    verse: 6,
+    shloka: "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च |कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् || 6||",
+    translation: "18.6: These activities must be performed without attachment and expectation for rewards. This is my definite and supreme verdict, O Arjun.",
+    hindi_translation: "18.6: ये सब कार्य आसक्ति और फल की कामना से रहित होकर संपन्न करने चाहिए। हे अर्जुन! यह मेरा स्पष्ट और अंतिम निर्णय है।",
 );
 ```
 <p align="center">
