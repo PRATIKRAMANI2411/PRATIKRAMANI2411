@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 6,
-    shloka: "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च |कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् || 6||",
-    translation: "18.6: These activities must be performed without attachment and expectation for rewards. This is my definite and supreme verdict, O Arjun.",
-    hindi_translation: "18.6: ये सब कार्य आसक्ति और फल की कामना से रहित होकर संपन्न करने चाहिए। हे अर्जुन! यह मेरा स्पष्ट और अंतिम निर्णय है।",
+    chapter: 11,
+    verse: 17,
+    shloka: "किरीटिनं गदिनं चक्रिणं चतेजोराशिं सर्वतो दीप्तिमन्तम् |पश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्दीप्तानलार्कद्युतिमप्रमेयम् || 17||",
+    translation: "11.17: I see your form, adorned with a crown, and armed with the club and disc, shining everywhere as the abode of splendor. It is hard to look upon you in the blazing fire of your effulgence, which is radiating like the sun in all directions.",
+    hindi_translation: "11.17: विश्व रूप दर्शन योग मैं मुकुट से सुशोभित चक्र और गदा से सुसज्जित शस्त्रों के साथ सर्वत्र दीप्तिमान लोक के रूप में आपके रूप को देख रहा हूँ। इस चमचमाती अग्नि में आपके तेज को देख पाना कठिन है जो सभी दिशाओं से प्रस्फुटित होने वाले सूर्य के प्रकाश की भांति है।",
 );
 ```
 <p align="center">
