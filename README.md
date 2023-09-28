@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 17,
-    shloka: "किरीटिनं गदिनं चक्रिणं चतेजोराशिं सर्वतो दीप्तिमन्तम् |पश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्दीप्तानलार्कद्युतिमप्रमेयम् || 17||",
-    translation: "11.17: I see your form, adorned with a crown, and armed with the club and disc, shining everywhere as the abode of splendor. It is hard to look upon you in the blazing fire of your effulgence, which is radiating like the sun in all directions.",
-    hindi_translation: "11.17: विश्व रूप दर्शन योग मैं मुकुट से सुशोभित चक्र और गदा से सुसज्जित शस्त्रों के साथ सर्वत्र दीप्तिमान लोक के रूप में आपके रूप को देख रहा हूँ। इस चमचमाती अग्नि में आपके तेज को देख पाना कठिन है जो सभी दिशाओं से प्रस्फुटित होने वाले सूर्य के प्रकाश की भांति है।",
+    chapter: 5,
+    verse: 6,
+    shloka: "संन्यासस्तु महाबाहो दु:खमाप्तुमयोगत: |योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति || 6||",
+    translation: "5.6: Perfect renunciation (karm sanyās) is difficult to attain without performing work in devotion (karm yog), O mighty-armed Arjun, but the sage who is adept in karm yog quickly attains the Supreme.",
+    hindi_translation: "5.6: भक्तियुक्त होकर कर्म किए बिना पूर्णतः कर्मों का परित्याग करना कठिन है। हे महाबलशाली अर्जुन! किन्तु जो संत कर्मयोग में संलग्न रहते हैं, वे शीघ्र परम परमेश्वर को पा लेते हैं।",
 );
 ```
 <p align="center">
