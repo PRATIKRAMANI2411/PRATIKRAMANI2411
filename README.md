@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 6,
-    shloka: "संन्यासस्तु महाबाहो दु:खमाप्तुमयोगत: |योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति || 6||",
-    translation: "5.6: Perfect renunciation (karm sanyās) is difficult to attain without performing work in devotion (karm yog), O mighty-armed Arjun, but the sage who is adept in karm yog quickly attains the Supreme.",
-    hindi_translation: "5.6: भक्तियुक्त होकर कर्म किए बिना पूर्णतः कर्मों का परित्याग करना कठिन है। हे महाबलशाली अर्जुन! किन्तु जो संत कर्मयोग में संलग्न रहते हैं, वे शीघ्र परम परमेश्वर को पा लेते हैं।",
+    chapter: 11,
+    verse: 32,
+    shloka: "श्रीभगवानुवाच |कालोऽस्मि लोकक्षयकृत्प्रवृद्धोलोकान्समाहर्तुमिह प्रवृत्त: |ऋतेऽपि त्वां न भविष्यन्ति सर्वेयेऽवस्थिता: प्रत्यनीकेषु योधा: || 32||",
+    translation: "11.32: The Supreme Lord said: I am mighty Time, the source of destruction that comes forth to annihilate the worlds. Even without your participation, the warriors arrayed in the opposing army shall cease to exist.",
+    hindi_translation: "11.32: परम प्रभु ने कहा-“मैं प्रलय का मूलकारण और महाकाल हूँ जो जगत का संहार करने के लिए आता है। तुम्हारे युद्ध में भाग लेने के बिना भी युद्ध की व्यूह रचना में खड़े विरोधी पक्ष के योद्धा मारे जाएंगे।”",
 );
 ```
 <p align="center">
