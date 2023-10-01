@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 17,
-    shloka: "यस्य नाहङ् कृतो भावो बुद्धिर्यस्य न लिप्यते |हत्वाऽपि स इमाँल्लोकान्न हन्ति न निबध्यते || 17||",
-    translation: "18.17: Those who are free from the ego of being the doer, and whose intellect is unattached, though they may slay living beings, they neither kill nor are they bound by actions.",
-    hindi_translation: "18.17: जो कर्तापन के अहंकार से मुक्त होते हैं और जिनकी बुद्धि मोहग्रस्त नहीं है, यद्यपि वे जीवों को मारते हैं तथापि वे न तो जीवों को मारते हैं और न कर्मों के बंधन में पड़ते हैं।",
+    chapter: 11,
+    verse: 9,
+    shloka: "सञ्जय उवाच |एवमुक्त्वा ततो राजन्महायोगेश्वरो हरि: |दर्शयामास पार्थाय परमं रूपमैश्वरम् || 9||",
+    translation: "11.9: Sanjay said: O King, having spoken thus, the Supreme Lord of Yog, Shree Krishna, displayed his divine and opulent form to Arjun.",
+    hindi_translation: "11.9: संजय ने कहा-हे राजन! इस प्रकार से कहकर योग के स्वामी महा योगेश्वर श्रीकृष्ण ने अर्जुन को दिव्य विश्वरूप दिखाया।",
 );
 ```
 <p align="center">
