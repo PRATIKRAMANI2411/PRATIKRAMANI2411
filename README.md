@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 9,
-    shloka: "सञ्जय उवाच |एवमुक्त्वा ततो राजन्महायोगेश्वरो हरि: |दर्शयामास पार्थाय परमं रूपमैश्वरम् || 9||",
-    translation: "11.9: Sanjay said: O King, having spoken thus, the Supreme Lord of Yog, Shree Krishna, displayed his divine and opulent form to Arjun.",
-    hindi_translation: "11.9: संजय ने कहा-हे राजन! इस प्रकार से कहकर योग के स्वामी महा योगेश्वर श्रीकृष्ण ने अर्जुन को दिव्य विश्वरूप दिखाया।",
+    chapter: 6,
+    verse: 40,
+    shloka: "श्रीभगवानुवाच |पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते |न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति || 40||",
+    translation: "6.40: The Supreme Lord said: O Parth, one who engages on the spiritual path does not meet with destruction either in this world or the world to come. My dear friend, one who strives for God-realization is never overcome by evil.",
+    hindi_translation: "6.40: परमेश्वर श्रीकृष्ण ने कहाः हे पृथा पुत्र! आध्यात्मिक पथ का अनुसरण करने वाले योगी का न तो इस लोक में और न ही परलोक में विनाश होता है। मेरे प्रिय मित्र। भगवद्प्राप्ति के मार्ग पर चलने वाले को बुराई पराजित नहीं कर सकती।",
 );
 ```
 <p align="center">
