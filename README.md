@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 40,
-    shloka: "श्रीभगवानुवाच |पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते |न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति || 40||",
-    translation: "6.40: The Supreme Lord said: O Parth, one who engages on the spiritual path does not meet with destruction either in this world or the world to come. My dear friend, one who strives for God-realization is never overcome by evil.",
-    hindi_translation: "6.40: परमेश्वर श्रीकृष्ण ने कहाः हे पृथा पुत्र! आध्यात्मिक पथ का अनुसरण करने वाले योगी का न तो इस लोक में और न ही परलोक में विनाश होता है। मेरे प्रिय मित्र। भगवद्प्राप्ति के मार्ग पर चलने वाले को बुराई पराजित नहीं कर सकती।",
+    chapter: 1,
+    verse: 16-18,
+    shloka: "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिर: |नकुल: सहदेवश्च सुघोषमणिपुष्पकौ || 16||काश्यश्च परमेष्वास: शिखण्डी च महारथ: |धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजित: || 17||द्रुपदो द्रौपदेयाश्च सर्वश: पृथिवीपते |सौभद्रश्च महाबाहु: शङ्खान्दध्मु: पृथक् पृथक् || 18||",
+    translation: "1.16-18: King Yudhishthir, blew the Anantavijay, while Nakul and Sahadev blew the Sughosh and Manipushpak. The excellent archer and king of Kashi, the great warrior Shikhandi, Dhrishtadyumna, Virat, and the invincible Satyaki, Drupad, the five sons of Draupadi, and the mighty-armed Abhimanyu, son of Subhadra, all blew their respective conch shells, O Ruler of the earth.",
+    hindi_translation: "1.16-18: हे पृथ्वीपति राजन्! राजा युधिष्ठिर ने अपना अनन्त विजय नाम का शंख बजाया तथा नकुल और सहदेव ने सुघोष एवं मणिपुष्पक नामक शंख बजाये। श्रेष्ठ धनुर्धर काशीराज, महा योद्धा शिखण्डी, धृष्टद्युम्न, विराट, अजेय सात्यकि, द्रुपद, द्रौपदी के पांच पुत्रों तथा सुभद्रा के महाबलशाली पुत्र वीर अभिमन्यु आदि सबने अपने-अपने अलग-अलग शंख बजाये।",
 );
 ```
 <p align="center">
