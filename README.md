@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 24,
-    shloka: "अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च |न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते || 24||",
-    translation: "9.24: I am the enjoyer and the only Lord of all sacrifices. But those who fail to realize My divine nature must be reborn.",
-    hindi_translation: "9.24: मैं ही समस्त यज्ञों का एक मात्र भोक्ता और स्वामी हूँ लेकिन जो मेरी दिव्य प्रकृति को पहचान नहीं पाते, वे पुनर्जन्म लेते हैं।",
+    chapter: 10,
+    verse: 26,
+    shloka: "अश्वत्थ: सर्ववृक्षाणां देवर्षीणां च नारद: |गन्धर्वाणां चित्ररथ: सिद्धानां कपिलो मुनि: || 26||",
+    translation: "10.26: Amongst trees I am the peepal tree (sacred fig tree); of the celestial sages I am Narad. Amongst the gandharvas I am Chitrath, and amongst the siddhas I am the sage Kapil.",
+    hindi_translation: "10.26: वृक्षों में मैं बरगद का वृक्ष हूँ और देव ऋषियों में मैं नारद हूँ, गंधों में मैं चित्ररथ हूँ, सिद्ध पुरुषों में मैं कपिल मुनि हूँ।",
 );
 ```
 <p align="center">
