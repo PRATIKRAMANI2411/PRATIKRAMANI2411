@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 51-53,
-    shloka: "बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च |शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च || 51||विविक्तसेवी लघ्वाशी यतवाक्कायमानस: |ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रित: || 52||अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम् |विमुच्य निर्मम: शान्तो ब्रह्मभूयाय कल्पते || 53||",
-    translation: "18.51-53: One becomes fit to attain Brahman when he or she possesses a purified intellect and firmly restrains the senses, abandoning sound and other objects of the senses, casting aside attraction and aversion. Such a person relishes solitude, eats lightly, controls body, mind, and speech, is ever engaged in meditation, and practices dispassion. Free from egotism, violence, arrogance, desire, possessiveness of property, and selfishness, such a person, situated in tranquility, is fit for union with Brahman (i.e., realization of the Absolute Truth as Brahman).",
-    hindi_translation: "18.51-53: कोई भी मनुष्य ब्रह्म को पाने की पात्रता प्राप्त कर सकता है जब वह विशुद्ध बुद्धि और दृढ़ता से इन्द्रियों को संयत रखता है, शब्द और अन्य इन्द्रिय विषयों का परित्याग करता है, राग और द्वेष को अपने से अलग कर लेता है। ऐसा व्यक्ति जो एकांत वास करता है, अल्प भोजन करता है, शरीर मन और वाणी पर नियंत्रण रखता है, सदैव ध्यान में लीन रहता है, वैराग्य का अभ्यास करता है, अहंकार, अहिंसा, अभिमान, कामनाओं, संपत्ति के स्वामित्व और स्वार्थ से मुक्त रहता है और जो शांति में स्थित है वह ब्रह्म के साथ एकरस होने का अधिकारी है।",
+    chapter: 16,
+    verse: 18,
+    shloka: "अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिता: |मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयका: || 18||",
+    translation: "16.18: Blinded by egotism, strength, arrogance, desire, and anger, the demonic abuse my presence within their own body and in the bodies of others.",
+    hindi_translation: "16.18: अहंकार, शक्ति, दम्भ, कामना और क्रोध से अंधे असुर मनुष्य अपने शरीर के भीतर और अन्य लोगों के शरीरों के भीतर मेरी उपस्थिति की निंदा करते हैं।",
 );
 ```
 <p align="center">
