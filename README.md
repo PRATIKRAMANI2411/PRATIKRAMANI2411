@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 14,
-    shloka: "अनन्यचेता: सततं यो मां स्मरति नित्यश: |तस्याहं सुलभ: पार्थ नित्ययुक्तस्य योगिन: || 14||",
-    translation: "8.14: O Parth, for those yogis who always think of Me with exclusive devotion, I am easily attainable because of their constant absorption in Me.",
-    hindi_translation: "8.14: हे पार्थ! जो योगी अनन्य भक्ति भाव से सदैव मेरा चिन्तन करते हैं, उनके लिए मैं सरलता से सुलभ रहता हूँ क्योंकि वे निरन्तर मेरी भक्ति में तल्लीन रहते हैं।",
+    chapter: 3,
+    verse: 30,
+    shloka: "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: || 30||",
+    translation: "3.30: Performing all works as an offering unto me, constantly meditate on me as the Supreme. Become free from desire and selfishness, and with your mental grief departed, fight!",
+    hindi_translation: "3.30: अपने समस्त कर्मों को मुझको अर्पित करके और परमात्मा के रूप में निरन्तर मेरा ध्यान करते हुए कामना और स्वार्थ से रहित होकर अपने मानसिक दुखों को त्याग कर युद्ध करो।",
 );
 ```
 <p align="center">
