@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 30,
-    shloka: "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: || 30||",
-    translation: "3.30: Performing all works as an offering unto me, constantly meditate on me as the Supreme. Become free from desire and selfishness, and with your mental grief departed, fight!",
-    hindi_translation: "3.30: अपने समस्त कर्मों को मुझको अर्पित करके और परमात्मा के रूप में निरन्तर मेरा ध्यान करते हुए कामना और स्वार्थ से रहित होकर अपने मानसिक दुखों को त्याग कर युद्ध करो।",
+    chapter: 1,
+    verse: 2,
+    shloka: "सञ्जय उवाच ।दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ।। 2।।",
+    translation: "1.2: Sanjay said: On observing the Pandava army standing in military formation, King Duryodhan approached his teacher Dronacharya, and said the following words.",
+    hindi_translation: "1.2: संजय ने कहाः हे राजन्! पाण्डवों की सेना की व्यूहरचना का अवलोकन कर राजा दुर्योधन ने अपने गुरु द्रोणाचार्य के पास जाकर इस प्रकार के शब्द कहे।",
 );
 ```
 <p align="center">
