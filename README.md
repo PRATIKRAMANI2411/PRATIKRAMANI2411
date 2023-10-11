@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 2,
-    shloka: "सञ्जय उवाच ।दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ।। 2।।",
-    translation: "1.2: Sanjay said: On observing the Pandava army standing in military formation, King Duryodhan approached his teacher Dronacharya, and said the following words.",
-    hindi_translation: "1.2: संजय ने कहाः हे राजन्! पाण्डवों की सेना की व्यूहरचना का अवलोकन कर राजा दुर्योधन ने अपने गुरु द्रोणाचार्य के पास जाकर इस प्रकार के शब्द कहे।",
+    chapter: 4,
+    verse: 40,
+    shloka: "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति |नायं लोकोऽस्ति न परो न सुखं संशयात्मन: || 40||",
+    translation: "4.40: But persons who possess neither faith nor knowledge, and who are of a doubting nature, suffer a downfall. For the skeptical souls, there is no happiness either in this world or the next.",
+    hindi_translation: "4.40: किन्त जिन अज्ञानी लोगों में न तो श्रद्धा और न ही ज्ञान है और जो संदेहास्पद प्रकृति के होते हैं उनका पतन होता है। संदेहास्पद जीवात्मा के लिए न तो इस लोक में और न ही परलोक में कोई सुख है।",
 );
 ```
 <p align="center">
