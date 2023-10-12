@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 40,
-    shloka: "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति |नायं लोकोऽस्ति न परो न सुखं संशयात्मन: || 40||",
-    translation: "4.40: But persons who possess neither faith nor knowledge, and who are of a doubting nature, suffer a downfall. For the skeptical souls, there is no happiness either in this world or the next.",
-    hindi_translation: "4.40: किन्त जिन अज्ञानी लोगों में न तो श्रद्धा और न ही ज्ञान है और जो संदेहास्पद प्रकृति के होते हैं उनका पतन होता है। संदेहास्पद जीवात्मा के लिए न तो इस लोक में और न ही परलोक में कोई सुख है।",
+    chapter: 9,
+    verse: 11,
+    shloka: "अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् |परं भावमजानन्तो मम भूतमहेश्वरम् || 11||",
+    translation: "9.11: When I descend in My personal form deluded persons are unable to recognize Me. They do not know the divinity of My personality, as the Supreme Lord of all beings.",
+    hindi_translation: "9.11: जब मैं मनुष्य रूप में अवतार लेता हूँ तब मूर्ख लोग मुझे समस्त प्राणियों के परमात्मा के रूप में पहचानने में समर्थ नहीं होते।",
 );
 ```
 <p align="center">
