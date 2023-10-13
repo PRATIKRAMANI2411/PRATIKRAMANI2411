@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 11,
-    shloka: "अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् |परं भावमजानन्तो मम भूतमहेश्वरम् || 11||",
-    translation: "9.11: When I descend in My personal form deluded persons are unable to recognize Me. They do not know the divinity of My personality, as the Supreme Lord of all beings.",
-    hindi_translation: "9.11: जब मैं मनुष्य रूप में अवतार लेता हूँ तब मूर्ख लोग मुझे समस्त प्राणियों के परमात्मा के रूप में पहचानने में समर्थ नहीं होते।",
+    chapter: 3,
+    verse: 20-21,
+    shloka: "कर्मणैव हि संसिद्धिमास्थिता जनकादय: |लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि || 20||यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जन: |स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते || 21||",
+    translation: "3.20-21: By performing their prescribed duties, King Janak and others attained perfection. You should also perform your duties to set an example for the good of the world. Whatever actions great persons perform, common people follow. Whatever standards they set, all the world pursues.",
+    hindi_translation: "3.20-21: राजा जनक और अन्य महापुरुषों ने अपने नियत कर्मों का पालन करते हुए सिद्धि प्राप्त की थी इसलिए तुम्हें भी अपने कर्तव्यों का निर्वाहन करते हुए समाज के कल्याण के लिए अनुकरणीय उदाहरण प्रस्तुत करना चाहिए। महापुरुष जो भी कर्म करते हैं, सामान्य जन उनका पालन करते हैं, वे जो भी आदर्श स्थापित करते हैं, सारा संसार उनका अनुसरण करता है।",
 );
 ```
 <p align="center">
