@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 18,
-    shloka: "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना |करणं कर्म कर्तेति त्रिविध: कर्मसंग्रह: || 18||",
-    translation: "18.18: Knowledge, the object of knowledge, and the knower—these are the three factors that induce action. The instrument of action, the act itself, and the doer—these are the three constituents of action.",
-    hindi_translation: "18.18: ज्ञान, ज्ञान का विषय और ज्ञाता-ये कर्म को प्रेरित करने वाले तीन कारक हैं। कर्म के उपादान, स्वयं कर्म और कर्ता-ये कर्म के तीन घटक हैं।",
+    chapter: 7,
+    verse: 2,
+    shloka: "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषत: |यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते || 2||",
+    translation: "7.2: I shall now reveal unto you fully this knowledge and wisdom, knowing which nothing else remains to be known in this world.",
+    hindi_translation: "7.2: अब मैं तुम्हारे समक्ष इस ज्ञान और विज्ञान को पूर्णतः प्रकट करूँगा जिसको जान लेने पर इस संसार में तुम्हारे जानने के लिए और कुछ शेष नहीं रहेगा।",
 );
 ```
 <p align="center">
