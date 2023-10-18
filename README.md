@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 7,
-    verse: 2,
-    shloka: "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषत: |यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते || 2||",
-    translation: "7.2: I shall now reveal unto you fully this knowledge and wisdom, knowing which nothing else remains to be known in this world.",
-    hindi_translation: "7.2: अब मैं तुम्हारे समक्ष इस ज्ञान और विज्ञान को पूर्णतः प्रकट करूँगा जिसको जान लेने पर इस संसार में तुम्हारे जानने के लिए और कुछ शेष नहीं रहेगा।",
+    verse: 24,
+    shloka: "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: |परं भावमजानन्तो ममाव्ययमनुत्तमम् || 24||",
+    translation: "7.24: The less intelligent think that I, the Supreme Lord Shree Krishna, was formless earlier and have now assumed this personality. They do not understand the imperishable exalted nature of My personal form.",
+    hindi_translation: "7.24: बुद्धिहीन मनुष्य सोचते हैं कि मैं परमेश्वर पहले निराकार था और अब मैंने यह साकार व्यक्तित्त्व धारण किया है, वे मेरे इस अविनाशी और सर्वोत्तम दिव्य स्वरूप की प्रकृत्ति को नहीं जान पाते।",
 );
 ```
 <p align="center">
