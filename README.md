@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 24,
-    shloka: "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: |परं भावमजानन्तो ममाव्ययमनुत्तमम् || 24||",
-    translation: "7.24: The less intelligent think that I, the Supreme Lord Shree Krishna, was formless earlier and have now assumed this personality. They do not understand the imperishable exalted nature of My personal form.",
-    hindi_translation: "7.24: बुद्धिहीन मनुष्य सोचते हैं कि मैं परमेश्वर पहले निराकार था और अब मैंने यह साकार व्यक्तित्त्व धारण किया है, वे मेरे इस अविनाशी और सर्वोत्तम दिव्य स्वरूप की प्रकृत्ति को नहीं जान पाते।",
+    chapter: 6,
+    verse: 1,
+    shloka: "श्रीभगवानुवाच |अनाश्रित: कर्मफलं कार्यं कर्म करोति य: |स संन्यासी च योगी च न निरग्निर्न चाक्रिय: || 1||",
+    translation: "6.1: The Supreme Lord said: Those who perform prescribed duties without desiring the results of their actions are actual sanyāsīs (renunciates) and yogis, not those who have merely ceased performing sacrifices such as Agnihotra yajna or abandoned bodily activities.",
+    hindi_translation: "6.1: परम प्रभु ने कहा! वे मनुष्य जो कर्मफल की कामना से रहित होकर अपने नियत कर्मों का पालन करते हैं वे वास्तव में संन्यासी और योगी होते हैं, न कि वे जो अग्निहोत्र यज्ञ संपन्न नहीं करते अर्थात अग्नि नहीं जलाते और शारीरिक कर्म नहीं करते।",
 );
 ```
 <p align="center">
