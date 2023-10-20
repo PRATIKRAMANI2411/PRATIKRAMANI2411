@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 1,
-    shloka: "श्रीभगवानुवाच |अनाश्रित: कर्मफलं कार्यं कर्म करोति य: |स संन्यासी च योगी च न निरग्निर्न चाक्रिय: || 1||",
-    translation: "6.1: The Supreme Lord said: Those who perform prescribed duties without desiring the results of their actions are actual sanyāsīs (renunciates) and yogis, not those who have merely ceased performing sacrifices such as Agnihotra yajna or abandoned bodily activities.",
-    hindi_translation: "6.1: परम प्रभु ने कहा! वे मनुष्य जो कर्मफल की कामना से रहित होकर अपने नियत कर्मों का पालन करते हैं वे वास्तव में संन्यासी और योगी होते हैं, न कि वे जो अग्निहोत्र यज्ञ संपन्न नहीं करते अर्थात अग्नि नहीं जलाते और शारीरिक कर्म नहीं करते।",
+    chapter: 5,
+    verse: 26,
+    shloka: "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् |अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् || 26||",
+    translation: "5.26: For those sanyāsīs, who have broken out of anger and lust through constant effort, who have subdued their mind, and are self-realized, liberation from material existence is both here and hereafter.",
+    hindi_translation: "5.26: ऐसे संन्यासी भी जो सतत प्रयास से क्रोध और काम वासनाओं पर विजय पा लेते हैं एवं जो अपने मन को वश में कर आत्मलीन हो जाते हैं, वे इस जन्म में और परलोक में भी माया शक्ति के बंधनों से मुक्त हो जाते हैं।",
 );
 ```
 <p align="center">
