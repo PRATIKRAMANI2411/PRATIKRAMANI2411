@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 26,
-    shloka: "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् |अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् || 26||",
-    translation: "5.26: For those sanyāsīs, who have broken out of anger and lust through constant effort, who have subdued their mind, and are self-realized, liberation from material existence is both here and hereafter.",
-    hindi_translation: "5.26: ऐसे संन्यासी भी जो सतत प्रयास से क्रोध और काम वासनाओं पर विजय पा लेते हैं एवं जो अपने मन को वश में कर आत्मलीन हो जाते हैं, वे इस जन्म में और परलोक में भी माया शक्ति के बंधनों से मुक्त हो जाते हैं।",
+    chapter: 15,
+    verse: 1,
+    shloka: "श्रीभगवानुवाच |ऊर्ध्वमूलमध:शाखमश्वत्थं प्राहुरव्ययम् |छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् || 1||",
+    translation: "15.1: The Supreme Divine Personality said: They speak of an eternal aśhvatth tree with its roots above and branches below. Its leaves are the Vedic hymns, and one who knows the secret of this tree is the knower of the Vedas.",
+    hindi_translation: "15.1: पुरुषोतम भगवान ने कहाः ऐसा कहा गया है कि शाश्वत अश्वत्थ वृक्ष की जड़ें ऊपर की ओर तथा इसकी शाखाएँ नीचे की ओर होती हैं। इसके पत्ते वैदिक स्रोत हैं और जो इस वृक्ष के रहस्य को जान लेता है उसे वेदों का ज्ञाता कहते हैं।",
 );
 ```
 <p align="center">
