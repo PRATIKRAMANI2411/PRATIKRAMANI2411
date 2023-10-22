@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 1,
-    shloka: "श्रीभगवानुवाच |ऊर्ध्वमूलमध:शाखमश्वत्थं प्राहुरव्ययम् |छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् || 1||",
-    translation: "15.1: The Supreme Divine Personality said: They speak of an eternal aśhvatth tree with its roots above and branches below. Its leaves are the Vedic hymns, and one who knows the secret of this tree is the knower of the Vedas.",
-    hindi_translation: "15.1: पुरुषोतम भगवान ने कहाः ऐसा कहा गया है कि शाश्वत अश्वत्थ वृक्ष की जड़ें ऊपर की ओर तथा इसकी शाखाएँ नीचे की ओर होती हैं। इसके पत्ते वैदिक स्रोत हैं और जो इस वृक्ष के रहस्य को जान लेता है उसे वेदों का ज्ञाता कहते हैं।",
+    chapter: 2,
+    verse: 66,
+    shloka: "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना |न चाभावयत: शान्तिरशान्तस्य कुत: सुखम् || 66||",
+    translation: "2.66: But an undisciplined person, who has not controlled the mind and senses, can neither have a resolute intellect nor steady contemplation on God. For one who never unites the mind with God there is no peace; and how can one who lacks peace be happy?",
+    hindi_translation: "2.66: लेकिन असंयमी व्यक्ति का अपने मन और इन्द्रियों पर नियंत्रण नहीं होता, न ही उसकी बुद्धि दृढ़ होती है और न ही उसका मन भगवान के चिन्तन मे स्थिर हो सकता है जो अपने मन को भगवान में स्थिर नहीं करता, जिसके बिना शान्ति संभव नहीं और शांति के बिना कोई कैसे सुखी रह सकता है?",
 );
 ```
 <p align="center">
