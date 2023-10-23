@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 66,
-    shloka: "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना |न चाभावयत: शान्तिरशान्तस्य कुत: सुखम् || 66||",
-    translation: "2.66: But an undisciplined person, who has not controlled the mind and senses, can neither have a resolute intellect nor steady contemplation on God. For one who never unites the mind with God there is no peace; and how can one who lacks peace be happy?",
-    hindi_translation: "2.66: लेकिन असंयमी व्यक्ति का अपने मन और इन्द्रियों पर नियंत्रण नहीं होता, न ही उसकी बुद्धि दृढ़ होती है और न ही उसका मन भगवान के चिन्तन मे स्थिर हो सकता है जो अपने मन को भगवान में स्थिर नहीं करता, जिसके बिना शान्ति संभव नहीं और शांति के बिना कोई कैसे सुखी रह सकता है?",
+    chapter: 5,
+    verse: 5,
+    shloka: "यत्साङ्ख्यै: प्राप्यते स्थानं तद्योगैरपि गम्यते |एकं साङ्ख्यं च योगं च य: पश्यति स पश्यति || 5||",
+    translation: "5.5: The supreme state that is attained by means of karm sanyās is also attained by working in devotion. Hence, those who see karm sanyās and karm yog to be identical, truly see things as they are.",
+    hindi_translation: "5.5: परमेश्वर श्रीकृष्ण कहते हैं कि कर्म संन्यास के माध्यम से जो प्राप्त होता है उसे भक्ति युक्त कर्मयोग से भी प्राप्त किया जा सकता है। इस प्रकार जो कर्म संन्यास और कर्मयोग को एक समान देखते हैं वही वास्तव में सभी वस्तुओं को यथावत रूप में देखते हैं।",
 );
 ```
 <p align="center">
