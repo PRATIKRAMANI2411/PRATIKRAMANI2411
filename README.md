@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 12,
-    shloka: "काङ् क्षन्त: कर्मणां सिद्धिं यजन्त इह देवता: |क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा || 12||",
-    translation: "4.12: In this world, those desiring success in material activities worship the celestial gods, since material rewards manifest quickly.",
-    hindi_translation: "4.12: इस संसार में जो लोग सकाम कर्मों में सफलता चाहते हैं वे लोग स्वर्ग के देवताओं की पूजा करते हैं क्योंकि सकाम कर्मों का फल शीघ्र प्राप्त होता है।",
+    chapter: 18,
+    verse: 75,
+    shloka: "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् |योगं योगेश्वरात्कृष्णात्साक्षात्कथयत: स्वयम् || 75||",
+    translation: "18.75: By the grace of Veda Vyas, I have heard this supreme and most secret Yog from the Lord of Yog, Shree Krishna himself.",
+    hindi_translation: "18.75: वेदव्यास की कृपा से मैंने इस परम गुह्य योग को साक्षात योगेश्वर श्रीकृष्ण से सुना।",
 );
 ```
 <p align="center">
