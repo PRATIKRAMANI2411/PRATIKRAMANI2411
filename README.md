@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 75,
-    shloka: "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् |योगं योगेश्वरात्कृष्णात्साक्षात्कथयत: स्वयम् || 75||",
-    translation: "18.75: By the grace of Veda Vyas, I have heard this supreme and most secret Yog from the Lord of Yog, Shree Krishna himself.",
-    hindi_translation: "18.75: वेदव्यास की कृपा से मैंने इस परम गुह्य योग को साक्षात योगेश्वर श्रीकृष्ण से सुना।",
+    chapter: 7,
+    verse: 26,
+    shloka: "वेदाहं समतीतानि वर्तमानानि चार्जुन |भविष्याणि च भूतानि मां तु वेद न कश्चन || 26||",
+    translation: "7.26: O Arjun, I know of past, present, and future, and I also know all living beings; but Me no one knows.",
+    hindi_translation: "7.26: अर्जुन! मैं भूत, वर्तमान और भविष्य को जानता हूँ और मैं सभी प्राणियों को जानता हूँ लेकिन मुझे कोई नहीं जानता। भगवान सर्वज्ञ हैं।",
 );
 ```
 <p align="center">
