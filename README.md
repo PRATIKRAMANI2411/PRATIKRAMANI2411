@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 17,
-    shloka: "तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणा: |गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषा: || 17||",
-    translation: "5.17: Those whose intellect is fixed in God, who are completely absorbed in God, with firm faith in Him as the supreme goal, such persons quickly reach the state from which there is no return, their sins having been dispelled by the light of knowledge.",
-    hindi_translation: "5.17: वे जिनकी बुद्धि भगवान में स्थिर हो जाती है और जो भगवान में सच्ची श्रद्धा रखकर उन्हें परम लक्ष्य मानकर उनमें पूर्णतया तल्लीन हो जाते हैं, वे मनुष्य शीघ्र ऐसी अवस्था में पहुँच जाते हैं जहाँ से फिर कभी वापस नहीं आते और उनके सभी पाप ज्ञान के प्रकाश से मिट जाते हैं।",
+    chapter: 18,
+    verse: 18,
+    shloka: "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना |करणं कर्म कर्तेति त्रिविध: कर्मसंग्रह: || 18||",
+    translation: "18.18: Knowledge, the object of knowledge, and the knower—these are the three factors that induce action. The instrument of action, the act itself, and the doer—these are the three constituents of action.",
+    hindi_translation: "18.18: ज्ञान, ज्ञान का विषय और ज्ञाता-ये कर्म को प्रेरित करने वाले तीन कारक हैं। कर्म के उपादान, स्वयं कर्म और कर्ता-ये कर्म के तीन घटक हैं।",
 );
 ```
 <p align="center">
