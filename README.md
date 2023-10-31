@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 7,
-    shloka: "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते || 7||",
-    translation: "1.7: O best of Brahmins, hear too about the principal generals on our side, who are especially qualified to lead. These I now recount unto you.",
-    hindi_translation: "1.7: हे ब्राह्मण श्रेष्ठ! हमारे पक्ष की ओर के उन सेना नायकों के संबंध में भी सुनो, जो सेना को संचालित करने में विशेष रूप से निपुण हैं। अब मैं तुम्हारे समक्ष उनका वर्णन करता हूँ।",
+    chapter: 18,
+    verse: 8,
+    shloka: "दु:खमित्येव यत्कर्म कायक्लेशभयात्यजेत् |स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् || 8||",
+    translation: "18.8: To give up prescribed duties because they are troublesome or cause bodily discomfort is renunciation in the mode of passion. Such renunciation is never beneficial or elevating.",
+    hindi_translation: "18.8: नियत कर्त्तव्यों को कष्टप्रद और शरीर को व्यथा देने का कारण समझकर किया गया त्याग रजोगुणी कहलाता है। ऐसा त्याग कभी लाभदायक और उन्नत करने वाला नहीं होता।",
 );
 ```
 <p align="center">
