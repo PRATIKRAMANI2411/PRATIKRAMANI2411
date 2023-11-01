@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 8,
-    shloka: "दु:खमित्येव यत्कर्म कायक्लेशभयात्यजेत् |स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् || 8||",
-    translation: "18.8: To give up prescribed duties because they are troublesome or cause bodily discomfort is renunciation in the mode of passion. Such renunciation is never beneficial or elevating.",
-    hindi_translation: "18.8: नियत कर्त्तव्यों को कष्टप्रद और शरीर को व्यथा देने का कारण समझकर किया गया त्याग रजोगुणी कहलाता है। ऐसा त्याग कभी लाभदायक और उन्नत करने वाला नहीं होता।",
+    chapter: 1,
+    verse: 32-33,
+    shloka: "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च |किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा || 32||येषामर्थे काङ्क्षितं नो राज्यं भोगा: सुखानि च |त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च || 33||",
+    translation: "1.32-33: O Krishna, I do not desire victory, kingdom, or the happiness accruing to it. Of what avail will be a kingdom, pleasures, or even life itself, when the very persons for whom we covet them, are standing before us for battle?",
+    hindi_translation: "1.32-33: हे कृष्ण! मुझे विजय, राज्य और इससे प्राप्त होने वाला सुख नहीं चाहिए। ऐसा राज्य सुख या अपने जीवन से क्या लाभ प्राप्त हो सकता है क्योंकि जिन लोगों के लिए हम यह सब चाहते हैं, वे सब इस युद्धभूमि में हमारे समक्ष खड़े हैं।",
 );
 ```
 <p align="center">
