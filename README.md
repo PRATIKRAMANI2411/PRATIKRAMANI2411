@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 32-33,
-    shloka: "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च |किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा || 32||येषामर्थे काङ्क्षितं नो राज्यं भोगा: सुखानि च |त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च || 33||",
-    translation: "1.32-33: O Krishna, I do not desire victory, kingdom, or the happiness accruing to it. Of what avail will be a kingdom, pleasures, or even life itself, when the very persons for whom we covet them, are standing before us for battle?",
-    hindi_translation: "1.32-33: हे कृष्ण! मुझे विजय, राज्य और इससे प्राप्त होने वाला सुख नहीं चाहिए। ऐसा राज्य सुख या अपने जीवन से क्या लाभ प्राप्त हो सकता है क्योंकि जिन लोगों के लिए हम यह सब चाहते हैं, वे सब इस युद्धभूमि में हमारे समक्ष खड़े हैं।",
+    chapter: 3,
+    verse: 14,
+    shloka: "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भव: |यज्ञाद्भवति पर्जन्यो यज्ञ: कर्मसमुद्भव: || 14||",
+    translation: "3.14: All living beings subsist on food, and food is produced by rains. Rains come from the performance of sacrifice, and sacrifice is produced by the performance of prescribed duties.",
+    hindi_translation: "3.14: सभी लोग अन्न पर निर्भर हैं और अन्न वर्षा से उत्पन्न होता हैं, वर्षा यज्ञ का अनुष्ठान करने से होती है और यज्ञ निर्धारित कर्मों का पालन करने से सम्पन्न होता है।",
 );
 ```
 <p align="center">
