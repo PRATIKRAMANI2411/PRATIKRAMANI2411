@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 14,
-    shloka: "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भव: |यज्ञाद्भवति पर्जन्यो यज्ञ: कर्मसमुद्भव: || 14||",
-    translation: "3.14: All living beings subsist on food, and food is produced by rains. Rains come from the performance of sacrifice, and sacrifice is produced by the performance of prescribed duties.",
-    hindi_translation: "3.14: सभी लोग अन्न पर निर्भर हैं और अन्न वर्षा से उत्पन्न होता हैं, वर्षा यज्ञ का अनुष्ठान करने से होती है और यज्ञ निर्धारित कर्मों का पालन करने से सम्पन्न होता है।",
+    chapter: 7,
+    verse: 8,
+    shloka: "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययो: |प्रणव: सर्ववेदेषु शब्द: खे पौरुषं नृषु || 8||",
+    translation: "7.8: I am the taste in water, O son of Kunti, and the radiance of the sun and the moon. I am the sacred syllable Om in the Vedic mantras; I am the sound in ether, and the ability in humans.",
+    hindi_translation: "7.8: हे कुन्ती पुत्र! मैं ही जल का स्वाद हूँ, सूर्य और चन्द्रमा का प्रकाश हूँ, मैं वैदिक मंत्रों में पवित्र अक्षर ओम हूँ, मैं ही अंतरिक्ष की ध्वनि और मनुष्यों में सामर्थ्य हूँ।",
 );
 ```
 <p align="center">
