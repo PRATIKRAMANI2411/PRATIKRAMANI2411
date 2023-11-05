@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 9,
-    shloka: "अन्ये च बहव: शूरा मदर्थे त्यक्तजीविता: |नानाशस्त्रप्रहरणा: सर्वे युद्धविशारदा: || 9||",
-    translation: "1.9: Also, there are many other heroic warriors, who are prepared to lay down their lives for my sake. They are all skilled in the art of warfare, and equipped with various kinds of weapons.",
-    hindi_translation: "1.9: यहाँ हमारे पक्ष में अन्य अनेक महायोद्धा भी हैं जो मेरे लिए अपने जीवन का बलिदान करने के लिए तत्पर हैं। वे युद्ध कौशल में पूर्णतया निपुण और विविध प्रकार के शस्त्रों से सुसज्जित हैं।",
+    chapter: 15,
+    verse: 12,
+    shloka: "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् |यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् || 12||",
+    translation: "15.12: Know that I am like the brilliance of the sun that illuminates the entire solar system. The radiance of the moon and the brightness of the fire also come from Me.",
+    hindi_translation: "15.12: यह जान लो कि मैं सूर्य के तेज के समान हूँ जो पूरे ब्रह्माण्ड को प्रकाशित करता है। सूर्य का तेज और अग्नि की दीप्ति मुझसे ही उत्पन्न होती है।",
 );
 ```
 <p align="center">
