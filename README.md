@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 16-17,
-    shloka: "अहं क्रतुरहं यज्ञ: स्वधाहमहमौषधम् |मन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम् || 16||पिताहमस्य जगतो माता धाता पितामह: |वेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च || 17||",
-    translation: "9.16-17: It is I who am the Vedic ritual, I am the sacrifice, and I am the oblation offered to the ancestors. I am the medicinal herb, and I am the Vedic mantra. I am the clarified butter, I am the fire and the act of offering. Of this universe, I am the Father; I am also the Mother, the Sustainer, and the Grandsire. I am the purifier, the goal of knowledge, the sacred syllable Om. I am the Ṛig Veda, Sāma Veda, and the Yajur Veda.",
-    hindi_translation: "9.16-17: मैं ही वैदिक कर्मकाण्ड हूँ, मैं ही यज्ञ हूँ, मैं ही पितरों को दिया जाने वाला तर्पण हूँ, मैं ही औषधीय जड़ी-बूटी और वैदिक मंत्र हूँ, मैं ही घी, अग्नि और यज्ञ का कर्म हूँ। मैं ही इस ब्रह्माण्ड का पिता, माता, आश्रय और पितामह हूँ। मैं ही शुद्धिकर्ता, ज्ञान का लक्ष्य और पवित्र मंत्र ओम् हूँ, मैं ही ऋग्वेद, सामवेद और यजुर्वेद हूँ।",
+    chapter: 8,
+    verse: 20,
+    shloka: "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातन: |य: स सर्वेषु भूतेषु नश्यत्सु न विनश्यति || 20||",
+    translation: "8.20: Transcendental to this manifest and unmanifest creation, there is yet another unmanifest eternal dimension. That realm does not cease even when all others do.",
+    hindi_translation: "8.20: व्यक्त और अव्यक्त सृष्टि से परे अन्य अव्यक्त शाश्वत आयाम है। जब सब कुछ विनष्ट हो जाता है किन्तु उसकी सत्ता का विनाश नहीं होता।",
 );
 ```
 <p align="center">
