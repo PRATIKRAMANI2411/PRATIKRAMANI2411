@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 20,
-    shloka: "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातन: |य: स सर्वेषु भूतेषु नश्यत्सु न विनश्यति || 20||",
-    translation: "8.20: Transcendental to this manifest and unmanifest creation, there is yet another unmanifest eternal dimension. That realm does not cease even when all others do.",
-    hindi_translation: "8.20: व्यक्त और अव्यक्त सृष्टि से परे अन्य अव्यक्त शाश्वत आयाम है। जब सब कुछ विनष्ट हो जाता है किन्तु उसकी सत्ता का विनाश नहीं होता।",
+    chapter: 5,
+    verse: 26,
+    shloka: "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् |अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् || 26||",
+    translation: "5.26: For those sanyāsīs, who have broken out of anger and lust through constant effort, who have subdued their mind, and are self-realized, liberation from material existence is both here and hereafter.",
+    hindi_translation: "5.26: ऐसे संन्यासी भी जो सतत प्रयास से क्रोध और काम वासनाओं पर विजय पा लेते हैं एवं जो अपने मन को वश में कर आत्मलीन हो जाते हैं, वे इस जन्म में और परलोक में भी माया शक्ति के बंधनों से मुक्त हो जाते हैं।",
 );
 ```
 <p align="center">
