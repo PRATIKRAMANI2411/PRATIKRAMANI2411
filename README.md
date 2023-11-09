@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 26,
-    shloka: "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् |अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् || 26||",
-    translation: "5.26: For those sanyāsīs, who have broken out of anger and lust through constant effort, who have subdued their mind, and are self-realized, liberation from material existence is both here and hereafter.",
-    hindi_translation: "5.26: ऐसे संन्यासी भी जो सतत प्रयास से क्रोध और काम वासनाओं पर विजय पा लेते हैं एवं जो अपने मन को वश में कर आत्मलीन हो जाते हैं, वे इस जन्म में और परलोक में भी माया शक्ति के बंधनों से मुक्त हो जाते हैं।",
+    chapter: 18,
+    verse: 36,
+    shloka: "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ |अभ्यासाद्रमते यत्र दु:खान्तं च निगच्छति || 36||",
+    translation: "18.36: And now hear from me, O Arjun, of the three kinds of happiness in which the embodied soul rejoices, and can even reach the end of all suffering.",
+    hindi_translation: "18.36: हे अर्जुन! अब तुम मुझसे तीन प्रकार के सुखों के संबंध में सुनो जिनसे देहधारी आत्मा आनन्द प्राप्त करती है और सभी दुखों के अंत तक भी पहुँच सकती है।",
 );
 ```
 <p align="center">
