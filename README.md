@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 36,
-    shloka: "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ |अभ्यासाद्रमते यत्र दु:खान्तं च निगच्छति || 36||",
-    translation: "18.36: And now hear from me, O Arjun, of the three kinds of happiness in which the embodied soul rejoices, and can even reach the end of all suffering.",
-    hindi_translation: "18.36: हे अर्जुन! अब तुम मुझसे तीन प्रकार के सुखों के संबंध में सुनो जिनसे देहधारी आत्मा आनन्द प्राप्त करती है और सभी दुखों के अंत तक भी पहुँच सकती है।",
+    chapter: 4,
+    verse: 39,
+    shloka: "श्रद्धावान् लभते ज्ञानं तत्पर: संयतेन्द्रिय: |ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति || 39||",
+    translation: "4.39: Those whose faith is deep and who have practiced controlling their mind and senses attain divine knowledge. Through such transcendental knowledge, they quickly attain everlasting supreme peace.",
+    hindi_translation: "4.39: वे जिनकी श्रद्धा अगाध है और जिन्होंने अपने मन और इन्द्रियों पर नियंत्रण कर लिया है, वे दिव्य ज्ञान प्राप्त कर लेते हैं। इस दिव्य ज्ञान के द्वारा वे शीघ्र ही कभी न समाप्त होने वाली परम शांति को प्राप्त कर लेते हैं।",
 );
 ```
 <p align="center">
