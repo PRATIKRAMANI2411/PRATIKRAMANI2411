@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 39,
-    shloka: "श्रद्धावान् लभते ज्ञानं तत्पर: संयतेन्द्रिय: |ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति || 39||",
-    translation: "4.39: Those whose faith is deep and who have practiced controlling their mind and senses attain divine knowledge. Through such transcendental knowledge, they quickly attain everlasting supreme peace.",
-    hindi_translation: "4.39: वे जिनकी श्रद्धा अगाध है और जिन्होंने अपने मन और इन्द्रियों पर नियंत्रण कर लिया है, वे दिव्य ज्ञान प्राप्त कर लेते हैं। इस दिव्य ज्ञान के द्वारा वे शीघ्र ही कभी न समाप्त होने वाली परम शांति को प्राप्त कर लेते हैं।",
+    chapter: 18,
+    verse: 20,
+    shloka: "सर्वभूतेषु येनैकं भावमव्ययमीक्षते |अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् || 20||",
+    translation: "18.20: Understand that knowledge to be in the mode of goodness by which a person sees one undivided imperishable reality within all diverse living beings.",
+    hindi_translation: "18.20: जिस ज्ञान द्वारा कोई नाना प्रकार के सभी जीवों में एक अविभाजित अविनाशी सत्य को देखता है उसे सत्वगुण प्रकृति ज्ञान कहते हैं।",
 );
 ```
 <p align="center">
