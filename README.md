@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 20,
-    shloka: "सर्वभूतेषु येनैकं भावमव्ययमीक्षते |अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् || 20||",
-    translation: "18.20: Understand that knowledge to be in the mode of goodness by which a person sees one undivided imperishable reality within all diverse living beings.",
-    hindi_translation: "18.20: जिस ज्ञान द्वारा कोई नाना प्रकार के सभी जीवों में एक अविभाजित अविनाशी सत्य को देखता है उसे सत्वगुण प्रकृति ज्ञान कहते हैं।",
+    chapter: 7,
+    verse: 19,
+    shloka: "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते |वासुदेव: सर्वमिति स महात्मा सुदुर्लभ: || 19||",
+    translation: "7.19: After many births of spiritual practice, one who is endowed with knowledge surrenders unto Me, knowing Me to be all that is. Such a great soul is indeed very rare.",
+    hindi_translation: "7.19: अनेक जन्मों की आध्यात्मिक साधना के पश्चात जिसे ज्ञान प्राप्त हो जाता है, वह मुझे सबका उद्गम जानकर मेरी शरण ग्रहण करता है। ऐसी महान आत्मा वास्तव में अत्यन्त दुर्लभ होती है।",
 );
 ```
 <p align="center">
