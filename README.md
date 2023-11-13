@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 19,
-    shloka: "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते |वासुदेव: सर्वमिति स महात्मा सुदुर्लभ: || 19||",
-    translation: "7.19: After many births of spiritual practice, one who is endowed with knowledge surrenders unto Me, knowing Me to be all that is. Such a great soul is indeed very rare.",
-    hindi_translation: "7.19: अनेक जन्मों की आध्यात्मिक साधना के पश्चात जिसे ज्ञान प्राप्त हो जाता है, वह मुझे सबका उद्गम जानकर मेरी शरण ग्रहण करता है। ऐसी महान आत्मा वास्तव में अत्यन्त दुर्लभ होती है।",
+    chapter: 14,
+    verse: 10,
+    shloka: "रजस्तमश्चाभिभूय सत्त्वं भवति भारत |रज: सत्त्वं तमश्चैव तम: सत्त्वं रजस्तथा || 10||",
+    translation: "14.10: Sometimes goodness (sattva) prevails over passion (rajas) and ignorance (tamas), O scion of Bharat. Sometimes passion (rajas) dominates goodness (sattva) and ignorance (tamas), and at other times ignorance (tamas) overcomes goodness (sattva) and passion (rajas).",
+    hindi_translation: "14.10: कभी-कभी सत्वगुण, रजोगुण और तमोगुण को परास्त करता है और कभी-कभी रजोगुण सत्व गुण और तमोगुण पर हावी हो जाता है और कभी-कभी ऐसा भी होता है कि तमोगुण सत्व गुण और रजोगुण पर हावी हो जाता है।",
 );
 ```
 <p align="center">
