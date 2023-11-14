@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 14,
-    verse: 10,
-    shloka: "रजस्तमश्चाभिभूय सत्त्वं भवति भारत |रज: सत्त्वं तमश्चैव तम: सत्त्वं रजस्तथा || 10||",
-    translation: "14.10: Sometimes goodness (sattva) prevails over passion (rajas) and ignorance (tamas), O scion of Bharat. Sometimes passion (rajas) dominates goodness (sattva) and ignorance (tamas), and at other times ignorance (tamas) overcomes goodness (sattva) and passion (rajas).",
-    hindi_translation: "14.10: कभी-कभी सत्वगुण, रजोगुण और तमोगुण को परास्त करता है और कभी-कभी रजोगुण सत्व गुण और तमोगुण पर हावी हो जाता है और कभी-कभी ऐसा भी होता है कि तमोगुण सत्व गुण और रजोगुण पर हावी हो जाता है।",
+    chapter: 7,
+    verse: 22,
+    shloka: "स तया श्रद्धया युक्तस्तस्याराधनमीहते |लभते च तत: कामान्मयैव विहितान्हि तान् || 22||",
+    translation: "7.22: Endowed with faith, the devotee worships a particular celestial god and obtains the objects of desire. But in reality, I alone arrange these benefits.",
+    hindi_translation: "7.22: श्रद्धायुक्त होकर ऐसे भक्त विशेष देवता की पूजा करते हैं और अपनी वांछित वस्तुएँ प्राप्त करते हैं किन्तु वास्तव में ये सब लाभ मेरे द्वारा ही प्रदान किए जाते हैं।",
 );
 ```
 <p align="center">
