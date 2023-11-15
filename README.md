@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 22,
-    shloka: "स तया श्रद्धया युक्तस्तस्याराधनमीहते |लभते च तत: कामान्मयैव विहितान्हि तान् || 22||",
-    translation: "7.22: Endowed with faith, the devotee worships a particular celestial god and obtains the objects of desire. But in reality, I alone arrange these benefits.",
-    hindi_translation: "7.22: श्रद्धायुक्त होकर ऐसे भक्त विशेष देवता की पूजा करते हैं और अपनी वांछित वस्तुएँ प्राप्त करते हैं किन्तु वास्तव में ये सब लाभ मेरे द्वारा ही प्रदान किए जाते हैं।",
+    chapter: 18,
+    verse: 50,
+    shloka: "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे |समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा || 50||",
+    translation: "18.50: Hear from me briefly, O Arjun, and I shall explain how one, who has attained perfection (of cessation of actions), can also attain Brahman by being firmly fixed in transcendental knowledge.",
+    hindi_translation: "18.50: हे अर्जुन! अब मुझसे संक्षेप में सुनो और मैं तुम्हें समझाऊंगा कि जो सिद्धि प्राप्त कर चुका है वह भी दृढ़ता से दिव्य ज्ञान में स्थित होकर कैसे ब्रह्म को भी पा सकता है।",
 );
 ```
 <p align="center">
