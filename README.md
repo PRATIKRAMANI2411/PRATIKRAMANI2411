@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 50,
-    shloka: "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे |समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा || 50||",
-    translation: "18.50: Hear from me briefly, O Arjun, and I shall explain how one, who has attained perfection (of cessation of actions), can also attain Brahman by being firmly fixed in transcendental knowledge.",
-    hindi_translation: "18.50: हे अर्जुन! अब मुझसे संक्षेप में सुनो और मैं तुम्हें समझाऊंगा कि जो सिद्धि प्राप्त कर चुका है वह भी दृढ़ता से दिव्य ज्ञान में स्थित होकर कैसे ब्रह्म को भी पा सकता है।",
+    chapter: 2,
+    verse: 47,
+    shloka: "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि || 47 ||",
+    translation: "2.47: You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction.",
+    hindi_translation: "2.47: तुम्हें अपने निश्चित कर्मों का पालन करने का अधिकार है लेकिन तुम अपने कर्मों का फल प्राप्त करने के अधिकारी नहीं हो, तुम स्वयं को अपने कर्मों के फलों का कारण मत मानो और न ही अकर्मा रहने में आसक्ति रखो।",
 );
 ```
 <p align="center">
