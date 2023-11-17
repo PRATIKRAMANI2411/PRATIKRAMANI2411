@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 47,
-    shloka: "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि || 47 ||",
-    translation: "2.47: You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself to be the cause of the results of your activities, nor be attached to inaction.",
-    hindi_translation: "2.47: तुम्हें अपने निश्चित कर्मों का पालन करने का अधिकार है लेकिन तुम अपने कर्मों का फल प्राप्त करने के अधिकारी नहीं हो, तुम स्वयं को अपने कर्मों के फलों का कारण मत मानो और न ही अकर्मा रहने में आसक्ति रखो।",
+    chapter: 15,
+    verse: 1,
+    shloka: "श्रीभगवानुवाच |ऊर्ध्वमूलमध:शाखमश्वत्थं प्राहुरव्ययम् |छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् || 1||",
+    translation: "15.1: The Supreme Divine Personality said: They speak of an eternal aśhvatth tree with its roots above and branches below. Its leaves are the Vedic hymns, and one who knows the secret of this tree is the knower of the Vedas.",
+    hindi_translation: "15.1: पुरुषोतम भगवान ने कहाः ऐसा कहा गया है कि शाश्वत अश्वत्थ वृक्ष की जड़ें ऊपर की ओर तथा इसकी शाखाएँ नीचे की ओर होती हैं। इसके पत्ते वैदिक स्रोत हैं और जो इस वृक्ष के रहस्य को जान लेता है उसे वेदों का ज्ञाता कहते हैं।",
 );
 ```
 <p align="center">
