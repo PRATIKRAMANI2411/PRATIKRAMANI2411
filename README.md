@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
+    chapter: 13,
     verse: 1,
-    shloka: "श्रीभगवानुवाच |ऊर्ध्वमूलमध:शाखमश्वत्थं प्राहुरव्ययम् |छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् || 1||",
-    translation: "15.1: The Supreme Divine Personality said: They speak of an eternal aśhvatth tree with its roots above and branches below. Its leaves are the Vedic hymns, and one who knows the secret of this tree is the knower of the Vedas.",
-    hindi_translation: "15.1: पुरुषोतम भगवान ने कहाः ऐसा कहा गया है कि शाश्वत अश्वत्थ वृक्ष की जड़ें ऊपर की ओर तथा इसकी शाखाएँ नीचे की ओर होती हैं। इसके पत्ते वैदिक स्रोत हैं और जो इस वृक्ष के रहस्य को जान लेता है उसे वेदों का ज्ञाता कहते हैं।",
+    shloka: "अर्जुन उवाच |प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च |एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव || 1||* 1",
+    translation: "13.1: Arjun said, “O Keshav, I wish to understand what are prakṛiti and puruṣh, and what are kṣhetra and kṣhetrajña? I also wish to know what is true knowledge, and what is the goal of this knowledge?",
+    hindi_translation: "13.1: अर्जुन ने कहा-हे केशव! मैं यह जानने का इच्छुक हूँ कि प्रकृति क्या है और पुरुष क्या है तथा क्षेत्र और क्षेत्रज्ञ क्या है? मैं यह भी जानना चाहता हूँ कि सच्चा ज्ञान क्या है और इस ज्ञान का लक्ष्य क्या है?",
 );
 ```
 <p align="center">
