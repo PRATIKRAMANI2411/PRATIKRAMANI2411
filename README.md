@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 1,
-    shloka: "अर्जुन उवाच |प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च |एतद्वेदितुमिच्छामि ज्ञानं ज्ञेयं च केशव || 1||* 1",
-    translation: "13.1: Arjun said, “O Keshav, I wish to understand what are prakṛiti and puruṣh, and what are kṣhetra and kṣhetrajña? I also wish to know what is true knowledge, and what is the goal of this knowledge?",
-    hindi_translation: "13.1: अर्जुन ने कहा-हे केशव! मैं यह जानने का इच्छुक हूँ कि प्रकृति क्या है और पुरुष क्या है तथा क्षेत्र और क्षेत्रज्ञ क्या है? मैं यह भी जानना चाहता हूँ कि सच्चा ज्ञान क्या है और इस ज्ञान का लक्ष्य क्या है?",
+    chapter: 8,
+    verse: 19,
+    shloka: "भूतग्राम: स एवायं भूत्वा भूत्वा प्रलीयते |रात्र्यागमेऽवश: पार्थ प्रभवत्यहरागमे || 19||",
+    translation: "8.19: Multitudes of beings repeatedly take birth with the advent of Brahma’s day, and are reabsorbed on the arrival of the cosmic night, to manifest again automatically on the advent of the next cosmic day.",
+    hindi_translation: "8.19: ब्रह्मा के दिन के आगमन के साथ असंख्य जीव पुनः जन्म लेते हैं और ब्रह्माण्डीय रात्रि के आने पर अगले ब्रह्माण्डीय दिवस के आगमन पर स्वतः पुनः प्रकट होने के लिए विलीन हो जाते हैं।",
 );
 ```
 <p align="center">
