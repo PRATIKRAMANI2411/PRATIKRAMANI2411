@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 19,
-    shloka: "भूतग्राम: स एवायं भूत्वा भूत्वा प्रलीयते |रात्र्यागमेऽवश: पार्थ प्रभवत्यहरागमे || 19||",
-    translation: "8.19: Multitudes of beings repeatedly take birth with the advent of Brahma’s day, and are reabsorbed on the arrival of the cosmic night, to manifest again automatically on the advent of the next cosmic day.",
-    hindi_translation: "8.19: ब्रह्मा के दिन के आगमन के साथ असंख्य जीव पुनः जन्म लेते हैं और ब्रह्माण्डीय रात्रि के आने पर अगले ब्रह्माण्डीय दिवस के आगमन पर स्वतः पुनः प्रकट होने के लिए विलीन हो जाते हैं।",
+    chapter: 12,
+    verse: 10,
+    shloka: "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव |मदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि || 10||",
+    translation: "12.10: If you cannot practice remembering Me with devotion, then just try to work for Me. Thus performing devotional service to Me, you shall achieve the stage of perfection.",
+    hindi_translation: "12.10: यदि तुम भक्ति मार्ग के पालन के साथ मेरा स्मरण करने का अभ्यास नहीं कर सकते तब मेरी सेवा के लिए कर्म करने का अभ्यास करो। इस प्रकार तुम पूर्णता की अवस्था को प्राप्त कर लोगे।",
 );
 ```
 <p align="center">
