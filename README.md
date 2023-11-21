@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 12,
-    verse: 10,
-    shloka: "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव |मदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि || 10||",
-    translation: "12.10: If you cannot practice remembering Me with devotion, then just try to work for Me. Thus performing devotional service to Me, you shall achieve the stage of perfection.",
-    hindi_translation: "12.10: यदि तुम भक्ति मार्ग के पालन के साथ मेरा स्मरण करने का अभ्यास नहीं कर सकते तब मेरी सेवा के लिए कर्म करने का अभ्यास करो। इस प्रकार तुम पूर्णता की अवस्था को प्राप्त कर लोगे।",
+    chapter: 4,
+    verse: 19,
+    shloka: "यस्य सर्वे समारम्भा: कामसङ्कल्पवर्जिता: |ज्ञानाग्निदग्धकर्माणं तमाहु: पण्डितं बुधा: || 19||",
+    translation: "4.19: The enlightened sages call those persons wise, whose every action is free from the desire for material pleasures and who have burnt the reactions of work in the fire of divine knowledge.",
+    hindi_translation: "4.19: जिन मनुष्यों के समस्त कर्म सांसारिक सुखों की कामना से रहित हैं तथा जिन्होंने अपने कर्म फलों को दिव्य ज्ञान की अग्नि में भस्म कर दिया है उन्हें आत्मज्ञानी संत बुद्धिमान कहते हैं।",
 );
 ```
 <p align="center">
