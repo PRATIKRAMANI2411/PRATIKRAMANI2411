@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 19,
-    shloka: "यस्य सर्वे समारम्भा: कामसङ्कल्पवर्जिता: |ज्ञानाग्निदग्धकर्माणं तमाहु: पण्डितं बुधा: || 19||",
-    translation: "4.19: The enlightened sages call those persons wise, whose every action is free from the desire for material pleasures and who have burnt the reactions of work in the fire of divine knowledge.",
-    hindi_translation: "4.19: जिन मनुष्यों के समस्त कर्म सांसारिक सुखों की कामना से रहित हैं तथा जिन्होंने अपने कर्म फलों को दिव्य ज्ञान की अग्नि में भस्म कर दिया है उन्हें आत्मज्ञानी संत बुद्धिमान कहते हैं।",
+    chapter: 10,
+    verse: 20,
+    shloka: "अहमात्मा गुडाकेश सर्वभूताशयस्थित: |अहमादिश्च मध्यं च भूतानामन्त एव च || 20||",
+    translation: "10.20: O Arjun, I am seated in the heart of all living entities. I am the beginning, middle, and end of all beings.",
+    hindi_translation: "10.20: विभूति योग मैं सभी जीवित प्राणियों के हृदय में स्थित हूँ। मैं ही समस्त जीवों का आदि, मध्य तथा अन्त हूँ।",
 );
 ```
 <p align="center">
