@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 10-11,
-    shloka: "अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् |अनेकदिव्याभरणं दिव्यानेकोद्यतायुधम् || 10||दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् |सर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम् || 11||",
-    translation: "11.10-11: In that cosmic form, Arjun saw unlimited faces and eyes, decorated with many celestial ornaments and wielding many kinds of divine weapons. He wore many garlands on his body and was anointed with many sweet-smelling heavenly fragrances. He revealed himself as the wonderful and infinite Lord whose face is everywhere.",
-    hindi_translation: "11.10-11: अर्जुन ने भगवान के दिव्य विराट रूप में असंख्य मुख और आंखों को देखा। उनका रूप अनेक दैवीय आभूषण से अलंकृत था और कई प्रकार के दिव्य शस्त्रों को उठाए हुए था। उन्होंने उस शरीर पर अनेक मालाएँ और वस्त्र धारण किए हुए थे जिस पर कई प्रकार की दिव्य मधुर सुगन्धिया लगी थी। वह स्वयं को आश्चर्यमय और अनंत भगवान के रूप में प्रकट कर रहे थे जिनका मुख सर्वव्याप्त था।",
+    chapter: 18,
+    verse: 14,
+    shloka: "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् |विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् || 14||",
+    translation: "18.14: The body, the doer, the various senses, the many kinds of efforts, and Divine Providence—these are the five factors of action.",
+    hindi_translation: "18.14: शरीर, कर्ता, विभिन्न इन्द्रियाँ, अनेक प्रकार की चेष्टाएँ और विधि का विधान अर्थात भगवान-ये पाँच कर्म के कारक हैं।",
 );
 ```
 <p align="center">
