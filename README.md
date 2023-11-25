@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 18,
-    verse: 14,
-    shloka: "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् |विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् || 14||",
-    translation: "18.14: The body, the doer, the various senses, the many kinds of efforts, and Divine Providence—these are the five factors of action.",
-    hindi_translation: "18.14: शरीर, कर्ता, विभिन्न इन्द्रियाँ, अनेक प्रकार की चेष्टाएँ और विधि का विधान अर्थात भगवान-ये पाँच कर्म के कारक हैं।",
+    verse: 60,
+    shloka: "स्वभावजेन कौन्तेय निबद्ध: स्वेन कर्मणा |कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत् || 60||",
+    translation: "18.60: O Arjun, that action which out of delusion you do not wish to do, you will be driven to do it by your own inclination, born of your own material nature.",
+    hindi_translation: "18.60: हे अर्जुन! मोहवश जिस कर्म को तुम नहीं करना चाहते उसे तुम अपनी प्राकृतिक शक्ति से उत्पन्न प्रवृत्ति से बाध्य होकर करोगे।",
 );
 ```
 <p align="center">
