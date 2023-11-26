@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 60,
-    shloka: "स्वभावजेन कौन्तेय निबद्ध: स्वेन कर्मणा |कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत् || 60||",
-    translation: "18.60: O Arjun, that action which out of delusion you do not wish to do, you will be driven to do it by your own inclination, born of your own material nature.",
-    hindi_translation: "18.60: हे अर्जुन! मोहवश जिस कर्म को तुम नहीं करना चाहते उसे तुम अपनी प्राकृतिक शक्ति से उत्पन्न प्रवृत्ति से बाध्य होकर करोगे।",
+    chapter: 2,
+    verse: 4,
+    shloka: "अर्जुन उवाच |कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन |इषुभि: प्रतियोत्स्यामि पूजार्हावरिसूदन || 4||",
+    translation: "2.4: Arjun said: O Madhusudan, how can I shoot arrows in battle on men like Bheeshma and Dronacharya, who are worthy of my worship, O destroyer of enemies?",
+    hindi_translation: "2.4: अर्जुन ने कहा-हे मधुसूदन! हे शत्रुओं के दमनकर्ता! मैं युद्धभूमि में कैसे भीष्म और द्रोणाचार्य जैसे महापुरुषों पर बाण चला सकता हूँ जो मेरे लिए परम पूजनीय है।",
 );
 ```
 <p align="center">
