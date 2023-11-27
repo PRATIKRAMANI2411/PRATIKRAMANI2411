@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 4,
-    shloka: "अर्जुन उवाच |कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन |इषुभि: प्रतियोत्स्यामि पूजार्हावरिसूदन || 4||",
-    translation: "2.4: Arjun said: O Madhusudan, how can I shoot arrows in battle on men like Bheeshma and Dronacharya, who are worthy of my worship, O destroyer of enemies?",
-    hindi_translation: "2.4: अर्जुन ने कहा-हे मधुसूदन! हे शत्रुओं के दमनकर्ता! मैं युद्धभूमि में कैसे भीष्म और द्रोणाचार्य जैसे महापुरुषों पर बाण चला सकता हूँ जो मेरे लिए परम पूजनीय है।",
+    chapter: 7,
+    verse: 18,
+    shloka: "उदारा: सर्व एवैते ज्ञानी त्वात्मैव मे मतम् |आस्थित: स हि युक्तात्मा मामेवानुत्तमां गतिम् || 18||",
+    translation: "7.18: All those who are devoted to Me are indeed noble. But those in knowledge, who are of steadfast mind, whose intellect is merged in Me, and who have made Me alone as their supreme goal, I consider as My very self.",
+    hindi_translation: "7.18: वास्तव में वे सब जो मुझ पर समर्पित हैं, निःसंदेह महान हैं। लेकिन जो ज्ञानी हैं और स्थिर मन वाले हैं और जिन्होंने अपनी बुद्धि मुझमें विलय कर दी है और जो केवल मुझे ही परम लक्ष्य के रूप में देखते हैं, उन्हें मैं अपने समान ही मानता हूँ।",
 );
 ```
 <p align="center">
