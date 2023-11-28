@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 18,
-    shloka: "उदारा: सर्व एवैते ज्ञानी त्वात्मैव मे मतम् |आस्थित: स हि युक्तात्मा मामेवानुत्तमां गतिम् || 18||",
-    translation: "7.18: All those who are devoted to Me are indeed noble. But those in knowledge, who are of steadfast mind, whose intellect is merged in Me, and who have made Me alone as their supreme goal, I consider as My very self.",
-    hindi_translation: "7.18: वास्तव में वे सब जो मुझ पर समर्पित हैं, निःसंदेह महान हैं। लेकिन जो ज्ञानी हैं और स्थिर मन वाले हैं और जिन्होंने अपनी बुद्धि मुझमें विलय कर दी है और जो केवल मुझे ही परम लक्ष्य के रूप में देखते हैं, उन्हें मैं अपने समान ही मानता हूँ।",
+    chapter: 11,
+    verse: 1,
+    shloka: "अर्जुन उवाच |मदनुग्रहाय परमं गुह्यमध्यात्मसञ्ज्ञितम् |यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम || 1||",
+    translation: "11.1: Arjun said: Having heard the supremely confidential spiritual knowledge, which you have revealed out of compassion to me, my illusion is now dispelled.",
+    hindi_translation: "11.1: अर्जुन ने कहा! मुझ पर करुणा कर आप द्वारा प्रकट किए गए परम गुह्य आध्यात्मिक ज्ञान को सुनकर अब मेरा मोह दूर हो गया है।",
 );
 ```
 <p align="center">
