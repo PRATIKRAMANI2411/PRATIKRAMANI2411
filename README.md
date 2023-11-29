@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 1,
-    shloka: "अर्जुन उवाच |मदनुग्रहाय परमं गुह्यमध्यात्मसञ्ज्ञितम् |यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम || 1||",
-    translation: "11.1: Arjun said: Having heard the supremely confidential spiritual knowledge, which you have revealed out of compassion to me, my illusion is now dispelled.",
-    hindi_translation: "11.1: अर्जुन ने कहा! मुझ पर करुणा कर आप द्वारा प्रकट किए गए परम गुह्य आध्यात्मिक ज्ञान को सुनकर अब मेरा मोह दूर हो गया है।",
+    chapter: 2,
+    verse: 45,
+    shloka: "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन |निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् || 45||",
+    translation: "2.45: The Vedas deal with the three modes of material nature, O Arjun. Rise above the three modes to a state of pure spiritual consciousness. Freeing yourself from dualities, eternally fixed in Truth, and without concern for material gain and safety, be situated in the self.",
+    hindi_translation: "2.45: वेदों में प्रकृति के तीन गुणों का वर्णन मिलता है। हे अर्जुन! प्रकृति के इन गुणों से ऊपर उठकर विशुद्ध आध्यात्मिक चेतना मे स्थित हो जाओ। परम सत्य में स्थित होकर सभी प्रकार के द्वैतों से स्वयं को मुक्त करते हुए भौतिक लाभ-हानि और सुरक्षा की चिन्ता किए बिना आत्मलीन हो जाओ।",
 );
 ```
 <p align="center">
