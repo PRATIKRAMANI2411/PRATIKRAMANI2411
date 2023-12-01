@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 62,
-    shloka: "ध्यायतो विषयान्पुंस: सङ्गस्तेषूपजायते |सङ्गात्सञ्जायते काम: कामात्क्रोधोऽभिजायते || 62||",
-    translation: "2.62: While contemplating on the objects of the senses, one develops attachment to them. Attachment leads to desire, and from desire arises anger.",
-    hindi_translation: "2.62: इन्द्रियों के विषयों का चिंतन करते हुए मनुष्य उनमें आसक्त हो जाता है और आसक्ति कामना की ओर ले जाती है और कामना से क्रोध उत्पन्न होता है।",
+    chapter: 16,
+    verse: 7,
+    shloka: "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुरा: |न शौचं नापि चाचारो न सत्यं तेषु विद्यते || 7||",
+    translation: "16.7: Those possessing a demoniac nature do not comprehend what actions are proper and what are improper. Hence, they possess neither purity, nor good conduct, nor even truthfulness.",
+    hindi_translation: "16.7: वे जो आसुरी गुणों से युक्त होते हैं वे यह समझ नहीं पाते कि उचित और अनुचित कर्म क्या हैं। इसलिए उनमें न तो पवित्रता, न ही सदाचरण और न ही सत्यता पायी जाती है।",
 );
 ```
 <p align="center">
