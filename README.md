@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
-    verse: 7,
-    shloka: "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुरा: |न शौचं नापि चाचारो न सत्यं तेषु विद्यते || 7||",
-    translation: "16.7: Those possessing a demoniac nature do not comprehend what actions are proper and what are improper. Hence, they possess neither purity, nor good conduct, nor even truthfulness.",
-    hindi_translation: "16.7: वे जो आसुरी गुणों से युक्त होते हैं वे यह समझ नहीं पाते कि उचित और अनुचित कर्म क्या हैं। इसलिए उनमें न तो पवित्रता, न ही सदाचरण और न ही सत्यता पायी जाती है।",
+    chapter: 9,
+    verse: 33,
+    shloka: "किं पुनर्ब्राह्मणा: पुण्या भक्ता राजर्षयस्तथा |अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् || 33||",
+    translation: "9.33: What then to speak about kings and sages with meritorious deeds? Therefore, having come to this transient and joyless world, engage in devotion unto Me.",
+    hindi_translation: "9.33: फिर पुण्य कर्म करने वाले राजर्षियों और धर्मात्मा ज्ञानियों के संबंध में कहना ही क्या है। इसलिए इस अनित्य और आनन्द रहित संसार में आकर मेरी भक्ति में लीन रहो।",
 );
 ```
 <p align="center">
