@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 33,
-    shloka: "किं पुनर्ब्राह्मणा: पुण्या भक्ता राजर्षयस्तथा |अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् || 33||",
-    translation: "9.33: What then to speak about kings and sages with meritorious deeds? Therefore, having come to this transient and joyless world, engage in devotion unto Me.",
-    hindi_translation: "9.33: फिर पुण्य कर्म करने वाले राजर्षियों और धर्मात्मा ज्ञानियों के संबंध में कहना ही क्या है। इसलिए इस अनित्य और आनन्द रहित संसार में आकर मेरी भक्ति में लीन रहो।",
+    chapter: 16,
+    verse: 18,
+    shloka: "अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिता: |मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयका: || 18||",
+    translation: "16.18: Blinded by egotism, strength, arrogance, desire, and anger, the demonic abuse my presence within their own body and in the bodies of others.",
+    hindi_translation: "16.18: अहंकार, शक्ति, दम्भ, कामना और क्रोध से अंधे असुर मनुष्य अपने शरीर के भीतर और अन्य लोगों के शरीरों के भीतर मेरी उपस्थिति की निंदा करते हैं।",
 );
 ```
 <p align="center">
