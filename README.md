@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 40,
-    shloka: "श्रीभगवानुवाच |पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते |न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति || 40||",
-    translation: "6.40: The Supreme Lord said: O Parth, one who engages on the spiritual path does not meet with destruction either in this world or the world to come. My dear friend, one who strives for God-realization is never overcome by evil.",
-    hindi_translation: "6.40: परमेश्वर श्रीकृष्ण ने कहाः हे पृथा पुत्र! आध्यात्मिक पथ का अनुसरण करने वाले योगी का न तो इस लोक में और न ही परलोक में विनाश होता है। मेरे प्रिय मित्र। भगवद्प्राप्ति के मार्ग पर चलने वाले को बुराई पराजित नहीं कर सकती।",
+    chapter: 2,
+    verse: 63,
+    shloka: "क्रोधाद्भवति सम्मोह: सम्मोहात्स्मृतिविभ्रम: |स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति || 63||",
+    translation: "2.63: Anger leads to clouding of judgment, which results in bewilderment of memory. When memory is bewildered, the intellect gets destroyed; and when the intellect is destroyed, one is ruined.",
+    hindi_translation: "2.63: क्रोध निर्णय लेने की क्षमता को क्षीण करता है जिसके कारण स्मृति भ्रम हो जाता है। जब स्मृति भ्रमित हो जाती है तब बुद्धि का नाश हो जाता है और बुद्धि के नष्ट होने से मनुष्य का पतन हो जाता है।",
 );
 ```
 <p align="center">
