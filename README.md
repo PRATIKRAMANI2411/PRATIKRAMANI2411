@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 63,
-    shloka: "क्रोधाद्भवति सम्मोह: सम्मोहात्स्मृतिविभ्रम: |स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति || 63||",
-    translation: "2.63: Anger leads to clouding of judgment, which results in bewilderment of memory. When memory is bewildered, the intellect gets destroyed; and when the intellect is destroyed, one is ruined.",
-    hindi_translation: "2.63: क्रोध निर्णय लेने की क्षमता को क्षीण करता है जिसके कारण स्मृति भ्रम हो जाता है। जब स्मृति भ्रमित हो जाती है तब बुद्धि का नाश हो जाता है और बुद्धि के नष्ट होने से मनुष्य का पतन हो जाता है।",
+    chapter: 3,
+    verse: 10,
+    shloka: "सहयज्ञा: प्रजा: सृष्ट्वा पुरोवाच प्रजापति: |अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् || 10||",
+    translation: "3.10: In the beginning of creation, Brahma created humankind along with duties, and said, “Prosper in the performance of these yajñas (sacrifices), for they shall bestow upon you all you wish to achieve.”",
+    hindi_translation: "3.10: सृष्टि के आरम्भ में ब्रह्मा ने मानव जाति को उनके नियत कर्तव्यों सहित जन्म दिया और कहा “इन यज्ञों का धूम-धाम से अनुष्ठान करने पर तुम्हें सुख समृद्धि प्राप्त होगी और इनसे तुम्हें सभी वांछित वस्तुएँ प्राप्त होंगी।”",
 );
 ```
 <p align="center">
