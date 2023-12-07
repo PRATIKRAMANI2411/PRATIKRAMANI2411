@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 10,
-    shloka: "सहयज्ञा: प्रजा: सृष्ट्वा पुरोवाच प्रजापति: |अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् || 10||",
-    translation: "3.10: In the beginning of creation, Brahma created humankind along with duties, and said, “Prosper in the performance of these yajñas (sacrifices), for they shall bestow upon you all you wish to achieve.”",
-    hindi_translation: "3.10: सृष्टि के आरम्भ में ब्रह्मा ने मानव जाति को उनके नियत कर्तव्यों सहित जन्म दिया और कहा “इन यज्ञों का धूम-धाम से अनुष्ठान करने पर तुम्हें सुख समृद्धि प्राप्त होगी और इनसे तुम्हें सभी वांछित वस्तुएँ प्राप्त होंगी।”",
+    chapter: 2,
+    verse: 34,
+    shloka: "अकीर्तिं चापि भूतानिकथयिष्यन्ति तेऽव्ययाम् |सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते || 34||",
+    translation: "2.34: People will speak of you as a coward and a deserter. For a respectable person, infamy is worse than death.",
+    hindi_translation: "2.34: लोग तुम्हें कायर और भगोड़ा कहेंगे। एक सम्माननीय व्यक्ति के लिए अपयश मृत्यु से बढ़कर है।",
 );
 ```
 <p align="center">
