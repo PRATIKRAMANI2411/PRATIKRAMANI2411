@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 34,
-    shloka: "अकीर्तिं चापि भूतानिकथयिष्यन्ति तेऽव्ययाम् |सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते || 34||",
-    translation: "2.34: People will speak of you as a coward and a deserter. For a respectable person, infamy is worse than death.",
-    hindi_translation: "2.34: लोग तुम्हें कायर और भगोड़ा कहेंगे। एक सम्माननीय व्यक्ति के लिए अपयश मृत्यु से बढ़कर है।",
+    chapter: 3,
+    verse: 22,
+    shloka: "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि || 22||",
+    translation: "3.22: There is no duty for me to do in all the three worlds, O Parth, nor do I have anything to gain or attain. Yet, I am engaged in prescribed duties.",
+    hindi_translation: "3.22: हे पार्थ! समस्त तीनों लोकों में मेरे लिए कोई कर्म निश्चित नहीं है, न ही मुझे किसी पदार्थ का अभाव है और न ही मुझमें कुछ पाने की अपेक्षा है फिर भी मैं निश्चित कर्म करता हूँ।",
 );
 ```
 <p align="center">
