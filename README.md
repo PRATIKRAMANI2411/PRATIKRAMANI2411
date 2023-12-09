@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 22,
-    shloka: "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि || 22||",
-    translation: "3.22: There is no duty for me to do in all the three worlds, O Parth, nor do I have anything to gain or attain. Yet, I am engaged in prescribed duties.",
-    hindi_translation: "3.22: हे पार्थ! समस्त तीनों लोकों में मेरे लिए कोई कर्म निश्चित नहीं है, न ही मुझे किसी पदार्थ का अभाव है और न ही मुझमें कुछ पाने की अपेक्षा है फिर भी मैं निश्चित कर्म करता हूँ।",
+    chapter: 8,
+    verse: 3,
+    shloka: "श्रीभगवानुवाच |अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते |भूतभावोद्भवकरो विसर्ग: कर्मसञ्ज्ञित: || 3||",
+    translation: "8.3: The Lord said: The Supreme Indestructible Entity is called Brahman; one’s own self is called adhyatma. Actions pertaining to the material personality of living beings, and its development are called karma, or fruitive activities.",
+    hindi_translation: "8.3: परम कृपालु भगवान ने कहाः परम अविनाशी सत्ता को ब्रह्म कहा जाता है। किसी मनुष्य की अपनी आत्मा को अध्यात्म कहा जाता है। प्राणियों के दैहिक व्यक्तित्व से संबंधित कर्मों और उनकी विकास प्रक्रिया को कर्म या साकाम कर्म कहा जाता है।",
 );
 ```
 <p align="center">
