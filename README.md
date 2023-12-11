@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 15,
-    shloka: "युञ्जन्नेवं सदात्मानं योगी नियतमानस: |शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति || 15||",
-    translation: "6.15: Thus, constantly keeping the mind absorbed in me, the yogi of disciplined mind attains nirvāṇ, and abides in me in supreme peace.",
-    hindi_translation: "6.15: इस प्रकार मन को संयमित रखने वाला योगी मन को निरन्तर मुझमें तल्लीन कर निर्वाण प्राप्त करता है और मुझे में स्थित होकर परम शांति पाता है।",
+    chapter: 5,
+    verse: 27-28,
+    shloka: "स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवो: |प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ || 27||यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायण: |विगतेच्छाभयक्रोधो य: सदा मुक्त एव स: || 28||",
+    translation: "5.27-28: Shutting out all thoughts of external enjoyment, with the gaze fixed on the space between the eye-brows, equalizing the flow of the incoming and outgoing breath in the nostrils, and thus controlling the senses, mind, and intellect, the sage who becomes free from desire and fear, always lives in freedom.",
+    hindi_translation: "5.27-28: समस्त बाह्य इन्द्रियाँ सुख के विषयों का विचार न कर अपनी दृष्टि को भौहों के बीच के स्थान में स्थित कर नासिका में विचरने वाली भीतरी और बाहरी श्वासों के प्रवाह को सम करते हुए इन्द्रिय, मन और बुद्धि को संयमित करके जो ज्ञानी कामनाओं और भय से मुक्त हो जाता है, वह सदा के लिए मुक्त हो जाता है।",
 );
 ```
 <p align="center">
