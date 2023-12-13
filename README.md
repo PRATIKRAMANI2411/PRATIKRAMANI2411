@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 33,
-    shloka: "सदृशं चेष्टते स्वस्या: प्रकृतेर्ज्ञानवानपि |प्रकृतिं यान्ति भूतानि निग्रह: किं करिष्यति || 33||",
-    translation: "3.33: Even wise people act according to their natures, for all living beings are propelled by their natural tendencies. What will one gain by repression?",
-    hindi_translation: "3.33: बुद्धिमान लोग भी अपनी प्रकृति के अनुसार कार्य करते हैं क्योंकि सभी जीव अपनी स्वाभाविक प्रवृत्ति से प्रेरित होते हैं, किसी को दमन से क्या प्राप्त हो सकता है।",
+    chapter: 11,
+    verse: 52-53,
+    shloka: "श्रीभगवानुवाच |सुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम |देवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिण: || 52||नाहं वेदैर्न तपसा न दानेन न चेज्यया |शक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा || 53||",
+    translation: "11.52-53: The Supreme Lord said: This form of mine that you are seeing is exceedingly difficult to behold. Even the celestial gods are eager to see it. Neither by the study of the Vedas, nor by penance, charity, or fire sacrifices, can I be seen as you have seen me.",
+    hindi_translation: "11.52-53: परम प्रभु ने कहा-मेरे जिस रूप का तुम अवलोकन कर रहे हो उसे देख पाना अति दुष्कर है। यहाँ तक कि स्वर्ग के देवताओं को भी इसका दर्शन करने की उत्कंठा होती है। मेरे इस रूप को न तो वेदों के अध्ययन, न ही तपस्या, दान और यज्ञों जैसे साधनों द्वारा देखा जा सकता है जैसाकि तुमने देखा है।",
 );
 ```
 <p align="center">
