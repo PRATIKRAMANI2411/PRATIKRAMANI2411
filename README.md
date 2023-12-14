@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 11,
-    verse: 52-53,
-    shloka: "श्रीभगवानुवाच |सुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम |देवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिण: || 52||नाहं वेदैर्न तपसा न दानेन न चेज्यया |शक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा || 53||",
-    translation: "11.52-53: The Supreme Lord said: This form of mine that you are seeing is exceedingly difficult to behold. Even the celestial gods are eager to see it. Neither by the study of the Vedas, nor by penance, charity, or fire sacrifices, can I be seen as you have seen me.",
-    hindi_translation: "11.52-53: परम प्रभु ने कहा-मेरे जिस रूप का तुम अवलोकन कर रहे हो उसे देख पाना अति दुष्कर है। यहाँ तक कि स्वर्ग के देवताओं को भी इसका दर्शन करने की उत्कंठा होती है। मेरे इस रूप को न तो वेदों के अध्ययन, न ही तपस्या, दान और यज्ञों जैसे साधनों द्वारा देखा जा सकता है जैसाकि तुमने देखा है।",
+    verse: 55,
+    shloka: "मत्कर्मकृन्मत्परमो मद्भक्त: सङ्गवर्जित: |निर्वैर: सर्वभूतेषु य: स मामेति पाण्डव || 55||",
+    translation: "11.55: Those who perform all their duties for my sake, who depend upon me and are devoted to me, who are free from attachment, and are without malice toward all beings, such devotees certainly come to me.",
+    hindi_translation: "11.55: वे जो मेरे प्रति अपने कर्तव्यों का पालन करते हैं, जो मुझ पर ही भरोसा करते हैं, आसक्ति रहित रहते हैं और किसी भी प्राणी से द्वेष नहीं रखते। ऐसे भक्त निश्चित रूप से मुझे प्राप्त करते हैं।",
 );
 ```
 <p align="center">
