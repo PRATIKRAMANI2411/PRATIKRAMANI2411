@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 55,
-    shloka: "मत्कर्मकृन्मत्परमो मद्भक्त: सङ्गवर्जित: |निर्वैर: सर्वभूतेषु य: स मामेति पाण्डव || 55||",
-    translation: "11.55: Those who perform all their duties for my sake, who depend upon me and are devoted to me, who are free from attachment, and are without malice toward all beings, such devotees certainly come to me.",
-    hindi_translation: "11.55: वे जो मेरे प्रति अपने कर्तव्यों का पालन करते हैं, जो मुझ पर ही भरोसा करते हैं, आसक्ति रहित रहते हैं और किसी भी प्राणी से द्वेष नहीं रखते। ऐसे भक्त निश्चित रूप से मुझे प्राप्त करते हैं।",
+    chapter: 2,
+    verse: 15,
+    shloka: "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ |समदु:खसुखं धीरं सोऽमृतत्वाय कल्पते || 15||",
+    translation: "2.15: O Arjun, noblest amongst men, that person who is not affected by happiness and distress, and remains steady in both, becomes eligible for liberation.",
+    hindi_translation: "2.15: हे पुरुषो में श्रेष्ठ अर्जुन! जो मनुष्य सुख तथा दुख में विचलित नहीं होता और इन दोनों परिस्थितियों में स्थिर रहता है, वह वास्तव मे मुक्ति का पात्र है।",
 );
 ```
 <p align="center">
