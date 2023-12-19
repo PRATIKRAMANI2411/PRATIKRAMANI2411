@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 5,
-    verse: 8-9,
-    shloka: "नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् |पश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन् || 8||प्रलपन्विसृजन्गृह्ण्न्नुन्मिषन्निमिषन्नपि |इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् || 9||",
-    translation: "5.8-9: Those steadfast in karm yog, always think, “I am not the doer,” even while engaged in seeing, hearing, touching, smelling, moving, sleeping, breathing, speaking, excreting, grasping, and opening or closing the eyes. With the light of divine knowledge, they see that it is only the material senses that are moving amongst their objects.",
-    hindi_translation: "5.8-9: कर्मयोग में दृढ़ निश्चय रखने वाले सदैव देखते, सुनते, स्पर्श करते, सूंघते, चलते-फिरते, सोते हुए, श्वास लेते हुए, बोलते हुए, त्यागते हुए, ग्रहण करते हुए और आंखें खोलते या बंद करते हुए सदैव यह सोचते हैं- 'मैं कर्ता नहीं हूँ' और दिव्य ज्ञान के आलोक में वे यह देखते हैं कि भौतिक इन्द्रियाँ ही केवल अपने विषयों में क्रियाशील रहती हैं।",
+    verse: 19,
+    shloka: "इहैव तैर्जित: सर्गो येषां साम्ये स्थितं मन: |निर्दोषं हि समं ब्रह्म तस्माद् ब्रह्मणि ते स्थिता: || 19||",
+    translation: "5.19: Those whose minds are established in equality of vision conquer the cycle of birth and death in this very life. They possess the flawless qualities of God, and are therefore seated in the Absolute Truth.",
+    hindi_translation: "5.19: वे जिनका मन समदृष्टि में स्थित हो जाता है, वे इसी जीवन में जन्म और मरण के चक्र से मुक्ति पा लेते हैं। वे भगवान के समान दोष रहित गुणों से संपन्न हो जाते हैं और परमसत्य में स्थित हो जाते हैं।",
 );
 ```
 <p align="center">
