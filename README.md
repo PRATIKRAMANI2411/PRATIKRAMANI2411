@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 19,
-    shloka: "इहैव तैर्जित: सर्गो येषां साम्ये स्थितं मन: |निर्दोषं हि समं ब्रह्म तस्माद् ब्रह्मणि ते स्थिता: || 19||",
-    translation: "5.19: Those whose minds are established in equality of vision conquer the cycle of birth and death in this very life. They possess the flawless qualities of God, and are therefore seated in the Absolute Truth.",
-    hindi_translation: "5.19: वे जिनका मन समदृष्टि में स्थित हो जाता है, वे इसी जीवन में जन्म और मरण के चक्र से मुक्ति पा लेते हैं। वे भगवान के समान दोष रहित गुणों से संपन्न हो जाते हैं और परमसत्य में स्थित हो जाते हैं।",
+    chapter: 13,
+    verse: 13,
+    shloka: "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्रुते |अनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते || 13||",
+    translation: "13.13: I shall now reveal to you that which ought to be known, and by knowing which, one attains immortality. It is the beginningless Brahman, which lies beyond existence and non-existence.",
+    hindi_translation: "13.13: अब मैं तुम्हें वह बताऊंगा कि जो जानने योग्य है और जिसे जान लेने के पश्चात कोई अमरत्व प्राप्त कर लेता है। यह अनादि ब्रह्म है जो अस्तित्त्व और अस्तित्त्वहीन से परे है।",
 );
 ```
 <p align="center">
