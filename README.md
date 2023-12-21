@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 13,
-    shloka: "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्रुते |अनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते || 13||",
-    translation: "13.13: I shall now reveal to you that which ought to be known, and by knowing which, one attains immortality. It is the beginningless Brahman, which lies beyond existence and non-existence.",
-    hindi_translation: "13.13: अब मैं तुम्हें वह बताऊंगा कि जो जानने योग्य है और जिसे जान लेने के पश्चात कोई अमरत्व प्राप्त कर लेता है। यह अनादि ब्रह्म है जो अस्तित्त्व और अस्तित्त्वहीन से परे है।",
+    chapter: 7,
+    verse: 24,
+    shloka: "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: |परं भावमजानन्तो ममाव्ययमनुत्तमम् || 24||",
+    translation: "7.24: The less intelligent think that I, the Supreme Lord Shree Krishna, was formless earlier and have now assumed this personality. They do not understand the imperishable exalted nature of My personal form.",
+    hindi_translation: "7.24: बुद्धिहीन मनुष्य सोचते हैं कि मैं परमेश्वर पहले निराकार था और अब मैंने यह साकार व्यक्तित्त्व धारण किया है, वे मेरे इस अविनाशी और सर्वोत्तम दिव्य स्वरूप की प्रकृत्ति को नहीं जान पाते।",
 );
 ```
 <p align="center">
