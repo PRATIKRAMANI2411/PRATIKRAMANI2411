@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 24,
-    shloka: "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: |परं भावमजानन्तो ममाव्ययमनुत्तमम् || 24||",
-    translation: "7.24: The less intelligent think that I, the Supreme Lord Shree Krishna, was formless earlier and have now assumed this personality. They do not understand the imperishable exalted nature of My personal form.",
-    hindi_translation: "7.24: बुद्धिहीन मनुष्य सोचते हैं कि मैं परमेश्वर पहले निराकार था और अब मैंने यह साकार व्यक्तित्त्व धारण किया है, वे मेरे इस अविनाशी और सर्वोत्तम दिव्य स्वरूप की प्रकृत्ति को नहीं जान पाते।",
+    chapter: 10,
+    verse: 19,
+    shloka: "श्रीभगवानुवाच |हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतय: |प्राधान्यत: कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||19||",
+    translation: "10.19: The Lord spoke: I shall now briefly describe my divine glories to you, O best of the Kurus, for there is no end to their detail.",
+    hindi_translation: "10.19: आनन्दमय भगवान ने कहा! अब मैं तुम्हें अपनी दिव्य महिमा का संक्षिप्त वर्णन करूँगा। हे श्रेष्ठ कुरुवंशी! इस वर्णन का कहीं भी कोई अंत नहीं है।",
 );
 ```
 <p align="center">
