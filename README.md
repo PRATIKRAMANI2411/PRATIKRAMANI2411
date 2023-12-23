@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 19,
-    shloka: "श्रीभगवानुवाच |हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतय: |प्राधान्यत: कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||19||",
-    translation: "10.19: The Lord spoke: I shall now briefly describe my divine glories to you, O best of the Kurus, for there is no end to their detail.",
-    hindi_translation: "10.19: आनन्दमय भगवान ने कहा! अब मैं तुम्हें अपनी दिव्य महिमा का संक्षिप्त वर्णन करूँगा। हे श्रेष्ठ कुरुवंशी! इस वर्णन का कहीं भी कोई अंत नहीं है।",
+    chapter: 8,
+    verse: 6,
+    shloka: "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् |तं तमेवैति कौन्तेय सदा तद्भावभावित: || 6||",
+    translation: "8.6: Whatever one remembers upon giving up the body at the time of death, O son of Kunti, one attains that state, being always absorbed in such contemplation.",
+    hindi_translation: "8.6: हे कुन्ती पुत्र! मृत्यु के समय शरीर छोड़ते हुए मनुष्य जिसका स्मरण करता है वह उसी गति को प्राप्त होता है क्योंकि वह सदैव ऐसे चिन्तन में लीन रहता है।",
 );
 ```
 <p align="center">
