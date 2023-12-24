@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 6,
-    shloka: "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् |तं तमेवैति कौन्तेय सदा तद्भावभावित: || 6||",
-    translation: "8.6: Whatever one remembers upon giving up the body at the time of death, O son of Kunti, one attains that state, being always absorbed in such contemplation.",
-    hindi_translation: "8.6: हे कुन्ती पुत्र! मृत्यु के समय शरीर छोड़ते हुए मनुष्य जिसका स्मरण करता है वह उसी गति को प्राप्त होता है क्योंकि वह सदैव ऐसे चिन्तन में लीन रहता है।",
+    chapter: 11,
+    verse: 9,
+    shloka: "सञ्जय उवाच |एवमुक्त्वा ततो राजन्महायोगेश्वरो हरि: |दर्शयामास पार्थाय परमं रूपमैश्वरम् || 9||",
+    translation: "11.9: Sanjay said: O King, having spoken thus, the Supreme Lord of Yog, Shree Krishna, displayed his divine and opulent form to Arjun.",
+    hindi_translation: "11.9: संजय ने कहा-हे राजन! इस प्रकार से कहकर योग के स्वामी महा योगेश्वर श्रीकृष्ण ने अर्जुन को दिव्य विश्वरूप दिखाया।",
 );
 ```
 <p align="center">
