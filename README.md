@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 9,
-    shloka: "सञ्जय उवाच |एवमुक्त्वा ततो राजन्महायोगेश्वरो हरि: |दर्शयामास पार्थाय परमं रूपमैश्वरम् || 9||",
-    translation: "11.9: Sanjay said: O King, having spoken thus, the Supreme Lord of Yog, Shree Krishna, displayed his divine and opulent form to Arjun.",
-    hindi_translation: "11.9: संजय ने कहा-हे राजन! इस प्रकार से कहकर योग के स्वामी महा योगेश्वर श्रीकृष्ण ने अर्जुन को दिव्य विश्वरूप दिखाया।",
+    chapter: 2,
+    verse: 72,
+    shloka: "एषा ब्राह्मी स्थिति: पार्थ नैनां प्राप्य विमुह्यति |स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति || 72||",
+    translation: "2.72: O Parth, such is the state of an enlightened soul that having attained it, one is never again deluded. Being established in this consciousness even at the hour of death, one is liberated from the cycle of life and death and reaches the Supreme Abode of God.",
+    hindi_translation: "2.72: हे पार्थ! ऐसी अवस्था में रहने वाली प्रबुद्ध आत्मा जब ब्रह्मज्ञान प्राप्त कर लेती है, वह फिर कभी भ्रमित नहीं होती तब मृत्यु के समय भी इस दिव्य चेतना में स्थित सिद्ध पुरुष जन्म और मृत्यु के बंधन से मुक्त हो जाता है और भगवान के परम धाम में प्रवेश करता है।",
 );
 ```
 <p align="center">
