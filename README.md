@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 72,
-    shloka: "एषा ब्राह्मी स्थिति: पार्थ नैनां प्राप्य विमुह्यति |स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति || 72||",
-    translation: "2.72: O Parth, such is the state of an enlightened soul that having attained it, one is never again deluded. Being established in this consciousness even at the hour of death, one is liberated from the cycle of life and death and reaches the Supreme Abode of God.",
-    hindi_translation: "2.72: हे पार्थ! ऐसी अवस्था में रहने वाली प्रबुद्ध आत्मा जब ब्रह्मज्ञान प्राप्त कर लेती है, वह फिर कभी भ्रमित नहीं होती तब मृत्यु के समय भी इस दिव्य चेतना में स्थित सिद्ध पुरुष जन्म और मृत्यु के बंधन से मुक्त हो जाता है और भगवान के परम धाम में प्रवेश करता है।",
+    chapter: 5,
+    verse: 27-28,
+    shloka: "स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवो: |प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ || 27||यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायण: |विगतेच्छाभयक्रोधो य: सदा मुक्त एव स: || 28||",
+    translation: "5.27-28: Shutting out all thoughts of external enjoyment, with the gaze fixed on the space between the eye-brows, equalizing the flow of the incoming and outgoing breath in the nostrils, and thus controlling the senses, mind, and intellect, the sage who becomes free from desire and fear, always lives in freedom.",
+    hindi_translation: "5.27-28: समस्त बाह्य इन्द्रियाँ सुख के विषयों का विचार न कर अपनी दृष्टि को भौहों के बीच के स्थान में स्थित कर नासिका में विचरने वाली भीतरी और बाहरी श्वासों के प्रवाह को सम करते हुए इन्द्रिय, मन और बुद्धि को संयमित करके जो ज्ञानी कामनाओं और भय से मुक्त हो जाता है, वह सदा के लिए मुक्त हो जाता है।",
 );
 ```
 <p align="center">
