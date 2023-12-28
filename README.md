@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 22,
-    shloka: "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि || 22||",
-    translation: "3.22: There is no duty for me to do in all the three worlds, O Parth, nor do I have anything to gain or attain. Yet, I am engaged in prescribed duties.",
-    hindi_translation: "3.22: हे पार्थ! समस्त तीनों लोकों में मेरे लिए कोई कर्म निश्चित नहीं है, न ही मुझे किसी पदार्थ का अभाव है और न ही मुझमें कुछ पाने की अपेक्षा है फिर भी मैं निश्चित कर्म करता हूँ।",
+    chapter: 2,
+    verse: 48,
+    shloka: "योगस्थ: कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |सिद्ध्यसिद्ध्यो: समो भूत्वा समत्वं योग उच्यते || 48||",
+    translation: "2.48: Be steadfast in the performance of your duty, O Arjun, abandoning attachment to success and failure. Such equanimity is called Yog.",
+    hindi_translation: "2.48: हे अर्जुन! सफलता और असफलता की आसक्ति को त्याग कर तुम दृढ़ता से अपने कर्तव्य का पालन करो। यही समभाव योग कहलाता है।",
 );
 ```
 <p align="center">
