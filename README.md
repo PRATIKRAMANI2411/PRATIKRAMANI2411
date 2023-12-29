@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 48,
-    shloka: "योगस्थ: कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |सिद्ध्यसिद्ध्यो: समो भूत्वा समत्वं योग उच्यते || 48||",
-    translation: "2.48: Be steadfast in the performance of your duty, O Arjun, abandoning attachment to success and failure. Such equanimity is called Yog.",
-    hindi_translation: "2.48: हे अर्जुन! सफलता और असफलता की आसक्ति को त्याग कर तुम दृढ़ता से अपने कर्तव्य का पालन करो। यही समभाव योग कहलाता है।",
+    chapter: 18,
+    verse: 62,
+    shloka: "तमेव शरणं गच्छ सर्वभावेन भारत |तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् || 62||",
+    translation: "18.62: Surrender exclusively unto him with your whole being, O Bharat. By his grace, you will attain perfect peace and the eternal abode.",
+    hindi_translation: "18.62: हे भारत! अपने पूर्ण अस्तित्त्व के साथ पूर्ण रूप से केवल उसकी शरण ग्रहण करो। उसकी कृपा से तुम पूर्ण शांति और उसके नित्यधाम को प्राप्त करोगे।",
 );
 ```
 <p align="center">
