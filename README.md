@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 62,
-    shloka: "तमेव शरणं गच्छ सर्वभावेन भारत |तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् || 62||",
-    translation: "18.62: Surrender exclusively unto him with your whole being, O Bharat. By his grace, you will attain perfect peace and the eternal abode.",
-    hindi_translation: "18.62: हे भारत! अपने पूर्ण अस्तित्त्व के साथ पूर्ण रूप से केवल उसकी शरण ग्रहण करो। उसकी कृपा से तुम पूर्ण शांति और उसके नित्यधाम को प्राप्त करोगे।",
+    chapter: 17,
+    verse: 13,
+    shloka: "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् |श्रद्धाविरहितं यज्ञं तामसं परिचक्षते || 13||",
+    translation: "17.13: Sacrifice devoid of faith and contrary to the injunctions of the scriptures, in which no food is offered, no mantras chanted, and no donation made, is to be considered in the mode of ignorance.",
+    hindi_translation: "17.13: श्रद्धा विहीन होकर तथा धर्मग्रन्थों की आज्ञाओं के विपरीत किया गया यज्ञ जिसमें भोजन अर्पित न किया गया हो, मंत्रोच्चारण न किए गए हों तथा दान न दिया गया हो, ऐसे यज्ञ की प्रकृति तमोगुणी होती है।",
 );
 ```
 <p align="center">
