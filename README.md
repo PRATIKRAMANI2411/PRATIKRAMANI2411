@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 13,
-    shloka: "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् |श्रद्धाविरहितं यज्ञं तामसं परिचक्षते || 13||",
-    translation: "17.13: Sacrifice devoid of faith and contrary to the injunctions of the scriptures, in which no food is offered, no mantras chanted, and no donation made, is to be considered in the mode of ignorance.",
-    hindi_translation: "17.13: श्रद्धा विहीन होकर तथा धर्मग्रन्थों की आज्ञाओं के विपरीत किया गया यज्ञ जिसमें भोजन अर्पित न किया गया हो, मंत्रोच्चारण न किए गए हों तथा दान न दिया गया हो, ऐसे यज्ञ की प्रकृति तमोगुणी होती है।",
+    chapter: 15,
+    verse: 5,
+    shloka: "निर्मानमोहा जितसङ्गदोषाअध्यात्मनित्या विनिवृत्तकामा: |द्वन्द्वैर्विमुक्ता: सुखदु:खसंज्ञैर्गच्छन्त्यमूढा: पदमव्ययं तत् || 5||",
+    translation: "15.5: Those who are free from vanity and delusion, who have overcome the evil of attachment, who dwell constantly in the self and God, who are freed from the desire to enjoy the senses, and are beyond the dualities of pleasure and pain, such liberated personalities attain My eternal Abode.",
+    hindi_translation: "15.5: वे जो अभिमान और मोह से मुक्त रहते हैं एवं जिन्होंने आसक्ति की बुराई पर विजय पा ली है, जो निरन्तर अपनी आत्मा और भगवान में लीन रहते हैं, जो इन्द्रिय भोग की कामना से मुक्त रहते हैं और सुख-दुख के द्वन्द्वों से परे हैं, ऐसे मुक्त जीव मेरा नित्य ध मि प्राप्त करते हैं।",
 );
 ```
 <p align="center">
