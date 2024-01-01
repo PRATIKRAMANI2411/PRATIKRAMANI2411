@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 5,
-    shloka: "निर्मानमोहा जितसङ्गदोषाअध्यात्मनित्या विनिवृत्तकामा: |द्वन्द्वैर्विमुक्ता: सुखदु:खसंज्ञैर्गच्छन्त्यमूढा: पदमव्ययं तत् || 5||",
-    translation: "15.5: Those who are free from vanity and delusion, who have overcome the evil of attachment, who dwell constantly in the self and God, who are freed from the desire to enjoy the senses, and are beyond the dualities of pleasure and pain, such liberated personalities attain My eternal Abode.",
-    hindi_translation: "15.5: वे जो अभिमान और मोह से मुक्त रहते हैं एवं जिन्होंने आसक्ति की बुराई पर विजय पा ली है, जो निरन्तर अपनी आत्मा और भगवान में लीन रहते हैं, जो इन्द्रिय भोग की कामना से मुक्त रहते हैं और सुख-दुख के द्वन्द्वों से परे हैं, ऐसे मुक्त जीव मेरा नित्य ध मि प्राप्त करते हैं।",
+    chapter: 1,
+    verse: 23,
+    shloka: "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागता: |धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षव: || 23||",
+    translation: "1.23: I desire to see those who have come here to fight on the side of the evil-minded son of Dhritarasthra, wishing to please him.",
+    hindi_translation: "1.23: मैं उन लोगों को देखने का इच्छुक हूँ जो यहाँ पर धृतराष्ट्र के दुश्चरित्र पुत्रों को प्रसन्न करने की इच्छा से युद्ध लड़ने के लिए एकत्रित हुए हैं।",
 );
 ```
 <p align="center">
