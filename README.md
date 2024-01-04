@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 44,
-    shloka: "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन |नरकेऽनियतं वासो भवतीत्यनुशुश्रुम || 44||",
-    translation: "1.44: O Janardan (Krishna), I have heard from the learned that those who destroy family traditions dwell in hell for an indefinite period of time.",
-    hindi_translation: "1.44: हे जनार्दन! मैंने गुरुजनों से सुना है कि जो लोग कुल परंपराओं का विनाश करते हैं, वे अनिश्चितकाल के लिए नरक में डाल दिए जाते हैं।",
+    chapter: 10,
+    verse: 19,
+    shloka: "श्रीभगवानुवाच |हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतय: |प्राधान्यत: कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||19||",
+    translation: "10.19: The Lord spoke: I shall now briefly describe my divine glories to you, O best of the Kurus, for there is no end to their detail.",
+    hindi_translation: "10.19: आनन्दमय भगवान ने कहा! अब मैं तुम्हें अपनी दिव्य महिमा का संक्षिप्त वर्णन करूँगा। हे श्रेष्ठ कुरुवंशी! इस वर्णन का कहीं भी कोई अंत नहीं है।",
 );
 ```
 <p align="center">
