@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 19,
-    shloka: "श्रीभगवानुवाच |हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतय: |प्राधान्यत: कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||19||",
-    translation: "10.19: The Lord spoke: I shall now briefly describe my divine glories to you, O best of the Kurus, for there is no end to their detail.",
-    hindi_translation: "10.19: आनन्दमय भगवान ने कहा! अब मैं तुम्हें अपनी दिव्य महिमा का संक्षिप्त वर्णन करूँगा। हे श्रेष्ठ कुरुवंशी! इस वर्णन का कहीं भी कोई अंत नहीं है।",
+    chapter: 3,
+    verse: 18,
+    shloka: "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन |न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रय: || 18||",
+    translation: "3.18: Such self-realized souls have nothing to gain or lose either in discharging or renouncing their duties. Nor do they need to depend on other living beings to fulfill their self-interest.",
+    hindi_translation: "3.18: ऐसी आत्मलीन आत्माओं को अपने कर्तव्य का पालन करने या उनसे विमुख होने से कुछ पाना या खोना नहीं होता और न ही उन्हें अपनी निजी आवश्यकताओं की पूर्ति के लिए अन्य जीवों पर निर्भर रहने की आवश्यकता होती है।",
 );
 ```
 <p align="center">
