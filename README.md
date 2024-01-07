@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 1,
-    shloka: "सञ्जय उवाच |तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् |विषीदन्तमिदं वाक्यमुवाच मधुसूदन: || 1||",
-    translation: "2.1: Sanjay said: Seeing Arjun overwhelmed with pity, his mind grief-stricken, and his eyes full of tears, Shree Krishna spoke the following words.",
-    hindi_translation: "2.1: संजय ने कहा-करुणा से अभिभूत, मन से शोकाकुल और अश्रुओं से भरे नेत्रों वाले अर्जुन को देख कर श्रीकृष्ण ने निम्नवर्णित शब्द कहे।",
+    chapter: 10,
+    verse: 10,
+    shloka: "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् |ददामि बुद्धियोगं तं येन मामुपयान्ति ते || 10||",
+    translation: "10.10: To those whose minds are always united with me in loving devotion, I give the divine knowledge by which they can attain me.",
+    hindi_translation: "10.10: जिनका मन सदैव मेरी प्रेममयी भक्ति में एकीकृत हो जाता है, मैं उन्हें दिव्य ज्ञान प्रदान करता हूँ जिससे वह मुझे पा सकते हैं।",
 );
 ```
 <p align="center">
