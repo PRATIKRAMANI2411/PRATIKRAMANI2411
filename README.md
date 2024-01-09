@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 9,
-    shloka: "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु |साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते || 9||",
-    translation: "6.9: The yogis look upon all—well-wishers, friends, foes, the pious, and the sinners—with an impartial intellect. The yogi who is of equal intellect toward friend, companion, and foe, neutral among enemies and relatives, and unbiased between the righteous and sinful, is considered to be distinguished among humans.",
-    hindi_translation: "6.9: योगी शुभ चिन्तकों, मित्रों, शत्रुओं पुण्यात्माओं और पापियों को निष्पक्ष होकर समान भाव से देखते हैं। इस प्रकार जो योगी मित्र, सहयोगी, शत्रु को समदृष्टि से देखते हैं और शत्रुओं एवं सगे संबंधियों के प्रति तटस्थ रहते हैं तथा पुण्यात्माओं और पापियों के बीच निष्पक्ष रहते हैं, वे मनुष्यों के मध्य विशिष्ट माने जाते हैं।",
+    chapter: 3,
+    verse: 40,
+    shloka: "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते |एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् || 40||",
+    translation: "3.40: The senses, mind, and intellect are said to be breeding grounds of desire. Through them, it clouds one’s knowledge and deludes the embodied soul.",
+    hindi_translation: "3.40: इन्द्रिय, मन और बुद्धि को कामना की प्रजनन भूमि कहा जाता है जिनके द्वारा यह मनुष्य के ज्ञान को आच्छादित कर लेती है और देहधारियों को मोहित करती है।",
 );
 ```
 <p align="center">
