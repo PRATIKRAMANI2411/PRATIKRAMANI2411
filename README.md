@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 48,
-    shloka: "न वेदयज्ञाध्ययनैर्न दानै-र्न च क्रियाभिर्न तपोभिरुग्रै: |एवंरूप: शक्य अहं नृलोकेद्रष्टुं त्वदन्येन कुरुप्रवीर || 48||",
-    translation: "11.48: Not by study of the Vedas, nor by the performance of sacrifice, rituals, or charity, nor even by practicing severe austerities, has any mortal ever seen what you have seen, O best of the Kuru warriors.",
-    hindi_translation: "11.48: हे कुरुश्रेष्ठ! न तो वेदों के अध्ययन से और न ही यज्ञ, कर्मकाण्डों, दान, पुण्य, यहाँ तक कि कठोर तप करने से भी किसी जीवित प्राणी ने मेरे विराटरूप को कभी देखा है जिसे तुम देख चुके हो।",
+    chapter: 5,
+    verse: 26,
+    shloka: "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् |अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् || 26||",
+    translation: "5.26: For those sanyāsīs, who have broken out of anger and lust through constant effort, who have subdued their mind, and are self-realized, liberation from material existence is both here and hereafter.",
+    hindi_translation: "5.26: ऐसे संन्यासी भी जो सतत प्रयास से क्रोध और काम वासनाओं पर विजय पा लेते हैं एवं जो अपने मन को वश में कर आत्मलीन हो जाते हैं, वे इस जन्म में और परलोक में भी माया शक्ति के बंधनों से मुक्त हो जाते हैं।",
 );
 ```
 <p align="center">
