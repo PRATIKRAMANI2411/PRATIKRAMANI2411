@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 21,
-    shloka: "अमी हि त्वां सुरसङ्घा विशन्तिकेचिद्भीता: प्राञ्जलयो गृणन्ति |स्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घा:स्तुवन्ति त्वां स्तुतिभि: पुष्कलाभि: || 21||",
-    translation: "11.21: All the celestial gods are taking your shelter by entering into you. In awe, some are praising you with folded hands. The great sages and perfected beings are extolling you with auspicious hymns and profuse prayers.",
-    hindi_translation: "11.21: स्वर्ग के सभी देवता आप में प्रवेश होकर आपकी शरण ग्रहण कर रहे हैं और कुछ भय से हाथ जोड़कर आपकी स्तुति कर रहे हैं। महर्षि और सिद्धजन पवित्र स्रोतों का पाठ कर और अनेक प्रार्थनाओं के साथ आपकी स्तुति कर रहे हैं।",
+    chapter: 6,
+    verse: 28,
+    shloka: "युञ्जन्नेवं सदात्मानं योगी विगतकल्मष: |सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते || 28||",
+    translation: "6.28: The self-controlled yogi, thus uniting the self with God, becomes free from material contamination, and being in constant touch with the Supreme, achieves the highest state of perfect happiness.",
+    hindi_translation: "6.28: इस प्रकार आत्म संयमी योगी आत्मा को भगवान में एकीकृत कर भौतिक कल्मष से मुक्त हो जाता है और निरन्तर परमेश्वर में तल्लीन होकर उसकी दिव्य प्रेममयी भक्ति में परम सुख प्राप्त करता है।",
 );
 ```
 <p align="center">
