@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 28,
-    shloka: "युञ्जन्नेवं सदात्मानं योगी विगतकल्मष: |सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते || 28||",
-    translation: "6.28: The self-controlled yogi, thus uniting the self with God, becomes free from material contamination, and being in constant touch with the Supreme, achieves the highest state of perfect happiness.",
-    hindi_translation: "6.28: इस प्रकार आत्म संयमी योगी आत्मा को भगवान में एकीकृत कर भौतिक कल्मष से मुक्त हो जाता है और निरन्तर परमेश्वर में तल्लीन होकर उसकी दिव्य प्रेममयी भक्ति में परम सुख प्राप्त करता है।",
+    chapter: 1,
+    verse: 1,
+    shloka: "धृतराष्ट्र उवाच |धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||",
+    translation: "1.1: Dhritarashtra said: O Sanjay, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
+    hindi_translation: "1.1: धृतराष्ट्र ने कहाः हे संजय! कुरुक्षेत्र की पवित्र भूमि पर युद्ध करने की इच्छा से एकत्रित होने के पश्चात, मेरे और पाण्डु पुत्रों ने क्या किया?",
 );
 ```
 <p align="center">
