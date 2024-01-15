@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 1,
-    shloka: "धृतराष्ट्र उवाच |धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||",
-    translation: "1.1: Dhritarashtra said: O Sanjay, after gathering on the holy field of Kurukshetra, and desiring to fight, what did my sons and the sons of Pandu do?",
-    hindi_translation: "1.1: धृतराष्ट्र ने कहाः हे संजय! कुरुक्षेत्र की पवित्र भूमि पर युद्ध करने की इच्छा से एकत्रित होने के पश्चात, मेरे और पाण्डु पुत्रों ने क्या किया?",
+    chapter: 5,
+    verse: 3,
+    shloka: "ज्ञेय: स नित्यसंन्यासी यो न द्वेष्टि न काङ् क्षति |निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते || 3||",
+    translation: "5.3: The karm yogis, who neither desire nor hate anything, should be considered always renounced. Free from all dualities, they are easily liberated from the bonds of material energy.",
+    hindi_translation: "5.3: वे कर्मयोगी जो न तो कोई कामना करते हैं और न ही किसी से घृणा करते हैं उन्हें नित्य संन्यासी माना जाना चाहिए। हे महाबाहु अर्जुन! सभी प्रकार के द्वन्द्वों से मुक्त होने के कारण वे माया के बंधनों से सरलता से मुक्ति पा लेते हैं।",
 );
 ```
 <p align="center">
