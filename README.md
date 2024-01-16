@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 3,
-    shloka: "ज्ञेय: स नित्यसंन्यासी यो न द्वेष्टि न काङ् क्षति |निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते || 3||",
-    translation: "5.3: The karm yogis, who neither desire nor hate anything, should be considered always renounced. Free from all dualities, they are easily liberated from the bonds of material energy.",
-    hindi_translation: "5.3: वे कर्मयोगी जो न तो कोई कामना करते हैं और न ही किसी से घृणा करते हैं उन्हें नित्य संन्यासी माना जाना चाहिए। हे महाबाहु अर्जुन! सभी प्रकार के द्वन्द्वों से मुक्त होने के कारण वे माया के बंधनों से सरलता से मुक्ति पा लेते हैं।",
+    chapter: 2,
+    verse: 45,
+    shloka: "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन |निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् || 45||",
+    translation: "2.45: The Vedas deal with the three modes of material nature, O Arjun. Rise above the three modes to a state of pure spiritual consciousness. Freeing yourself from dualities, eternally fixed in Truth, and without concern for material gain and safety, be situated in the self.",
+    hindi_translation: "2.45: वेदों में प्रकृति के तीन गुणों का वर्णन मिलता है। हे अर्जुन! प्रकृति के इन गुणों से ऊपर उठकर विशुद्ध आध्यात्मिक चेतना मे स्थित हो जाओ। परम सत्य में स्थित होकर सभी प्रकार के द्वैतों से स्वयं को मुक्त करते हुए भौतिक लाभ-हानि और सुरक्षा की चिन्ता किए बिना आत्मलीन हो जाओ।",
 );
 ```
 <p align="center">
