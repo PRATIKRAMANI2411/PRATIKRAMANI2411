@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 17,
-    shloka: "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरै: |अफलाकाङ्क्षिभिर्युक्तै: सात्त्विकं परिचक्षते || 17||",
-    translation: "17.17: When devout persons with ardent faith practice these three-fold austerities without yearning for material rewards, they are designated as austerities in the mode of goodness.",
-    hindi_translation: "17.17: जब धर्मनिष्ठ व्यक्ति उत्कृष्ट श्रद्धा के साथ भौतिक पदार्थों की लालसा के बिना तीन प्रकार की तपस्याएँ करते हैं तब इन्हें सत्वगुणी तपस्याओं के रूप में निर्दिष्ट किया जाता है।",
+    chapter: 18,
+    verse: 48,
+    shloka: "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् |सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृता: || 48||",
+    translation: "18.48: One should not abandon duties born of one’s nature, even if one sees defects in them, O son of Kunti. Indeed, all endeavors are veiled by some evil, as fire is by smoke.",
+    hindi_translation: "18.48: किसी को भी अपनी प्रकृति से उत्पन्न कर्त्तव्यों का परित्याग नहीं करना चाहिए चाहे कोई उनमें दोष भी क्यों न देखता हो। हे कुन्ती पुत्र! वास्तव में सभी प्रकार के उद्योग कुछ न कुछ बुराई से आवृत रहते हैं जैसे आग धुंए से ढकी रहती है।",
 );
 ```
 <p align="center">
