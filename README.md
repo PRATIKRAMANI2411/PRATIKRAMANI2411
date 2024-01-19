@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 48,
-    shloka: "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् |सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृता: || 48||",
-    translation: "18.48: One should not abandon duties born of one’s nature, even if one sees defects in them, O son of Kunti. Indeed, all endeavors are veiled by some evil, as fire is by smoke.",
-    hindi_translation: "18.48: किसी को भी अपनी प्रकृति से उत्पन्न कर्त्तव्यों का परित्याग नहीं करना चाहिए चाहे कोई उनमें दोष भी क्यों न देखता हो। हे कुन्ती पुत्र! वास्तव में सभी प्रकार के उद्योग कुछ न कुछ बुराई से आवृत रहते हैं जैसे आग धुंए से ढकी रहती है।",
+    chapter: 2,
+    verse: 29,
+    shloka: "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्य: |आश्चर्यवच्चैनमन्य: शृ्णोतिश्रुत्वाप्येनं वेद न चैव कश्चित् || 29||",
+    translation: "2.29: Some see the soul as amazing, some describe it as amazing, and some hear of the soul as amazing, while others, even on hearing, cannot understand it at all.",
+    hindi_translation: "2.29: कुछ लोग आत्मा को एक आश्चर्य के रूप में देखते हैं, कुछ लोग इसे आश्चर्य बताते हैं और कुछ इसे आश्चर्य के रूप मे सुनते हैं जबकि अन्य लोग इसके विषय में सुनकर भी कुछ समझ नहीं पाते।",
 );
 ```
 <p align="center">
