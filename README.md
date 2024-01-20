@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 29,
-    shloka: "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्य: |आश्चर्यवच्चैनमन्य: शृ्णोतिश्रुत्वाप्येनं वेद न चैव कश्चित् || 29||",
-    translation: "2.29: Some see the soul as amazing, some describe it as amazing, and some hear of the soul as amazing, while others, even on hearing, cannot understand it at all.",
-    hindi_translation: "2.29: कुछ लोग आत्मा को एक आश्चर्य के रूप में देखते हैं, कुछ लोग इसे आश्चर्य बताते हैं और कुछ इसे आश्चर्य के रूप मे सुनते हैं जबकि अन्य लोग इसके विषय में सुनकर भी कुछ समझ नहीं पाते।",
+    chapter: 4,
+    verse: 26,
+    shloka: "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति |शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति || 26||",
+    translation: "4.26: Others offer hearing and other senses in the sacrificial fire of restraint. Still others offer sound and other objects of the senses as sacrifice in the fire of the senses.",
+    hindi_translation: "4.26: कुछ योगीजन श्रवणादि क्रियाओं और अन्य इन्द्रियों को संयमरूपी यज्ञ की अग्नि में स्वाहा कर देते हैं और जबकि कुछ अन्य शब्दादि क्रियाओं और इन्द्रियों के अन्य विषयों को इन्द्रियों के अग्निरूपी यज्ञ में भेंट चढ़ा देते हैं।",
 );
 ```
 <p align="center">
