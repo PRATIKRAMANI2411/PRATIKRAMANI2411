@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 26,
-    shloka: "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति |शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति || 26||",
-    translation: "4.26: Others offer hearing and other senses in the sacrificial fire of restraint. Still others offer sound and other objects of the senses as sacrifice in the fire of the senses.",
-    hindi_translation: "4.26: कुछ योगीजन श्रवणादि क्रियाओं और अन्य इन्द्रियों को संयमरूपी यज्ञ की अग्नि में स्वाहा कर देते हैं और जबकि कुछ अन्य शब्दादि क्रियाओं और इन्द्रियों के अन्य विषयों को इन्द्रियों के अग्निरूपी यज्ञ में भेंट चढ़ा देते हैं।",
+    chapter: 1,
+    verse: 41,
+    shloka: "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रिय: |स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्कर: || 41||",
+    translation: "1.41: With the preponderance of vice, O Krishna, the women of the family become immoral; and from the immorality of women, O descendent of Vrishni, unwanted progeny are born.",
+    hindi_translation: "1.41: अधर्म की प्रबलता के साथ हे कृष्ण! कुल की स्त्रियां दूषित हो जाती हैं और स्त्रियों के दुराचारिणी होने से हे वृष्णिवंशी! अवांछित संतानें जन्म लेती हैं।",
 );
 ```
 <p align="center">
