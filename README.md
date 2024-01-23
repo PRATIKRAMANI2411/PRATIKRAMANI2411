@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 19,
-    shloka: "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदत: |प्रोच्यते गुणसङ् ख्याने यथावच्छृणु तान्यपि || 19||",
-    translation: "18.19: Knowledge, action, and the doer are declared to be of three kinds in the Sānkhya philosophy, distinguished according to the three modes of material nature. Listen, and I will explain their distinctions to you.",
-    hindi_translation: "18.19: सांख्य दर्शन में ज्ञान, कर्म और कर्ता की तीन श्रेणियों का उल्लेख किया गया है और तदनुसार प्रकृति के तीन गुणों के अनुसार इनमें भेद का वर्णन भी किया गया है। इन्हें सुनो और मैं तुम्हें इनका भेद बताता हूँ।",
+    chapter: 4,
+    verse: 27,
+    shloka: "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे |आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते || 27||",
+    translation: "4.27: Some, inspired by knowledge, offer the functions of all their senses and their life energy in the fire of the controlled mind.",
+    hindi_translation: "4.27: दिव्य ज्ञान से प्रेरित होकर कुछ योगी संयमित मन की अग्नि में अपनी समस्त इन्द्रियों की क्रियाओं और प्राण शक्ति को भस्म कर देते हैं।",
 );
 ```
 <p align="center">
