@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
-    verse: 27,
-    shloka: "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे |आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते || 27||",
-    translation: "4.27: Some, inspired by knowledge, offer the functions of all their senses and their life energy in the fire of the controlled mind.",
-    hindi_translation: "4.27: दिव्य ज्ञान से प्रेरित होकर कुछ योगी संयमित मन की अग्नि में अपनी समस्त इन्द्रियों की क्रियाओं और प्राण शक्ति को भस्म कर देते हैं।",
+    chapter: 5,
+    verse: 18,
+    shloka: "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि |शुनि चैव श्वपाके च पण्डिता: समदर्शिन: || 18||",
+    translation: "5.18: The truly learned, with the eyes of divine knowledge, see with equal vision a Brahmin, a cow, an elephant, a dog, and a dog-eater.",
+    hindi_translation: "5.18: सच्चे ज्ञानी महापुरुष एक ब्राह्मण, गाय, हाथी, कुत्ते और चाण्डाल को अपने दिव्य ज्ञान के चक्षुओं द्वारा समदृष्टि से देखते हैं।",
 );
 ```
 <p align="center">
