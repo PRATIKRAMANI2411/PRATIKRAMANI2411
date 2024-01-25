@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 18,
-    shloka: "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि |शुनि चैव श्वपाके च पण्डिता: समदर्शिन: || 18||",
-    translation: "5.18: The truly learned, with the eyes of divine knowledge, see with equal vision a Brahmin, a cow, an elephant, a dog, and a dog-eater.",
-    hindi_translation: "5.18: सच्चे ज्ञानी महापुरुष एक ब्राह्मण, गाय, हाथी, कुत्ते और चाण्डाल को अपने दिव्य ज्ञान के चक्षुओं द्वारा समदृष्टि से देखते हैं।",
+    chapter: 3,
+    verse: 42,
+    shloka: "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्य: परं मन: |मनसस्तु परा बुद्धिर्यो बुद्धे: परतस्तु स: || 42||",
+    translation: "3.42: The senses are superior to the gross body, and superior to the senses is the mind. Beyond the mind is the intellect, and even beyond the intellect is the soul.",
+    hindi_translation: "3.42: इन्द्रियाँ स्थूल शरीर से श्रेष्ठ हैं और इन्द्रियों से उत्तम मन, मन से श्रेष्ठ बुद्धि और आत्मा बुद्धि से भी परे है।",
 );
 ```
 <p align="center">
