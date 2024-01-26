@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 42,
-    shloka: "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्य: परं मन: |मनसस्तु परा बुद्धिर्यो बुद्धे: परतस्तु स: || 42||",
-    translation: "3.42: The senses are superior to the gross body, and superior to the senses is the mind. Beyond the mind is the intellect, and even beyond the intellect is the soul.",
-    hindi_translation: "3.42: इन्द्रियाँ स्थूल शरीर से श्रेष्ठ हैं और इन्द्रियों से उत्तम मन, मन से श्रेष्ठ बुद्धि और आत्मा बुद्धि से भी परे है।",
+    chapter: 18,
+    verse: 7,
+    shloka: "नियतस्य तु सन्न्यास: कर्मणो नोपपद्यते |मोहात्तस्य परित्यागस्तामस: परिकीर्तित: || 7||",
+    translation: "18.7: Prescribed duties should never be renounced. Such deluded renunciation is said to be in the mode of ignorance.",
+    hindi_translation: "18.7: नियत कर्त्तव्यों को कभी त्यागना नहीं चाहिए। मोहवश होकर निश्चित कार्यों के त्याग को तमोगुणी कहा जाता है।",
 );
 ```
 <p align="center">
