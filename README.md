@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 7,
-    shloka: "नियतस्य तु सन्न्यास: कर्मणो नोपपद्यते |मोहात्तस्य परित्यागस्तामस: परिकीर्तित: || 7||",
-    translation: "18.7: Prescribed duties should never be renounced. Such deluded renunciation is said to be in the mode of ignorance.",
-    hindi_translation: "18.7: नियत कर्त्तव्यों को कभी त्यागना नहीं चाहिए। मोहवश होकर निश्चित कार्यों के त्याग को तमोगुणी कहा जाता है।",
+    chapter: 10,
+    verse: 18,
+    shloka: "विस्तरेणात्मनो योगं विभूतिं च जनार्दन |भूय: कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् || 18||",
+    translation: "10.18: Tell me again in detail your divine glories and manifestations, O Janardan. I can never tire of hearing your nectar.",
+    hindi_translation: "10.18: हे जनार्दन! कृपया मुझे पुनः अपनी दिव्य महिमा, वैभवों और अभिव्यक्तियों के संबंध में विस्तृत रूप से बताएँ, मैं आपकी अमृत वाणी को सुनकर कभी तृप्त नहीं हो सकता।",
 );
 ```
 <p align="center">
