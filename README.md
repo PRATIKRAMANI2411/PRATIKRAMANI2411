@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 6,
-    verse: 40,
-    shloka: "श्रीभगवानुवाच |पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते |न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति || 40||",
-    translation: "6.40: The Supreme Lord said: O Parth, one who engages on the spiritual path does not meet with destruction either in this world or the world to come. My dear friend, one who strives for God-realization is never overcome by evil.",
-    hindi_translation: "6.40: परमेश्वर श्रीकृष्ण ने कहाः हे पृथा पुत्र! आध्यात्मिक पथ का अनुसरण करने वाले योगी का न तो इस लोक में और न ही परलोक में विनाश होता है। मेरे प्रिय मित्र। भगवद्प्राप्ति के मार्ग पर चलने वाले को बुराई पराजित नहीं कर सकती।",
+    verse: 46,
+    shloka: "तपस्विभ्योऽधिकोयोगीज्ञानिभ्योऽपिमतोऽधिक:|कर्मिभ्यश्चाधिकोयोगीतस्माद्योगीभवार्जुन|| 46||",
+    translation: "6.46: A yogi is superior to the tapasvī (ascetic), superior to the jñānī (a person of learning), and even superior to the karmī (ritualistic performer). Therefore, O Arjun, strive to be a yogi.",
+    hindi_translation: "6.46: एक योगी तपस्वी से, ज्ञानी से और सकाम कर्मी से भी श्रेष्ठ होता है। अतः हे अर्जुन! तुम सभी प्रकार से योगी बनो।",
 );
 ```
 <p align="center">
