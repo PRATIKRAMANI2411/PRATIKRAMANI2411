@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 14,
-    shloka: "सततं कीर्तयन्तो मां यतन्तश्च दृढव्रता: |नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते || 14||",
-    translation: "9.14: Always singing My divine glories, striving with great determination, and humbly bowing down before Me, they constantly worship Me in loving devotion.",
-    hindi_translation: "9.14: मेरी दिव्य महिमा का सदैव कीर्तन करते हुए दृढ़ निश्चय के साथ विनय पूर्वक मेरे समक्ष नतमस्तक होकर वे निरन्तर प्रेमा भक्ति के साथ मेरी आराधना करते हैं।",
+    chapter: 4,
+    verse: 22,
+    shloka: "यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सर: |सम: सिद्धावसिद्धौ च कृत्वापि न निबध्यते || 22||",
+    translation: "4.22: Content with whatever gain comes of its own accord, and free from envy, they are beyond the dualities of life. Being equipoised in success and failure, they are not bound by their actions, even while performing all kinds of activities.",
+    hindi_translation: "4.22: वे जो अपने आप स्वतः प्राप्त हो जाए उसमें संतुष्ट रहते हैं, ईर्ष्या और द्वैत भाव से मुक्त रहते हैं, वे सफलता और असफलता दोनों में संतुलित रहते हैं, वे सभी प्रकार के कार्य करते हुए कर्म के बंधन में नहीं पड़ते।",
 );
 ```
 <p align="center">
