@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 4,
+    chapter: 13,
     verse: 22,
-    shloka: "यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सर: |सम: सिद्धावसिद्धौ च कृत्वापि न निबध्यते || 22||",
-    translation: "4.22: Content with whatever gain comes of its own accord, and free from envy, they are beyond the dualities of life. Being equipoised in success and failure, they are not bound by their actions, even while performing all kinds of activities.",
-    hindi_translation: "4.22: वे जो अपने आप स्वतः प्राप्त हो जाए उसमें संतुष्ट रहते हैं, ईर्ष्या और द्वैत भाव से मुक्त रहते हैं, वे सफलता और असफलता दोनों में संतुलित रहते हैं, वे सभी प्रकार के कार्य करते हुए कर्म के बंधन में नहीं पड़ते।",
+    shloka: "पुरुष: प्रकृतिस्थो हि भुङक्ते प्रकृतिजान्गुणान् |कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु || 22||",
+    translation: "13.22: When the puruṣh (individual soul) seated in prakṛiti (the material energy) desires to enjoy the three guṇas, attachment to them becomes the cause of its birth in superior and inferior wombs.",
+    hindi_translation: "13.22: पुरुष अर्थात जीव प्रकृति में स्थित हो जाता है, प्रकृति के तीनों गुणों के भोग की इच्छा करता है, उनमें आसक्त हो जाने के कारण उत्तम और अधम योनियों में जन्म लेता है।",
 );
 ```
 <p align="center">
