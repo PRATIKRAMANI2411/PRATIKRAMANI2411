@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
-    verse: 19,
-    shloka: "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् |स सर्वविद्भजति मां सर्वभावेन भारत || 19||",
-    translation: "15.19: Those who know Me without doubt as the Supreme Divine Personality truly have complete knowledge. O Arjun, they worship Me with their whole being.",
-    hindi_translation: "15.19: वे जो संशय रहित होकर मुझे परम दिव्य भगवान के रूप में जानते हैं, वास्तव में वे पूर्ण ज्ञान से युक्त हैं। हे अर्जुन! वे पूर्ण रूप से मेरी भक्ति में तल्लीन रहते हैं।",
+    chapter: 6,
+    verse: 23,
+    shloka: "तं विद्याद् दु:खसंयोगवियोगं योगसञ्ज्ञितम् |स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा || 23||",
+    translation: "6.23: That state of severance from union with misery is known as Yog. This Yog should be resolutely practiced with determination free from pessimism.",
+    hindi_translation: "6.23: दख के संयोग से वियोग की अवस्था को योग के रूप में जाना जाता है। इस योग का दृढ़तापूर्वक कृतसंकल्प के साथ निराशा से मुक्त होकर पालन करना चाहिए।",
 );
 ```
 <p align="center">
