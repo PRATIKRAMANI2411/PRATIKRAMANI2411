@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 23,
-    shloka: "तं विद्याद् दु:खसंयोगवियोगं योगसञ्ज्ञितम् |स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा || 23||",
-    translation: "6.23: That state of severance from union with misery is known as Yog. This Yog should be resolutely practiced with determination free from pessimism.",
-    hindi_translation: "6.23: दख के संयोग से वियोग की अवस्था को योग के रूप में जाना जाता है। इस योग का दृढ़तापूर्वक कृतसंकल्प के साथ निराशा से मुक्त होकर पालन करना चाहिए।",
+    chapter: 12,
+    verse: 12,
+    shloka: "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् || 12||",
+    translation: "12.12: Better than mechanical practice is knowledge; better than knowledge is meditation. Better than meditation is renunciation of the fruits of actions, for peace immediately follows such renunciation.",
+    hindi_translation: "12.12: शारीरिक अभ्यास से श्रेष्ठ ज्ञान है, ज्ञान से श्रेष्ठ ध्यान है और ध्यान से श्रेष्ठ कर्म फलों का परित्याग है और ऐसे त्याग से शीघ्र मन को शांति प्राप्त होती है।",
 );
 ```
 <p align="center">
