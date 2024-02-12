@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 44,
-    shloka: "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् |व्यवसायात्मिका बुद्धि: समाधौ न विधीयते || 44||",
-    translation: "2.44: With their minds deeply attached to worldly pleasures and their intellects bewildered by such things, they are unable to possess the resolute determination for success on the path to God.",
-    hindi_translation: "2.44: सांसारिक सुखों में मन की गहन आसक्ति के साथ उनकी बुद्धि ऐसी वस्तुओं में मोहित रहती है इसलिए वे भगवद्प्राप्ति के मार्ग पर अग्रसर होने के हेतु दृढ़-संकल्प लेने में असमर्थ होते हैं।",
+    chapter: 11,
+    verse: 37,
+    shloka: "कस्माच्च ते न नमेरन्महात्मन्गरीयसे ब्रह्मणोऽप्यादिकर्त्रे |अनन्त देवेश जगन्निवासत्वमक्षरं सदसतत्परं यत् || 37||",
+    translation: "11.37: O Great one, who are even greater than Brahma, the original creator, why should they not bow to you? O limitless One, O Lord of the devatās, O Refuge of the universe, you are the imperishable reality beyond both the manifest and the non-manifest.",
+    hindi_translation: "11.37: हे सर्वश्रेष्ठ! आप ब्रह्मा से श्रेष्ठ और आदि सृष्टा हो तब फिर वह आपको नमस्कार क्यों न करें? हे अनंत, हे देवेश, हे जगत के आश्रयदाता आप सभी कारणों के कारण और अविनाशी हैं। आप व्यक्त और अव्यक्त से परे अविनाशी सत्य हो।",
 );
 ```
 <p align="center">
