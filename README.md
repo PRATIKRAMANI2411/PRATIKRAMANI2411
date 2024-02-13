@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 11,
-    verse: 37,
-    shloka: "कस्माच्च ते न नमेरन्महात्मन्गरीयसे ब्रह्मणोऽप्यादिकर्त्रे |अनन्त देवेश जगन्निवासत्वमक्षरं सदसतत्परं यत् || 37||",
-    translation: "11.37: O Great one, who are even greater than Brahma, the original creator, why should they not bow to you? O limitless One, O Lord of the devatās, O Refuge of the universe, you are the imperishable reality beyond both the manifest and the non-manifest.",
-    hindi_translation: "11.37: हे सर्वश्रेष्ठ! आप ब्रह्मा से श्रेष्ठ और आदि सृष्टा हो तब फिर वह आपको नमस्कार क्यों न करें? हे अनंत, हे देवेश, हे जगत के आश्रयदाता आप सभी कारणों के कारण और अविनाशी हैं। आप व्यक्त और अव्यक्त से परे अविनाशी सत्य हो।",
+    chapter: 10,
+    verse: 27,
+    shloka: "उच्चै:श्रवसमश्वानां विद्धि माममृतोद्भवम् |ऐरावतं गजेन्द्राणां नराणां च नराधिपम् || 27||",
+    translation: "10.27: Amongst horses know me to be Ucchaihshrava, begotten from the churning of the ocean of nectar. I am Airavata amongst all lordly elephants, and the king amongst humans.",
+    hindi_translation: "10.27: अश्वों में मुझे उच्चैश्रवा समझो जो अमृत के लिए समुद्र मंथन के समय प्रकट हुआ था। हाथियों में मुझे गर्वित ऐरावत समझो और मनुष्यों में मैं राजा हूँ।",
 );
 ```
 <p align="center">
