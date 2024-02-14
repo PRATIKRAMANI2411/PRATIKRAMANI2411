@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 27,
-    shloka: "उच्चै:श्रवसमश्वानां विद्धि माममृतोद्भवम् |ऐरावतं गजेन्द्राणां नराणां च नराधिपम् || 27||",
-    translation: "10.27: Amongst horses know me to be Ucchaihshrava, begotten from the churning of the ocean of nectar. I am Airavata amongst all lordly elephants, and the king amongst humans.",
-    hindi_translation: "10.27: अश्वों में मुझे उच्चैश्रवा समझो जो अमृत के लिए समुद्र मंथन के समय प्रकट हुआ था। हाथियों में मुझे गर्वित ऐरावत समझो और मनुष्यों में मैं राजा हूँ।",
+    chapter: 6,
+    verse: 22,
+    shloka: "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं तत: |यस्मिन्स्थितो न दु:खेन गुरुणापि विचाल्यते || 22||",
+    translation: "6.22: Having gained that state, one does not consider any attainment to be greater. Being thus established, one is not shaken even in the midst of the greatest calamity.",
+    hindi_translation: "6.22: ऐसी अवस्था प्राप्त कर कोई और कुछ श्रेष्ठ पाने की इच्छा नहीं करता। ऐसी सिद्धि प्राप्त कर कोई मनुष्य बड़ी से बड़ी आपदाओं में विचलित नहीं होता।",
 );
 ```
 <p align="center">
