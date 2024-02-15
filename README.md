@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 22,
-    shloka: "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं तत: |यस्मिन्स्थितो न दु:खेन गुरुणापि विचाल्यते || 22||",
-    translation: "6.22: Having gained that state, one does not consider any attainment to be greater. Being thus established, one is not shaken even in the midst of the greatest calamity.",
-    hindi_translation: "6.22: ऐसी अवस्था प्राप्त कर कोई और कुछ श्रेष्ठ पाने की इच्छा नहीं करता। ऐसी सिद्धि प्राप्त कर कोई मनुष्य बड़ी से बड़ी आपदाओं में विचलित नहीं होता।",
+    chapter: 18,
+    verse: 47,
+    shloka: "श्रेयान्स्वधर्मो विगुण: परधर्मात्स्वनुष्ठितात् |स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् || 47||",
+    translation: "18.47: It is better to do one’s own dharma, even though imperfectly, than to do another’s dharma, even though perfectly. By doing one’s innate duties, a person does not incur sin.",
+    hindi_translation: "18.47: अपने धर्म का पालन त्रुटिपूर्ण ढंग से करना अन्य के कार्यों को उपयुक्त ढंग से करने की अपेक्षा अधिक श्रेष्ठ है। अपने स्वाभाविक कर्तव्यों का पालन करने से मनुष्य पाप अर्जित नहीं करता।",
 );
 ```
 <p align="center">
