@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 47,
-    shloka: "श्रेयान्स्वधर्मो विगुण: परधर्मात्स्वनुष्ठितात् |स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् || 47||",
-    translation: "18.47: It is better to do one’s own dharma, even though imperfectly, than to do another’s dharma, even though perfectly. By doing one’s innate duties, a person does not incur sin.",
-    hindi_translation: "18.47: अपने धर्म का पालन त्रुटिपूर्ण ढंग से करना अन्य के कार्यों को उपयुक्त ढंग से करने की अपेक्षा अधिक श्रेष्ठ है। अपने स्वाभाविक कर्तव्यों का पालन करने से मनुष्य पाप अर्जित नहीं करता।",
+    chapter: 9,
+    verse: 5,
+    shloka: "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् |भूतभृन्न च भूतस्थो ममात्मा भूतभावन: || 5||",
+    translation: "9.5: And yet, the living beings do not abide in Me. Behold the mystery of My divine energy! Although I am the Creator and Sustainer of all living beings, I am not influenced by them or by material nature.",
+    hindi_translation: "9.5: मेरी दिव्य शक्तियों के रहस्य को देखो। यद्यपि मैं सभी जीवित प्राणियों का रचयिता और पालक हूँ तथापि मेरे द्वारा उत्पन्न प्राणी मुझमें स्थित नहीं रहते और मैं उनसे या प्राकृतिक शक्ति से प्रभावित नहीं होता।",
 );
 ```
 <p align="center">
