@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
-    verse: 5,
-    shloka: "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् |भूतभृन्न च भूतस्थो ममात्मा भूतभावन: || 5||",
-    translation: "9.5: And yet, the living beings do not abide in Me. Behold the mystery of My divine energy! Although I am the Creator and Sustainer of all living beings, I am not influenced by them or by material nature.",
-    hindi_translation: "9.5: मेरी दिव्य शक्तियों के रहस्य को देखो। यद्यपि मैं सभी जीवित प्राणियों का रचयिता और पालक हूँ तथापि मेरे द्वारा उत्पन्न प्राणी मुझमें स्थित नहीं रहते और मैं उनसे या प्राकृतिक शक्ति से प्रभावित नहीं होता।",
+    chapter: 3,
+    verse: 30,
+    shloka: "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: || 30||",
+    translation: "3.30: Performing all works as an offering unto me, constantly meditate on me as the Supreme. Become free from desire and selfishness, and with your mental grief departed, fight!",
+    hindi_translation: "3.30: अपने समस्त कर्मों को मुझको अर्पित करके और परमात्मा के रूप में निरन्तर मेरा ध्यान करते हुए कामना और स्वार्थ से रहित होकर अपने मानसिक दुखों को त्याग कर युद्ध करो।",
 );
 ```
 <p align="center">
