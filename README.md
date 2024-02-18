@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 30,
-    shloka: "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: || 30||",
-    translation: "3.30: Performing all works as an offering unto me, constantly meditate on me as the Supreme. Become free from desire and selfishness, and with your mental grief departed, fight!",
-    hindi_translation: "3.30: अपने समस्त कर्मों को मुझको अर्पित करके और परमात्मा के रूप में निरन्तर मेरा ध्यान करते हुए कामना और स्वार्थ से रहित होकर अपने मानसिक दुखों को त्याग कर युद्ध करो।",
+    chapter: 2,
+    verse: 15,
+    shloka: "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ |समदु:खसुखं धीरं सोऽमृतत्वाय कल्पते || 15||",
+    translation: "2.15: O Arjun, noblest amongst men, that person who is not affected by happiness and distress, and remains steady in both, becomes eligible for liberation.",
+    hindi_translation: "2.15: हे पुरुषो में श्रेष्ठ अर्जुन! जो मनुष्य सुख तथा दुख में विचलित नहीं होता और इन दोनों परिस्थितियों में स्थिर रहता है, वह वास्तव मे मुक्ति का पात्र है।",
 );
 ```
 <p align="center">
