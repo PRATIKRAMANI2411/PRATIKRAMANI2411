@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 15,
-    shloka: "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ |समदु:खसुखं धीरं सोऽमृतत्वाय कल्पते || 15||",
-    translation: "2.15: O Arjun, noblest amongst men, that person who is not affected by happiness and distress, and remains steady in both, becomes eligible for liberation.",
-    hindi_translation: "2.15: हे पुरुषो में श्रेष्ठ अर्जुन! जो मनुष्य सुख तथा दुख में विचलित नहीं होता और इन दोनों परिस्थितियों में स्थिर रहता है, वह वास्तव मे मुक्ति का पात्र है।",
+    chapter: 18,
+    verse: 58,
+    shloka: "मच्चित्त: सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि |अथ चेत्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि || 58||",
+    translation: "18.58: If you remember me always, by my grace you will overcome all obstacles and difficulties. But if, due to pride, you do not listen to my advice, you will perish.",
+    hindi_translation: "18.58: यदि तुम सदैव मेरा स्मरण करते हो तब मेरी कृपा से तुम सभी कठिनाईयों और बाधाओं को पार कर पाओगे। यदि तुम अभिमान के कारण मेरे उपदेश को नहीं सुनोगे तब तुम्हारा विनाश हो जाएगा।",
 );
 ```
 <p align="center">
