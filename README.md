@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 58,
-    shloka: "मच्चित्त: सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि |अथ चेत्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि || 58||",
-    translation: "18.58: If you remember me always, by my grace you will overcome all obstacles and difficulties. But if, due to pride, you do not listen to my advice, you will perish.",
-    hindi_translation: "18.58: यदि तुम सदैव मेरा स्मरण करते हो तब मेरी कृपा से तुम सभी कठिनाईयों और बाधाओं को पार कर पाओगे। यदि तुम अभिमान के कारण मेरे उपदेश को नहीं सुनोगे तब तुम्हारा विनाश हो जाएगा।",
+    chapter: 2,
+    verse: 12,
+    shloka: "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपा |न चैव न भविष्याम: सर्वे वयमत: परम् || 12||",
+    translation: "2.12: Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.",
+    hindi_translation: "2.12: ऐसा कोई समय नहीं था कि जब मैं नहीं था या तुम नहीं थे और ये सभी राजा न रहे हों और ऐसा भी नहीं है कि भविष्य में हम सब नहीं रहेंगे।",
 );
 ```
 <p align="center">
