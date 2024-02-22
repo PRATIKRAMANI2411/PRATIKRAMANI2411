@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 76,
-    shloka: "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् |केशवार्जुनयो: पुण्यं हृष्यामि च मुहुर्मुहु: || 76||",
-    translation: "18.76: As I repeatedly recall this astonishing and wonderful dialogue between the Supreme Lord Shree Krishna and Arjun, O King, I rejoice again and again.",
-    hindi_translation: "18.76: हे राजन! जब-जब मैं परमेश्वर श्रीकृष्ण और अर्जुन के बीच हुए इस चकित कर देने वाले अद्भुत संवाद का स्मरण करता हूँ तब-तब मैं पुनः पुनः हर्षित होता हूँ।",
+    chapter: 10,
+    verse: 31,
+    shloka: "पवन: पवतामस्मि राम: शस्त्रभृतामहम् |झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी || 31||",
+    translation: "10.31: Amongst purifiers, I am the wind, and amongst wielders of weapons, I am Lord Ram. Of water creatures, I am the crocodile, and of flowing rivers, I am the Ganges.",
+    hindi_translation: "10.31: पवित्र करने वालों में मैं वायु हूँ और शस्त्र चलाने वालों में मैं भगवान श्रीराम हूँ, जलीय जीवों में मगर और बहती नदियों में गंगा हूँ।",
 );
 ```
 <p align="center">
