@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 10,
-    verse: 31,
-    shloka: "पवन: पवतामस्मि राम: शस्त्रभृतामहम् |झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी || 31||",
-    translation: "10.31: Amongst purifiers, I am the wind, and amongst wielders of weapons, I am Lord Ram. Of water creatures, I am the crocodile, and of flowing rivers, I am the Ganges.",
-    hindi_translation: "10.31: पवित्र करने वालों में मैं वायु हूँ और शस्त्र चलाने वालों में मैं भगवान श्रीराम हूँ, जलीय जीवों में मगर और बहती नदियों में गंगा हूँ।",
+    chapter: 13,
+    verse: 13,
+    shloka: "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्रुते |अनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते || 13||",
+    translation: "13.13: I shall now reveal to you that which ought to be known, and by knowing which, one attains immortality. It is the beginningless Brahman, which lies beyond existence and non-existence.",
+    hindi_translation: "13.13: अब मैं तुम्हें वह बताऊंगा कि जो जानने योग्य है और जिसे जान लेने के पश्चात कोई अमरत्व प्राप्त कर लेता है। यह अनादि ब्रह्म है जो अस्तित्त्व और अस्तित्त्वहीन से परे है।",
 );
 ```
 <p align="center">
