@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 13,
-    shloka: "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्रुते |अनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते || 13||",
-    translation: "13.13: I shall now reveal to you that which ought to be known, and by knowing which, one attains immortality. It is the beginningless Brahman, which lies beyond existence and non-existence.",
-    hindi_translation: "13.13: अब मैं तुम्हें वह बताऊंगा कि जो जानने योग्य है और जिसे जान लेने के पश्चात कोई अमरत्व प्राप्त कर लेता है। यह अनादि ब्रह्म है जो अस्तित्त्व और अस्तित्त्वहीन से परे है।",
+    chapter: 2,
+    verse: 20,
+    shloka: "न जायते म्रियते वा कदाचिनायं भूत्वा भविता वा न भूय: |अजो नित्य: शाश्वतोऽयं पुराणोन हन्यते हन्यमाने शरीरे || 20||",
+    translation: "2.20: The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed.",
+    hindi_translation: "2.20: आत्मा का न तो कभी जन्म होता है न ही मृत्यु होती है और न ही आत्मा किसी काल में जन्म लेती है और न ही कभी मृत्यु को प्राप्त होती है। आत्मा अजन्मा, शाश्वत, अविनाशी और चिरनूतन है। शरीर का विनाश होने पर भी इसका विनाश नहीं होता।",
 );
 ```
 <p align="center">
