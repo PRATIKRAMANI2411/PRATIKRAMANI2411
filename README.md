@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 20,
-    shloka: "न जायते म्रियते वा कदाचिनायं भूत्वा भविता वा न भूय: |अजो नित्य: शाश्वतोऽयं पुराणोन हन्यते हन्यमाने शरीरे || 20||",
-    translation: "2.20: The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed.",
-    hindi_translation: "2.20: आत्मा का न तो कभी जन्म होता है न ही मृत्यु होती है और न ही आत्मा किसी काल में जन्म लेती है और न ही कभी मृत्यु को प्राप्त होती है। आत्मा अजन्मा, शाश्वत, अविनाशी और चिरनूतन है। शरीर का विनाश होने पर भी इसका विनाश नहीं होता।",
+    chapter: 7,
+    verse: 5,
+    shloka: "अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् |जीवभूतां महाबाहो ययेदं धार्यते जगत् || 5||",
+    translation: "7.5: Such is My inferior energy. But beyond it, O mighty-armed Arjun, I have a superior energy. This is the jīva śhakti (the soul energy), which comprises the embodied souls who are the basis of life in this world.",
+    hindi_translation: "7.5: ये मेरी अपरा शक्तियाँ हैं किन्तु हे महाबाहु अर्जुन! इनसे अतिरिक्त मेरी परा शक्ति है। यह जीव शक्ति है जिसमें देहधारी आत्माएँ (जीवन रूप) सम्मिलित हैं जो इस संसार के जीवन का आधार हैं।",
 );
 ```
 <p align="center">
