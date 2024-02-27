@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 45-46,
-    shloka: "अहो बत महत्पापं कर्तुं व्यवसिता वयम् |यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यता: || 45||यदि मामप्रतीकारमशस्त्रं शस्त्रपाणय: |धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् || 46||",
-    translation: "1.45-46: Alas! How strange it is that we have set our mind to perform this great sin with horrifying consequences. Driven by the desire for kingly pleasures, we are intent on killing our own kinsmen. It would be better if, with weapons in hand, the sons of Dhritarashtra kill me unarmed and unresisting on the battlefield.",
-    hindi_translation: "1.45-46: ओह! कितने आश्चर्य की बात है कि हम मानसिक रूप से इस महा पापजन्य कर्म करने के लिए उद्यत हैं। राजसुख भोगने की इच्छा के प्रयोजन से हम अपने वंशजों का वध करना चाहते हैं। यदि धृतराष्ट्र के शस्त्र युक्त पुत्र मुझ निहत्थे को रणभूमि में प्रतिरोध किए बिना भी मार देते हैं तब यह मेरे लिए श्रेयस्कर होगा।",
+    chapter: 8,
+    verse: 6,
+    shloka: "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् |तं तमेवैति कौन्तेय सदा तद्भावभावित: || 6||",
+    translation: "8.6: Whatever one remembers upon giving up the body at the time of death, O son of Kunti, one attains that state, being always absorbed in such contemplation.",
+    hindi_translation: "8.6: हे कुन्ती पुत्र! मृत्यु के समय शरीर छोड़ते हुए मनुष्य जिसका स्मरण करता है वह उसी गति को प्राप्त होता है क्योंकि वह सदैव ऐसे चिन्तन में लीन रहता है।",
 );
 ```
 <p align="center">
