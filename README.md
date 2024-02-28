@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 6,
-    shloka: "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् |तं तमेवैति कौन्तेय सदा तद्भावभावित: || 6||",
-    translation: "8.6: Whatever one remembers upon giving up the body at the time of death, O son of Kunti, one attains that state, being always absorbed in such contemplation.",
-    hindi_translation: "8.6: हे कुन्ती पुत्र! मृत्यु के समय शरीर छोड़ते हुए मनुष्य जिसका स्मरण करता है वह उसी गति को प्राप्त होता है क्योंकि वह सदैव ऐसे चिन्तन में लीन रहता है।",
+    chapter: 14,
+    verse: 8,
+    shloka: "तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् |प्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत || 8||",
+    translation: "14.8: O Arjun, tamo guṇa, which is born of ignorance, is the cause of illusion for the embodied souls. It deludes all living beings through negligence, laziness, and sleep.",
+    hindi_translation: "14.8: हे अर्जुन! तमोगुण जो अज्ञानता के कारण उत्पन्न होता है और देहधारियों जीवात्माओं के लिए मोह का कारण है। यह सभी जीवों को असावधानी, आलस्य और निद्रा द्वारा भ्रमित करता है।",
 );
 ```
 <p align="center">
