@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 14,
-    verse: 8,
-    shloka: "तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् |प्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत || 8||",
-    translation: "14.8: O Arjun, tamo guṇa, which is born of ignorance, is the cause of illusion for the embodied souls. It deludes all living beings through negligence, laziness, and sleep.",
-    hindi_translation: "14.8: हे अर्जुन! तमोगुण जो अज्ञानता के कारण उत्पन्न होता है और देहधारियों जीवात्माओं के लिए मोह का कारण है। यह सभी जीवों को असावधानी, आलस्य और निद्रा द्वारा भ्रमित करता है।",
+    chapter: 7,
+    verse: 7,
+    shloka: "मत्त: परतरं नान्यत्किञ्चिदस्ति धनञ्जय |मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव || 7||",
+    translation: "7.7: There is nothing higher than Myself, O Arjun. Everything rests in Me, as beads strung on a thread.",
+    hindi_translation: "7.7: हे अर्जुन! मुझसे श्रेष्ठ कोई नहीं है। सब कुछ मुझ पर उसी प्रकार से आश्रित है, जिस प्रकार से धागे में गुंथे मोती।",
 );
 ```
 <p align="center">
