@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 7,
-    verse: 7,
-    shloka: "मत्त: परतरं नान्यत्किञ्चिदस्ति धनञ्जय |मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव || 7||",
-    translation: "7.7: There is nothing higher than Myself, O Arjun. Everything rests in Me, as beads strung on a thread.",
-    hindi_translation: "7.7: हे अर्जुन! मुझसे श्रेष्ठ कोई नहीं है। सब कुछ मुझ पर उसी प्रकार से आश्रित है, जिस प्रकार से धागे में गुंथे मोती।",
+    chapter: 18,
+    verse: 29,
+    shloka: "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु |प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय || 29||",
+    translation: "18.29: Hear now, O Arjun, of the distinctions of intellect and determination, according to the three modes of material nature, as I describe them in detail.",
+    hindi_translation: "18.29: हे अर्जुन! अब मैं प्रकृति के तीनों गुणों के अनुसार तुम्हें विभिन्न प्रकार की बुद्धि तथा वृति के विषय में विस्तार से बता रहा हूँ। तुम उसे सुनो।",
 );
 ```
 <p align="center">
