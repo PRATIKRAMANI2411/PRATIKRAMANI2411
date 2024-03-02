@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 29,
-    shloka: "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु |प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय || 29||",
-    translation: "18.29: Hear now, O Arjun, of the distinctions of intellect and determination, according to the three modes of material nature, as I describe them in detail.",
-    hindi_translation: "18.29: हे अर्जुन! अब मैं प्रकृति के तीनों गुणों के अनुसार तुम्हें विभिन्न प्रकार की बुद्धि तथा वृति के विषय में विस्तार से बता रहा हूँ। तुम उसे सुनो।",
+    chapter: 2,
+    verse: 6,
+    shloka: "न चैतद्विद्म: कतरन्नो गरीयोयद्वा जयेम यदि वा नो जयेयु: |यानेव हत्वा न जिजीविषामस्तेऽवस्थिता: प्रमुखे धार्तराष्ट्रा: || 6||",
+    translation: "2.6: We do not even know which result of this war is preferable for us—conquering them or being conquered by them. Even after killing them we will not desire to live. Yet they have taken the side of Dhritarasthra, and now stand before us on the battlefield.",
+    hindi_translation: "2.6: हम यह भी नहीं जानते कि इस युद्ध का परिणाम हमारे लिए किस प्रकार से श्रेयस्कर होगा। उन पर विजय पाकर या उनसे पराजित होकर। यद्यपि उन्होंने धृतराष्ट्र का पक्ष लिया है और अब वे युद्धभूमि में हमारे सम्मुख खड़े हैं तथापि उनको मारकर हमारी जीवित रहने की कोई इच्छा नहीं होगी।",
 );
 ```
 <p align="center">
