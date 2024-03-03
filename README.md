@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
+    chapter: 3,
     verse: 6,
-    shloka: "न चैतद्विद्म: कतरन्नो गरीयोयद्वा जयेम यदि वा नो जयेयु: |यानेव हत्वा न जिजीविषामस्तेऽवस्थिता: प्रमुखे धार्तराष्ट्रा: || 6||",
-    translation: "2.6: We do not even know which result of this war is preferable for us—conquering them or being conquered by them. Even after killing them we will not desire to live. Yet they have taken the side of Dhritarasthra, and now stand before us on the battlefield.",
-    hindi_translation: "2.6: हम यह भी नहीं जानते कि इस युद्ध का परिणाम हमारे लिए किस प्रकार से श्रेयस्कर होगा। उन पर विजय पाकर या उनसे पराजित होकर। यद्यपि उन्होंने धृतराष्ट्र का पक्ष लिया है और अब वे युद्धभूमि में हमारे सम्मुख खड़े हैं तथापि उनको मारकर हमारी जीवित रहने की कोई इच्छा नहीं होगी।",
+    shloka: "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् |इन्द्रियार्थान्विमूढात्मा मिथ्याचार: स उच्यते || 6||",
+    translation: "3.6: Those who restrain the external organs of action, while continuing to dwell on sense objects in the mind, certainly delude themselves and are to be called hypocrites.",
+    hindi_translation: "3.6: जो अपनी कर्मेन्द्रियों के बाह्य घटकों को तो नियंत्रित करते हैं लेकिन मन से इन्द्रियों के विषयों का चिन्तन करते हैं, वे निःसन्देह स्वयं को धोखा देते हैं और पाखण्डी कहलाते हैं।",
 );
 ```
 <p align="center">
