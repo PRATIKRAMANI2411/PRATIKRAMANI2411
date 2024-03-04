@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 6,
-    shloka: "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् |इन्द्रियार्थान्विमूढात्मा मिथ्याचार: स उच्यते || 6||",
-    translation: "3.6: Those who restrain the external organs of action, while continuing to dwell on sense objects in the mind, certainly delude themselves and are to be called hypocrites.",
-    hindi_translation: "3.6: जो अपनी कर्मेन्द्रियों के बाह्य घटकों को तो नियंत्रित करते हैं लेकिन मन से इन्द्रियों के विषयों का चिन्तन करते हैं, वे निःसन्देह स्वयं को धोखा देते हैं और पाखण्डी कहलाते हैं।",
+    chapter: 14,
+    verse: 9,
+    shloka: "सत्त्वं सुखे सञ्जयति रज: कर्मणि भारत |ज्ञानमावृत्य तु तम: प्रमादे सञ्जयत्युत || 9||",
+    translation: "14.9: Sattva binds one to material happiness; rajas conditions the soul toward actions; and tamas clouds wisdom and binds one to delusion.",
+    hindi_translation: "14.9: सत्वगुण सांसारिक सुखों में बांधता है, रजोगुण आत्मा को सकाम कर्मों की ओर प्रवृत्त करता है और तमोगुण ज्ञान को आच्छादित कर आत्मा को भ्रम में रखता है।",
 );
 ```
 <p align="center">
