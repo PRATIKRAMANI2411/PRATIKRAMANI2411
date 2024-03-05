@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 14,
-    verse: 9,
-    shloka: "सत्त्वं सुखे सञ्जयति रज: कर्मणि भारत |ज्ञानमावृत्य तु तम: प्रमादे सञ्जयत्युत || 9||",
-    translation: "14.9: Sattva binds one to material happiness; rajas conditions the soul toward actions; and tamas clouds wisdom and binds one to delusion.",
-    hindi_translation: "14.9: सत्वगुण सांसारिक सुखों में बांधता है, रजोगुण आत्मा को सकाम कर्मों की ओर प्रवृत्त करता है और तमोगुण ज्ञान को आच्छादित कर आत्मा को भ्रम में रखता है।",
+    chapter: 17,
+    verse: 28,
+    shloka: "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् |असदित्युच्यते पार्थ न च तत्प्रेत्य नो इह || 28||",
+    translation: "17.28: O son of Pritha, whatever acts of sacrifice or penance are done without faith, are termed as “Asat.” They are useless both in this world and the next.",
+    hindi_translation: "17.28: हे पृथा पुत्र! जो भी यज्ञकर्म या तप बिना श्रद्धा के किए जाते हैं वे 'असत्' कहलाते है। ये इस लोक और परलोक दोनों में व्यर्थ जाते हैं।",
 );
 ```
 <p align="center">
