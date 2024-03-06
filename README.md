@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 28,
-    shloka: "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् |असदित्युच्यते पार्थ न च तत्प्रेत्य नो इह || 28||",
-    translation: "17.28: O son of Pritha, whatever acts of sacrifice or penance are done without faith, are termed as “Asat.” They are useless both in this world and the next.",
-    hindi_translation: "17.28: हे पृथा पुत्र! जो भी यज्ञकर्म या तप बिना श्रद्धा के किए जाते हैं वे 'असत्' कहलाते है। ये इस लोक और परलोक दोनों में व्यर्थ जाते हैं।",
+    chapter: 6,
+    verse: 40,
+    shloka: "श्रीभगवानुवाच |पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते |न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति || 40||",
+    translation: "6.40: The Supreme Lord said: O Parth, one who engages on the spiritual path does not meet with destruction either in this world or the world to come. My dear friend, one who strives for God-realization is never overcome by evil.",
+    hindi_translation: "6.40: परमेश्वर श्रीकृष्ण ने कहाः हे पृथा पुत्र! आध्यात्मिक पथ का अनुसरण करने वाले योगी का न तो इस लोक में और न ही परलोक में विनाश होता है। मेरे प्रिय मित्र। भगवद्प्राप्ति के मार्ग पर चलने वाले को बुराई पराजित नहीं कर सकती।",
 );
 ```
 <p align="center">
