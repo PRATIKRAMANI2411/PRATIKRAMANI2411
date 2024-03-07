@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 6,
-    verse: 40,
-    shloka: "श्रीभगवानुवाच |पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते |न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति || 40||",
-    translation: "6.40: The Supreme Lord said: O Parth, one who engages on the spiritual path does not meet with destruction either in this world or the world to come. My dear friend, one who strives for God-realization is never overcome by evil.",
-    hindi_translation: "6.40: परमेश्वर श्रीकृष्ण ने कहाः हे पृथा पुत्र! आध्यात्मिक पथ का अनुसरण करने वाले योगी का न तो इस लोक में और न ही परलोक में विनाश होता है। मेरे प्रिय मित्र। भगवद्प्राप्ति के मार्ग पर चलने वाले को बुराई पराजित नहीं कर सकती।",
+    chapter: 9,
+    verse: 5,
+    shloka: "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् |भूतभृन्न च भूतस्थो ममात्मा भूतभावन: || 5||",
+    translation: "9.5: And yet, the living beings do not abide in Me. Behold the mystery of My divine energy! Although I am the Creator and Sustainer of all living beings, I am not influenced by them or by material nature.",
+    hindi_translation: "9.5: मेरी दिव्य शक्तियों के रहस्य को देखो। यद्यपि मैं सभी जीवित प्राणियों का रचयिता और पालक हूँ तथापि मेरे द्वारा उत्पन्न प्राणी मुझमें स्थित नहीं रहते और मैं उनसे या प्राकृतिक शक्ति से प्रभावित नहीं होता।",
 );
 ```
 <p align="center">
