@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 9,
+    chapter: 7,
     verse: 5,
-    shloka: "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् |भूतभृन्न च भूतस्थो ममात्मा भूतभावन: || 5||",
-    translation: "9.5: And yet, the living beings do not abide in Me. Behold the mystery of My divine energy! Although I am the Creator and Sustainer of all living beings, I am not influenced by them or by material nature.",
-    hindi_translation: "9.5: मेरी दिव्य शक्तियों के रहस्य को देखो। यद्यपि मैं सभी जीवित प्राणियों का रचयिता और पालक हूँ तथापि मेरे द्वारा उत्पन्न प्राणी मुझमें स्थित नहीं रहते और मैं उनसे या प्राकृतिक शक्ति से प्रभावित नहीं होता।",
+    shloka: "अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् |जीवभूतां महाबाहो ययेदं धार्यते जगत् || 5||",
+    translation: "7.5: Such is My inferior energy. But beyond it, O mighty-armed Arjun, I have a superior energy. This is the jīva śhakti (the soul energy), which comprises the embodied souls who are the basis of life in this world.",
+    hindi_translation: "7.5: ये मेरी अपरा शक्तियाँ हैं किन्तु हे महाबाहु अर्जुन! इनसे अतिरिक्त मेरी परा शक्ति है। यह जीव शक्ति है जिसमें देहधारी आत्माएँ (जीवन रूप) सम्मिलित हैं जो इस संसार के जीवन का आधार हैं।",
 );
 ```
 <p align="center">
