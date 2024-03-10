@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 15,
+    chapter: 14,
     verse: 7,
-    shloka: "ममैवांशो जीवलोके जीवभूत: सनातन: |मन:षष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति || 7||",
-    translation: "15.7: The embodied souls in this material world are My eternal fragmental parts. But bound by material nature, they are struggling with the six senses including the mind.",
-    hindi_translation: "15.7: इस भौतिक संसार की आत्माएँ मेरा शाश्वत अणु अंश हैं लेकिन प्राकृत शक्ति के बंधन के कारण वे मन सहित छः इन्द्रियों के साथ संघर्ष करती हैं।",
+    shloka: "रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् | तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् || 7||",
+    translation: "14.7: O Arjun, rajo guṇa is of the nature of passion. It arises from worldly desires and affections, and binds the soul through attachment to fruitive actions.",
+    hindi_translation: "14.7: हे अर्जुन! रजोगुण की प्रकृति मोह है। यह सांसारिक आकांक्षाओं और आकर्षणों से उत्पन्न होता है और आसक्ति के माध्यम से आत्मा को कर्म के प्रतिफलों में बांधता है।",
 );
 ```
 <p align="center">
