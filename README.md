@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 14,
-    verse: 7,
-    shloka: "रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् | तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् || 7||",
-    translation: "14.7: O Arjun, rajo guṇa is of the nature of passion. It arises from worldly desires and affections, and binds the soul through attachment to fruitive actions.",
-    hindi_translation: "14.7: हे अर्जुन! रजोगुण की प्रकृति मोह है। यह सांसारिक आकांक्षाओं और आकर्षणों से उत्पन्न होता है और आसक्ति के माध्यम से आत्मा को कर्म के प्रतिफलों में बांधता है।",
+    chapter: 16,
+    verse: 22,
+    shloka: "एतैर्विमुक्त: कौन्तेय तमोद्वारैस्त्रिभिर्नर: |आचरत्यात्मन: श्रेयस्ततो याति परां गतिम् || 22||",
+    translation: "16.22: Those who are freed from the three gates to darkness endeavor for the welfare of their soul, and thereby attain the supreme goal.",
+    hindi_translation: "16.22: जो अंधकार रूपी तीन द्वारों से मुक्त होते हैं वे अपनी आत्मा के कल्याण के लिए चेष्टा करते हैं और इस प्रकार से परम लक्ष्य को प्राप्त करते हैं।",
 );
 ```
 <p align="center">
