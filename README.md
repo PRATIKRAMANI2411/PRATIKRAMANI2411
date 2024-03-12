@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 16,
+    chapter: 5,
     verse: 22,
-    shloka: "एतैर्विमुक्त: कौन्तेय तमोद्वारैस्त्रिभिर्नर: |आचरत्यात्मन: श्रेयस्ततो याति परां गतिम् || 22||",
-    translation: "16.22: Those who are freed from the three gates to darkness endeavor for the welfare of their soul, and thereby attain the supreme goal.",
-    hindi_translation: "16.22: जो अंधकार रूपी तीन द्वारों से मुक्त होते हैं वे अपनी आत्मा के कल्याण के लिए चेष्टा करते हैं और इस प्रकार से परम लक्ष्य को प्राप्त करते हैं।",
+    shloka: "ये हि संस्पर्शजा भोगा दु:खयोनय एव ते |आद्यन्तवन्त: कौन्तेय न तेषु रमते बुध: || 22||",
+    translation: "5.22: The pleasures that arise from contact with the sense objects, though appearing as enjoyable to worldly-minded people, are verily a source of misery. O son of Kunti, such pleasures have a beginning and an end, so the wise do not delight in them.",
+    hindi_translation: "5.22: इन्द्रिय विषयों के सम्पर्क से उत्पन्न होने वाले सुख यद्यपि सांसारिक मनोदृष्टि वाले लोगों को आनन्द प्रदान करने वाले प्रतीत होते हैं किन्तु वे वास्तव में दुखों के कारण हैं। हे कुन्तीपुत्र! ऐसे सुखों का आदि और अंत है इसलिए ज्ञानी पुरुष इनमें आनन्द नहीं लेते।",
 );
 ```
 <p align="center">
