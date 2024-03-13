@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 5,
-    verse: 22,
-    shloka: "ये हि संस्पर्शजा भोगा दु:खयोनय एव ते |आद्यन्तवन्त: कौन्तेय न तेषु रमते बुध: || 22||",
-    translation: "5.22: The pleasures that arise from contact with the sense objects, though appearing as enjoyable to worldly-minded people, are verily a source of misery. O son of Kunti, such pleasures have a beginning and an end, so the wise do not delight in them.",
-    hindi_translation: "5.22: इन्द्रिय विषयों के सम्पर्क से उत्पन्न होने वाले सुख यद्यपि सांसारिक मनोदृष्टि वाले लोगों को आनन्द प्रदान करने वाले प्रतीत होते हैं किन्तु वे वास्तव में दुखों के कारण हैं। हे कुन्तीपुत्र! ऐसे सुखों का आदि और अंत है इसलिए ज्ञानी पुरुष इनमें आनन्द नहीं लेते।",
+    verse: 29,
+    shloka: "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् |सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति || 29||",
+    translation: "5.29: Having realized Me as the enjoyer of all sacrifices and austerities, the Supreme Lord of all the worlds and the selfless friend of all living beings, My devotee attains peace.",
+    hindi_translation: "5.29: जो भक्त मुझे समस्त यज्ञों और तपस्याओं का भोक्ता, समस्त लोकों का परम भगवानऔर सभी प्राणियों का सच्चा हितैषी समझते हैं, वे परम शांति प्राप्त करते हैं।",
 );
 ```
 <p align="center">
