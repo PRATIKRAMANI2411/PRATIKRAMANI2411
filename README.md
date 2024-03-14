@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 29,
-    shloka: "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् |सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति || 29||",
-    translation: "5.29: Having realized Me as the enjoyer of all sacrifices and austerities, the Supreme Lord of all the worlds and the selfless friend of all living beings, My devotee attains peace.",
-    hindi_translation: "5.29: जो भक्त मुझे समस्त यज्ञों और तपस्याओं का भोक्ता, समस्त लोकों का परम भगवानऔर सभी प्राणियों का सच्चा हितैषी समझते हैं, वे परम शांति प्राप्त करते हैं।",
+    chapter: 3,
+    verse: 38,
+    shloka: "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च |यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् || 38||",
+    translation: "3.38: Just as a fire is covered by smoke, a mirror is masked by dust, and an embryo is concealed by the womb, similarly one’s knowledge gets shrouded by desire.",
+    hindi_translation: "3.38: जैसे अग्नि धुएँ से ढकी रहती है, दर्पण धूल से आवृत रहता है तथा भ्रूण गर्भाशय से अप्रकट रहता है, उसी प्रकार से कामनाओं के कारण मनुष्य के ज्ञान पर आवरण पड़ा रहता है।",
 );
 ```
 <p align="center">
