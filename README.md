@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 3,
-    verse: 38,
-    shloka: "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च |यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् || 38||",
-    translation: "3.38: Just as a fire is covered by smoke, a mirror is masked by dust, and an embryo is concealed by the womb, similarly one’s knowledge gets shrouded by desire.",
-    hindi_translation: "3.38: जैसे अग्नि धुएँ से ढकी रहती है, दर्पण धूल से आवृत रहता है तथा भ्रूण गर्भाशय से अप्रकट रहता है, उसी प्रकार से कामनाओं के कारण मनुष्य के ज्ञान पर आवरण पड़ा रहता है।",
+    chapter: 13,
+    verse: 17,
+    shloka: "अविभक्तं च भूतेषु विभक्तमिव च स्थितम् |भूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च || 17||",
+    translation: "13.17: He is indivisible, yet He appears to be divided amongst living beings. Know the Supreme Entity to be the Sustainer, Annihilator, and Creator of all beings.",
+    hindi_translation: "13.17: यद्यपि भगवान सभी जीवों के बीच विभाजित प्रतीत होता है किन्तु वह अविभाजित है। यह समझना होगा कि परमात्मा सबका पालनकर्ता, संहारक और सभी जीवों का जनक है।",
 );
 ```
 <p align="center">
