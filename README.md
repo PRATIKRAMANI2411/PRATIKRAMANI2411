@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 8,
-    verse: 3,
-    shloka: "श्रीभगवानुवाच |अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते |भूतभावोद्भवकरो विसर्ग: कर्मसञ्ज्ञित: || 3||",
-    translation: "8.3: The Lord said: The Supreme Indestructible Entity is called Brahman; one’s own self is called adhyatma. Actions pertaining to the material personality of living beings, and its development are called karma, or fruitive activities.",
-    hindi_translation: "8.3: परम कृपालु भगवान ने कहाः परम अविनाशी सत्ता को ब्रह्म कहा जाता है। किसी मनुष्य की अपनी आत्मा को अध्यात्म कहा जाता है। प्राणियों के दैहिक व्यक्तित्व से संबंधित कर्मों और उनकी विकास प्रक्रिया को कर्म या साकाम कर्म कहा जाता है।",
+    chapter: 2,
+    verse: 40,
+    shloka: "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते |स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् || 40||",
+    translation: "2.40: Working in this state of consciousness, there is no loss or adverse result, and even a little effort saves one from great danger.",
+    hindi_translation: "2.40: इस चेतनावस्था में कर्म करने से किसी प्रकार की हानि या प्रतिकूल परिणाम प्राप्त नहीं होते अपितु इस प्रकार से किया गया अल्प प्रयास भी बड़े से बड़े भय से हमारी रक्षा करता है।",
 );
 ```
 <p align="center">
