@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 2,
-    verse: 40,
-    shloka: "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते |स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् || 40||",
-    translation: "2.40: Working in this state of consciousness, there is no loss or adverse result, and even a little effort saves one from great danger.",
-    hindi_translation: "2.40: इस चेतनावस्था में कर्म करने से किसी प्रकार की हानि या प्रतिकूल परिणाम प्राप्त नहीं होते अपितु इस प्रकार से किया गया अल्प प्रयास भी बड़े से बड़े भय से हमारी रक्षा करता है।",
+    verse: 2,
+    shloka: "श्रीभगवानुवाच |कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् |अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन || 2||",
+    translation: "2.2: The Supreme Lord said: My dear Arjun, how has this delusion overcome you in this hour of peril? It is not befitting an honorable person. It leads not to the higher abodes, but to disgrace.",
+    hindi_translation: "2.2: परमात्मा श्रीकृष्ण ने कहाः मेरे प्रिय अर्जुन! इस संकट की घड़ी में तुम्हारे भीतर यह विमोह कैसे उत्पन्न हुआ? यह सम्माननीय लोगों के अनुकूल नहीं है। इससे उच्च लोकों की प्राप्ति नहीं होती अपितु अपयश प्राप्त होता है।",
 );
 ```
 <p align="center">
