@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 2,
-    shloka: "श्रीभगवानुवाच |कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् |अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन || 2||",
-    translation: "2.2: The Supreme Lord said: My dear Arjun, how has this delusion overcome you in this hour of peril? It is not befitting an honorable person. It leads not to the higher abodes, but to disgrace.",
-    hindi_translation: "2.2: परमात्मा श्रीकृष्ण ने कहाः मेरे प्रिय अर्जुन! इस संकट की घड़ी में तुम्हारे भीतर यह विमोह कैसे उत्पन्न हुआ? यह सम्माननीय लोगों के अनुकूल नहीं है। इससे उच्च लोकों की प्राप्ति नहीं होती अपितु अपयश प्राप्त होता है।",
+    chapter: 5,
+    verse: 16,
+    shloka: "ज्ञानेन तु तदज्ञानं येषां नाशितमात्मन: |तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् || 16||",
+    translation: "5.16: But for those whose ignorance is destroyed by divine knowledge, the Supreme Entity is revealed, just as the sun illumines everything when it rises.",
+    hindi_translation: "5.16: किन्तु जिनकी आत्मा का अज्ञान दिव्यज्ञान से विनष्ट हो जाता है उस ज्ञान से परमतत्त्व का प्रकाश उसी प्रकार से प्रकाशित हो जाता है जैसे दिन में सूर्य के प्रकाश से सभी वस्तुएँ प्रकाशित हो जाती हैं।",
 );
 ```
 <p align="center">
