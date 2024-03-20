@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 5,
-    verse: 16,
-    shloka: "ज्ञानेन तु तदज्ञानं येषां नाशितमात्मन: |तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् || 16||",
-    translation: "5.16: But for those whose ignorance is destroyed by divine knowledge, the Supreme Entity is revealed, just as the sun illumines everything when it rises.",
-    hindi_translation: "5.16: किन्तु जिनकी आत्मा का अज्ञान दिव्यज्ञान से विनष्ट हो जाता है उस ज्ञान से परमतत्त्व का प्रकाश उसी प्रकार से प्रकाशित हो जाता है जैसे दिन में सूर्य के प्रकाश से सभी वस्तुएँ प्रकाशित हो जाती हैं।",
+    chapter: 18,
+    verse: 18,
+    shloka: "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना |करणं कर्म कर्तेति त्रिविध: कर्मसंग्रह: || 18||",
+    translation: "18.18: Knowledge, the object of knowledge, and the knower—these are the three factors that induce action. The instrument of action, the act itself, and the doer—these are the three constituents of action.",
+    hindi_translation: "18.18: ज्ञान, ज्ञान का विषय और ज्ञाता-ये कर्म को प्रेरित करने वाले तीन कारक हैं। कर्म के उपादान, स्वयं कर्म और कर्ता-ये कर्म के तीन घटक हैं।",
 );
 ```
 <p align="center">
