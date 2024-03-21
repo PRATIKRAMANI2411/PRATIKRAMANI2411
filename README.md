@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 18,
-    verse: 18,
-    shloka: "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना |करणं कर्म कर्तेति त्रिविध: कर्मसंग्रह: || 18||",
-    translation: "18.18: Knowledge, the object of knowledge, and the knower—these are the three factors that induce action. The instrument of action, the act itself, and the doer—these are the three constituents of action.",
-    hindi_translation: "18.18: ज्ञान, ज्ञान का विषय और ज्ञाता-ये कर्म को प्रेरित करने वाले तीन कारक हैं। कर्म के उपादान, स्वयं कर्म और कर्ता-ये कर्म के तीन घटक हैं।",
+    chapter: 2,
+    verse: 62,
+    shloka: "ध्यायतो विषयान्पुंस: सङ्गस्तेषूपजायते |सङ्गात्सञ्जायते काम: कामात्क्रोधोऽभिजायते || 62||",
+    translation: "2.62: While contemplating on the objects of the senses, one develops attachment to them. Attachment leads to desire, and from desire arises anger.",
+    hindi_translation: "2.62: इन्द्रियों के विषयों का चिंतन करते हुए मनुष्य उनमें आसक्त हो जाता है और आसक्ति कामना की ओर ले जाती है और कामना से क्रोध उत्पन्न होता है।",
 );
 ```
 <p align="center">
