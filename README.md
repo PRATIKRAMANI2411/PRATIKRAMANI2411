@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 2,
-    verse: 62,
-    shloka: "ध्यायतो विषयान्पुंस: सङ्गस्तेषूपजायते |सङ्गात्सञ्जायते काम: कामात्क्रोधोऽभिजायते || 62||",
-    translation: "2.62: While contemplating on the objects of the senses, one develops attachment to them. Attachment leads to desire, and from desire arises anger.",
-    hindi_translation: "2.62: इन्द्रियों के विषयों का चिंतन करते हुए मनुष्य उनमें आसक्त हो जाता है और आसक्ति कामना की ओर ले जाती है और कामना से क्रोध उत्पन्न होता है।",
+    chapter: 10,
+    verse: 4-5,
+    shloka: "बुद्धिर्ज्ञानमसम्मोह: क्षमा सत्यं दम: शम: |सुखं दु:खं भवोऽभावो भयं चाभयमेव च || 4||अहिंसा समता तुष्टिस्तपो दानं यशोऽयश: |भवन्ति भावा भूतानां मत्त एव पृथग्विधा: || 5||",
+    translation: "10.4-5: From me alone arise the varieties of qualities in humans, such as intellect, knowledge, clarity of thought, forgiveness, truthfulness, control over the senses and mind, joy and sorrow, birth and death, fear and courage, non-violence, equanimity, contentment, austerity, charity, fame, and infamy.",
+    hindi_translation: "10.4-5: जीवों में विविध प्रकार के गुण जैसे-बुद्धि, ज्ञान, विचारों की स्पष्टता, क्षमा, सत्यता, इन्द्रियों और मन पर नियंत्रण, सुख और दुख, जन्म-मृत्यु, भय, निडरता, अहिंसा, समता, तुष्टि, तप, दान, यश और अपयश केवल मुझसे ही उत्पन्न होते हैं।",
 );
 ```
 <p align="center">
