@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 17,
-    verse: 25,
-    shloka: "तदित्यनभिसन्धाय फलं यज्ञतप:क्रिया: |दानक्रियाश्च विविधा: क्रियन्ते मोक्षकाङ्क्षिभि: || 25||",
-    translation: "17.25: Persons who do not desire fruitive rewards, but seek to be free from material entanglements, utter the word “Tat” along with acts of austerity, sacrifice, and charity.",
-    hindi_translation: "17.25: ऐसे व्यक्ति जो किसी फल की कामना नहीं करते किन्तु भौतिक उलझनों से मुक्त रहना चाहते हैं वे तप, यज्ञ तथा दान जैसे कार्य करते समय 'तत्' शब्द का उच्चारण करते हैं।",
+    chapter: 1,
+    verse: 47,
+    shloka: "सञ्जय उवाच |एवमुक्त्वार्जुन: सङ्ख्ये रथोपस्थ उपाविशत् |विसृज्य सशरं चापं शोकसंविग्नमानस: || 47||",
+    translation: "1.47: Sanjay said: Speaking thus, Arjun cast aside his bow and arrows, and sank into the seat of his chariot, his mind in distress and overwhelmed with grief.",
+    hindi_translation: "1.47: संजय ने कहा-इस प्रकार यह कह कर अर्जुन ने अपना धनुष और बाणों को एक ओर रख दिया और शोकाकुल चित्त से अपने रथ के आसन पर बैठ गया, उसका मन व्यथा और दुख से भर गया।",
 );
 ```
 <p align="center">
