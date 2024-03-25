@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 1,
-    verse: 47,
-    shloka: "सञ्जय उवाच |एवमुक्त्वार्जुन: सङ्ख्ये रथोपस्थ उपाविशत् |विसृज्य सशरं चापं शोकसंविग्नमानस: || 47||",
-    translation: "1.47: Sanjay said: Speaking thus, Arjun cast aside his bow and arrows, and sank into the seat of his chariot, his mind in distress and overwhelmed with grief.",
-    hindi_translation: "1.47: संजय ने कहा-इस प्रकार यह कह कर अर्जुन ने अपना धनुष और बाणों को एक ओर रख दिया और शोकाकुल चित्त से अपने रथ के आसन पर बैठ गया, उसका मन व्यथा और दुख से भर गया।",
+    chapter: 2,
+    verse: 25,
+    shloka: "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते |तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि || 25||",
+    translation: "2.25: The soul is spoken of as invisible, inconceivable, and unchangeable. Knowing this, you should not grieve for the body.",
+    hindi_translation: "2.25: इस आत्मा को अदृश्य, अचिंतनीय और अपरिवर्तनशील कहा गया है। यह जानकर हमें शरीर के लिए शोक प्रकट नहीं करना चाहिए।",
 );
 ```
 <p align="center">
