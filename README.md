@@ -13,11 +13,11 @@ const dev = Developer(
 // Bhagavad Gita sholk(verse) of the day.
 
 const verseOfTheDay = Verse(
-    chapter: 13,
-    verse: 28,
-    shloka: "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् |विनश्यत्स्वविनश्यन्तं य: पश्यति स पश्यति || 28||",
-    translation: "13.28: They alone truly see, who perceive the Paramātmā (Supreme Soul) accompanying the soul in all beings, and who understand both to be imperishable in this perishable body.",
-    hindi_translation: "13.28: जो परमात्मा को सभी जीवों में आत्मा के साथ देखता है और जो इस नश्वर शरीर में दोनों को अविनाशी समझता है केवल वही वास्तव में समझता है।।",
+    chapter: 18,
+    verse: 46,
+    shloka: "यत: प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् |स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानव: || 46||",
+    translation: "18.46: By performing one’s natural occupation, one worships the Creator from whom all living entities have come into being, and by whom the whole universe is pervaded. By such performance of work, a person easily attains perfection.",
+    hindi_translation: "18.46: अपनी स्वाभाविक वृत्ति का निर्वहन करते हुए उस सृजक भगवान की उपासना करो जिससे सभी जीव अस्तित्त्व में आते हैं और जिसके द्वारा सारा ब्रह्माण्ड प्रकट होता है। इस प्रकार से अपने कर्मों को सम्पन्न करते हुए मनुष्य सरलता से पूर्णता प्राप्त कर सकता है।",
 );
 ```
 <p align="center">
