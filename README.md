@@ -14,10 +14,10 @@ const dev = Developer(
 
 const verseOfTheDay = Verse(
     chapter: 18,
-    verse: 46,
-    shloka: "यत: प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् |स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानव: || 46||",
-    translation: "18.46: By performing one’s natural occupation, one worships the Creator from whom all living entities have come into being, and by whom the whole universe is pervaded. By such performance of work, a person easily attains perfection.",
-    hindi_translation: "18.46: अपनी स्वाभाविक वृत्ति का निर्वहन करते हुए उस सृजक भगवान की उपासना करो जिससे सभी जीव अस्तित्त्व में आते हैं और जिसके द्वारा सारा ब्रह्माण्ड प्रकट होता है। इस प्रकार से अपने कर्मों को सम्पन्न करते हुए मनुष्य सरलता से पूर्णता प्राप्त कर सकता है।",
+    verse: 61,
+    shloka: "ईश्वर: सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति |भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया || 61||",
+    translation: "18.61: The Supreme Lord dwells in the hearts of all living beings, O Arjun. According to their karmas, he directs the wanderings of the souls, who are seated on a machine made of the material energy.",
+    hindi_translation: "18.61: हे अर्जुन! परमात्मा सभी जीवों के हृदय में निवास करता है। उनके कर्मों के अनुसार वह भटकती आत्माओं को निर्देशित करता है जो भौतिक शक्ति से निर्मित यंत्र पर सवार होती है।",
 );
 ```
 <p align="center">
